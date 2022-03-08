@@ -1,0 +1,130 @@
+<speak>
+PC 12 Emergency Checklist Memory Items.
+<break time="1200ms"/>
+
+Engine Fire on Ground.
+<break time="1200ms"/>
+Power Control Lever. Cut-off, feather. <break time="1s"/>
+ECS Emergency Shut Off. Pull. <break time="1s"/>
+Fuel Emergency Shut Off. Press latch down, Pull. <break time="1s"/>
+Radio. Make an Emergency Call. <break time="1s"/>
+Electrical Power. Emergency off. <break time="1s"/>
+Parking brake. Off. <break time="1s"/>
+Aircraft. Evacuate. <break time="1s"/>
+Fire. Extinguish. <break time="1s"/>
+<break time="1200ms"/>
+
+Engine Fire in Flight.
+<break time="1200ms"/>
+Engine power. Reduce to minimum required. <break time="1s"/>
+ECS Emergency shut off. Pull. <break time="1s"/>
+Oxygen masks. On all occupants. <break time="1s"/>
+<break time="1200ms"/>>
+
+Rejected Takeoff, Not Engine Related.
+<break time="1200ms"/>
+Power Control Lever. Idle. <break time="1s"/>
+Engine Reverse. As required. <break time="1s"/>
+Braking. As required. <break time="1s"/>
+If Aircraft cannot be stopped on the runway. <break time="1s"/>
+Condition lever. Cutoff, feather. <break time="1s"/>
+Fuel Emergency Shut Off. Press latch down, Pull. <break time="1s"/>
+Master Power switch. Emergency Off. <break time="1s"/>
+After Aircraft is stopped. Evacuate. <break time="1s"/>
+<break time="1200ms"/>
+
+Engine failure, before rotation.
+<break time="1200ms"/>
+Power Control Lever. Idle. <break time="1s"/>
+Braking. As required. <break time="1s"/>
+If runway overrun or collision is likely, then. <break time="1s"/>
+Condition lever. Cutoff, feather. <break time="1s"/>
+Fuel Emergency Shut Off. Press latch down, Pull. <break time="1s"/>
+Master Power switch. Emergency Off. <break time="1s"/>
+After Aircraft is stopped. Evacuate. <break time="1s"/>
+<break time="1200ms"/>
+
+Engine failure, after rotation, gear down.
+<break time="1200ms"/>
+Aircraft. Land straight ahead, turn to avoid obstacles. <break time="1s"/>
+Flaps. Set to 40 degrees. <break time="1s"/>
+Final Approach speed. 84 Knots. <break time="1s"/>
+Power control lever. Idle. <break time="1s"/>
+Condition lever. Cutoff, feather. <break time="1s"/>
+Fuel Emergency Shut Off. Press latch down, Pull. <break time="1s"/>
+After touchdown. Master power switch, emergency off. <break time="1s"/>
+After the aircraft has stopped. Evacuate. <break time="1s"/>
+<break time="1200ms"/>
+
+Engine failure, after rotation, gear up.
+<break time="1200ms"/>
+Landing gear. Down. <break time="1s"/>
+Non essential Override bus switch. Override. <break time="1s"/>
+Flaps. Set to 40 degrees. <break time="1s"/>
+Final approach speed. 98 Knots for flaps 15, 84 knots for flaps 40. <break time="1s"/>
+Power Control Lever. Idle. <break time="1s"/>
+Condition lever. Cutoff, feather. <break time="1s"/>
+Fuel Emergency Shut Off. Press latch down, Pull. <break time="1s"/>
+After touchdown. Master power switch, emergency off. <break time="1s"/>
+<break time="1200ms"/>
+
+Engine Failure in flight, partial power loss. //REVIEW Not a memory Item
+<break time="1200ms"/>
+Power control lever. Idle. <break time="1s"/>
+Manual Override Lever. Pull upwards and move slowly forward. <break time="1s"/>
+If engine compressor stalls or ITT is exceeded. Manual Override Lever, retard and move slowly forward. <break time="1s"/>
+If the engine falls below 50% N.G. Starter switch, Push for 2 seconds. <break time="1s"/>
+Manual Override Lever. Move forward to maintain a N.G. greater than 80%. Do not allow N.G. to fall below 65%. <break time="1s"/>
+In descent and until touchdown. Maintain 75% N.G. or greater. <break time="1s"/>
+After touchdown. Condition Lever Cutoff, feather. Do not attempt to taxi with Manual Override Lever. <break time="1s"/>
+<break time="1200ms"/>
+
+Engine failure in flight, total power loss.
+<break time="1200ms"/>
+Power control lever. Idle. <break time="1s"/>
+Condition lever. Cutoff, feather. <break time="1s"/>
+Remaining fuel. Check. <break time="1s"/>
+Place to land. Select and navigate. <break time="1s"/>
+<break time="1200ms"/>
+
+Fire, smoke or fumes in the cockpit.
+<break time="1200ms"/>
+Oxygen masks. On, all occupants. <break time="1s"/>
+Crew oxygen. 100%. <break time="1s"/>
+Passenger oxygen selector. On. <break time="1s"/>
+Passengers. Instruct to don masks. <break time="1s"/>
+Aircraft. Initiate descent to below 10000 feet or minimum safe altitude. <break time="1s"/>
+<break time="1200ms"/>
+
+
+Autopilot, Auto-trim Malfunction.
+<break time="1200ms"/>
+Airplane Control Wheel. Firmly Grasp. <break time="1s"/>
+Autopilot disengage Switch. Press. <break time="1s"/>
+Aircraft. Re-trim as necessary. <break time="1s"/>
+Autopilot Circuit Breaker. Pull via, Avionics 2 bus, Right-Hand rear, Row R 2. <break time="1s"/>
+<break time="1200ms"/>
+
+Inadvertent Pusher, Shaker.
+<break time="1200ms"/>
+Control wheel. Hold against the pusher force. <break time="1s"/>
+Pusher interrupt button. Press and hold. <break time="1s"/>
+Pusher system circuit breaker. Pull, battery bus, Left hand front, Column B3. <break time="1s"/>
+<break time="1200ms"/>
+
+Trim runaway.
+<break time="1200ms"/>
+Autopilot will beep constantly. <break time="1s"/>
+Trim interrupt switch. Interrupt. <break time="1s"/>
+If green CAWS Autopilot trim light and or white autopilot triple trim indicator is on. Autopilot circuit breaker pull, Avionics 2 bus, right hand rear, Column R2. <break time="1s"/>
+<break time="1200ms"/>
+
+Electrical power loss.
+<break time="1200ms"/>
+Master power switch. Check on and guarded. <break time="1s"/>
+Battery switches and generator switches. Check on. <break time="1s"/>
+<break time="1200ms"/>
+
+End checklist memory items.
+<break time="1200ms"/>
+</speak>

@@ -1,0 +1,179 @@
+<speak>
+Regulations and policy
+<break time="1200ms"/>
+
+When do you not need an alternate for your destination?
+<break time="1200ms"/>
+For one hour before or after the expected time of arrival, the ceiling must be at least 1,500 feet above the lowest circling approach Minimum Descent Altitude, or <break time="300ms"/>
+If a circling instrument approach procedure is not authorized, the ceiling must be at least 1,500 feet above the lowest ceiling minimums or 2,000 feet above airport elevation, whichever is higher, and <break time="300ms"/>
+The visibility must be forecast to be at least 3 statute miles, or 2 statute miles more than the lowest applicable visibility minimums, whichever is greater, for the instrument approach procedure to be used at the destination airport.
+<break time="1200ms"/>
+
+Alternate Airport IFR Weather Minimums.
+<break time="1200ms"/>
+For airports with at least one navigation facility, add 400 feet to the minimum descent altitude or decision altitude and 1 statute mile to the visibility. For airports with at least two navigation facilities and straight-in approaches to at least two different runways, add 200' to the minimum descent altitude or decision altitude and half of a statute mile to the visibility.
+<break time="1200ms"/>
+
+IFR takeoff minimums
+<break time="1200ms"/>
+Standard takeoff minimums for aircraft with 2 or less engines is 1 statute mile. If minimums are standard for the airport, then you can use the lowest CAT 1 minimum for the airport. Touchdown zone RVR <break time="300ms"/>(for RVR reporting) <break time="300ms"/> is controlling for the minimum visibilities (if reported). If the airport has a nonstandard takeoff minimum that are greater than standard, then the nonstandard minimum supersedes all others.
+<break time="1200ms"/>
+
+When is takeoff alternate required?
+<break time="1200ms"/>
+If the visibility is lower than the lowest approach minimums then you must have an alternate for your departure.
+<break time="1200ms"/>
+
+AAA
+<break time="1200ms"/>
+<break time="1200ms"/>
+
+
+
+
+Lost communication procedures
+<break time="1200ms"/>
+Transponder set to 7600. <break time="800ms"/>
+Route, <break time="300ms"/>Cleared, <break time="300ms"/>Expected, <break time="300ms"/>Filed. <break time="800ms"/>
+Altitude, highest of <break time="300ms"/>Assigned, <break time="300ms"/>Minimum enroute, <break time="300ms"/>expected altitude.
+<break time="1200ms"/>
+
+Land and hold short restrictions. 
+<break time="1200ms"/>
+- Landing distance should be A.F.M. plus 1000 feet. <break time="800ms"/>
+- No wet runways. <break time="800ms"/>
+- The runway must have electronic or visual approach guidance. <break time="800ms"/>
+- Weather of no less than a 1500 foot ceiling, and a visibility of no less than 5 statute miles. <break time="800ms"/>
+- Weather can be reduced to 1000 and 3 if a PAPI or VASI is installed and operational. <break time="800ms"/>
+- Where a rejected landing procedure is published, weather minima will be published in local flying directives. <break time="800ms"/>
+- LAH SO is not authorized if wind shear is reported in the 20 minutes prior to the LAH SO clearance. <break time="800ms"/>
+- Tailwind should be calm or less than 3 knots. <break time="800ms"/>
+- Night LAH SO only with approved LAH SO lighting installed. <break time="800ms"/>
+- Reference, Op spec Alpha Oh 2 7. <break time="800ms"/>
+<break time="1200ms"/>
+
+<break time="1200ms"/>
+Requirements for descending below the Decision or minimum descent altitudes. You need to have any of the following in sight.
+<break time="300ms"/>the runway or environment, 
+<break time="300ms"/> the approach lighting system, 
+<break time="300ms"/>the threshold marking or lighting, 
+<break time="300ms"/>the runway end identifier lights, 
+<break time="300ms"/>the VASI, 
+<break time="300ms"/>the touchdown zone markings or lights, 
+<break time="300ms"/> and the runway markings or lights. Additionally, you need the required flight visibility and can make a normal approach and landing.
+
+<break time="1200ms"/>
+Speed limit below 10000 feet. 250 knots. <break time="800ms"/>
+Speed limit below class Bravo airspace or a VFR corridor. 200 knots. <break time="800ms"/>
+Speed limit for class Charlie or Delta. 200 knots within 4 nautical miles and up to 2500 A. G. L. <break time="800ms"/>
+Rest requirements. 10 hours of rest within the preceding 24 hours to the start of duty. <break time="800ms"/>
+
+<break time="1200ms"/>
+Flight hour limits.
+<break time="300ms"/>8 hours per day, 
+<break time="300ms"/>500 hours per quarter, 
+<break time="300ms"/>800 hours every 2 consecutive quarters, 
+<break time="300ms"/>1400 hours per calendar year. 
+<break time="300ms"/>Reference, one thirty five, two sixty seven. 
+
+<break time="1200ms"/>
+Documents required. 
+<break time="300ms"/>Airworthiness certificate, 
+<break time="300ms"/>Aircraft registration, 
+<break time="300ms"/>Radio station licence for flights outside of the US, 
+<break time="300ms"/>Operating limitations, 
+<break time="300ms"/>weight and balance data, 
+<break time="300ms"/>avionics manuals, 
+<break time="300ms"/>company issued electronic flight bag, 
+<break time="300ms"/>aircraft maintenance logbook.
+<break time="1200s"/>
+
+135 Oxygen Requirements
+<break time="1200ms"/>
+For pilots. <break time="300ms"/>
+At MSL altitudes or cabin altitudes above 10000 through 12000 feet. Continuously after 30 minutes. <break time="800ms"/>
+Above 12000. Continuously. <break time="800ms"/>
+For passengers. <break time="300ms"/>
+At MSL altitudes or cabin altitudes above 10000 through 15000 feet. Available to supply at least 10% of passengers after 30 minutes at those altitudes. <break time="800ms"/>
+Above 15000 feet. Supplied to all passengers. <break time="800ms"/>
+Above 25000 feet in pressurized aircraft. At least a 10 minute supply to all occupants of the aircraft, for use in the event of the loss of cabin pressurization. 
+<break time="1000ms"/>
+Reference one thirty five, eighty nine and one fifty seven.
+<break time="1200ms"/>
+
+One thirty five V.F.R. minimums
+<break time="1200ms"/>
+VFR minimum altitudes. <break time="1000ms"/>
+Daytime, 500 feet above the surface and 500 feet horizontally from any obstacle. <break time="800ms"/>
+At night, 1000 feet above the highest obstacle within 5 miles of the course to be flown or 2000 feet in mountainous terrain. <break time="1000ms"/>
+VFR minimum visibility. <break time="1000ms"/>
+In uncontrolled airspace, not less than 1000 feet ceilings unless the flight visibility is at least 2 miles.
+<break time="800ms"/> Reference one thirty five two zero three and two zero five.
+<break time="1200ms"/>
+
+M.E.L. category durations
+<break time="1200ms"/>
+Category A. Defined in M.E.L. <break time="800ms"/>
+Category B. 3 days. <break time="800ms"/>
+Category C. 10 days. <break time="800ms"/>
+Category D. 120 days. <break time="800ms"/>
+<break time="1200ms"/>
+
+Medical certificate duration. First Class, 12 calendar months if under 40 and 6 months if 40 or older. Second class, 12 calendar months. Third class, 60 calendar months if under 40 and 24 calendar months if 40 or older. <break time="800ms"/>
+Pre-takeoff contamination check. Pre-takeoff contamination check must be done within 5 minutes of takeoff. <break time="800ms"/>
+Continuing an approach at the destination. Must have the required minimums to continue unless past the final approach fix on the approach. <break time="800ms"/>
+Width of a victor airway. 8 nautical miles, 4 miles on either side of the center. <break time="800ms"/>
+Standard holding pattern turning direction. To the right. <break time="800ms"/>
+Information to report to ATC upon entering a hold. Time and altitude reaching the clearance limit. Begin slowing to holding speed within 3 minutes or less. <break time="800ms"/>
+3 degree Glideslope calculation. Half of your ground speed multiplied by 10. <break time="800ms"/>
+</speak>
+
+
+
+
+
+
+
+<speak>
+Opspec Review
+<break time="1200ms"/>
+
+Alpha One. Primary Business Address. Doing business as names. Authorization to operate under part 91. <break time="800ms"/>
+Alpha two. Definitions and abbreviations. <break time="800ms"/> 
+Alpha three. Authorized aircraft types. <break time="800ms"/> 
+Alpha four. List of authorized opspec paragraphs. <break time="800ms"/> 
+Alpha six. List of management personel. <break time="300ms"/> 
+Chief Pilot, Andrew Munion. <break time="300ms"/> 
+Chief Pilot, Nathan Larson-Alexander. <break time="300ms"/> 
+Director of Operations, Jeremy Salveson. <break time="300ms"/> 
+Director of Quality Assurance, Steven Sobezak. <break time="300ms"/> 
+Director of Maintenance, George Tanos. <break time="800ms"/> 
+Alpha seven. List of designated persons. <break time="300ms"/> 
+Agent for service, Jeremy Salveson. <break time="300ms"/> 
+The Chief Pilot, Director of Maintenance, Director of Operations and director of quality assurance can apply for and recive op specs. <break time="800ms"/> 
+Alpha eight. List of persons with operational control. Consist of the Director of Operations, the Chief Pilot and the Director of Maintenance. <break time="800ms"/> 
+Alpha nine. Defines the means by which the certificate holder will obtain, maintain, and distribute aeronautical data for the airports it uses. Located in G.O.M chapter 5<break time="800ms"/> 
+Alpha ten. Approved sources of aviation weather information. <break time="800ms"/> 
+Alpha fifteen. Authorization to use an autopilot in lieu of a second in command along with a list of approved autopilot systems. <break time="800ms"/> 
+Alpha twenty four. Authorization to perform air ambulance operations.
+Alpha twenty five. Authorization to use electronic signatures, electronic record keeping systems and electronic manual systems along with a list of approved systems.
+Alpha twenty seven. Authorization to perform Land and Hold Short Operations. <break time="300ms"/> 
+Landing distance should be AFM plus 1000 feet. <break time="300ms"/>
+No wet runways. <break time="300ms"/>
+Runway must have electronic or visual approach guidance. <break time="300ms"/>
+Weather of no less than a 1500 foot ceiling and a visibility of no less than 5 statute miles. <break time="300ms"/>
+Weather can be reduced to 1000 and 3 if a PAPI or VASI is installed and operational. <break time="300ms"/>
+Where a rejected landing procedure is published, weather minima will be published in local flying directives. <break time="300ms"/>
+LAH SO not authorized if windshear reported in the 20 minutes prior to the LAH SO clearance. <break time="300ms"/>
+Tailwind should be calm or less than 3 knots. <break time="300ms"/>
+Night LAH SO only with approved LAH SO lighting installed. <break time="800ms"/>
+Alpha thirty one. Authorization to use contract training facilities. <break time="800ms"/> 
+Alpha forty one. Authorization to complete a pre-takeoff contamination check. <break time="800ms"/> 
+
+
+
+Landing Configuration stall.
+<break time="1200ms"/>
+
+
+</speak>
