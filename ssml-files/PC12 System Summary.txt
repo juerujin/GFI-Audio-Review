@@ -15,7 +15,7 @@ Each main gear wheel is equipped with a hydraulically actuated single-disc brake
 
 Number of fuel nozzles and operation.
 <break time="1200ms"/>
-There are 14 duplex type fuel nozzles with each nozzle incorporating a primary and secondary valve. During engine start, the primary flow begins as soon as there is fuel pressure. The secondary flow kicks in above approximately 45% N.G. Without the secondary flow, the engine will hang at 40 to 45% N.G. during start. For operations from normal idle through max power, all 14 nozzles function with fuel coming through both the primary and secondary valves.
+There are 14 duplex type fuel nozzles with each nozzle incorporating a primary and secondary valve. During engine start, the primary flow begins as soon as there is fuel pressure. The secondary flow kicks in above approximately 45% N.G. . Without the secondary flow, the engine will hang at 40 to 45% N.G. during start. For operations from normal idle through max power, all 14 nozzles function with fuel coming through both the primary and secondary valves.
 <break time="1200ms"/>
 
 Air induction system.
@@ -142,7 +142,7 @@ The oil system is a closed loop, dry sump, with a single pressure element system
 
 Starter behavior as N.G. accelerates during start.
 <break time="1200ms"/>
-Starter cutoff at or above 50% Ng. It becomes a generator once the gen 1 switch is turned to the ON position.
+Starter cutoff at or above 50% N.G. . It becomes a generator once the gen 1 switch is turned to the ON position.
 <break time="1200ms"/>
 
 What is powered by the Accessory Gear Box?
@@ -188,12 +188,12 @@ Titanium, covered with a fire insulation blanket
 
 Battery endurance in the event of power generation loss.
 <break time="1200ms"/>
-20 minutes at 60 amps, 30 minutes at 50 amps. Double times for a dual battery AC.
+20 minutes at 60 amps, 30 minutes at 50 amps. Double times for a dual battery aircraft.
 <break time="1200ms"/>
 
-M.E.L. vs ninty one two zero five.
+M.E.L. vs ninety one two zero five.
 <break time="1200ms"/>
-If an MEL is supplied for aircraft operations, it supersedes ninty one two zero five.
+If an M.E.L. is supplied for aircraft operations, it supersedes ninety one two zero five.
 <break time="1200ms"/>
 
 What changes to configuration and performance are there when taking off into known icing conditions?

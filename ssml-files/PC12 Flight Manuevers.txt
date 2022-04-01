@@ -1,0 +1,67 @@
+<speak>
+PC 12 flight maneuvers.
+<break time="1200ms"/>
+
+Landing Configuration stall.
+<break time="1200ms"/>
+Entry Speed. 150 knots clean. <break time="800ms"/>
+Power set to 5 PSI while maintaining altitude. <break time="800ms"/>
+Flaps set to 15 degrees. <break time="800ms"/>
+Gear down, before landing checklist. <break time="800ms"/>
+90 knots, full flaps. <break time="800ms"/>
+Recovery at the first indication of a stall. <break time="800ms"/>
+Reduce Angle of attack as necessary. <break time="800ms"/>
+Apply significant power and flaps to 15 degrees. <break time="800ms"/>
+Positive rate of climb, gear up, climb checklist. <break time="800ms"/>
+Recover lost altitude. <break time="800ms"/>
+Through 100 knots, flaps to 0 degrees. <break time="800ms"/>
+Speed, back to 150 knots. <break time="800ms"/>
+<break time="1200ms"/>
+
+Takeoff Configuration stall in a bank.
+<break time="1200ms"/>
+Entry Speed. 150 knots clean. <break time="800ms"/>
+Power set to 5 PSI while maintaining altitude. <break time="800ms"/>
+Flaps set to 15 degrees. <break time="800ms"/>
+Gear down, before landing checklist. <break time="800ms"/>
+Wait for slow diamond. <break time="800ms"/>
+Bank 20 degrees, power set to 20 PSI. <break time="800ms"/>
+Increase pitch. <break time="800ms"/>
+Recover at the first indication of a stall. <break time="800ms"/>
+Set climb power and reduce angle of attack as necessary. <break time="800ms"/>
+Altitude stabilized, gear up, climb checklist. <break time="800ms"/>
+Through 100 knots, flaps 0. <break time="800ms"/>
+Establish stabilized climb. <break time="800ms"/>
+<break time="1200ms"/>
+
+Clean Configuration stall with autopilot.
+<break time="1200ms"/>
+Entry Speed. 150 knots clean. <break time="800ms"/>
+Engage autopilot. <break time="800ms"/>
+Power set to 20 PSI. <break time="800ms"/>
+1500 FPM climb. <break time="800ms"/>
+Recover at autopilot disconnect. <break time="800ms"/>
+Set climb power and reduce angle of attack as necessary. <break time="800ms"/>
+Re-engage autopilot. <break time="800ms"/>
+<break time="1200ms"/>
+
+Unusual attitudes.
+<break time="1200ms"/>
+
+Attitude above horizon.
+<break time="1200ms"/>
+Power control lever. Maximum. <break time="800ms"/>
+Flight Controls. Pitch to horizon. <break time="800ms"/>
+Wings. Level. <break time="800ms"/>
+Power control lever. As needed to return aircraft to normal cruise. <break time="800ms"/>
+<break time="1200ms"/>
+
+Attitude below the horizon.
+<break time="1000ms"/>
+Power control lever. Minimum. <break time="800ms"/>
+Wings. Level. <break time="800ms"/>
+Flight Controls. Pitch to horizon. <break time="800ms"/>
+Power control lever. As needed to return aircraft to normal cruise. <break time="800ms"/>
+<break time="1200ms"/>
+
+</speak>

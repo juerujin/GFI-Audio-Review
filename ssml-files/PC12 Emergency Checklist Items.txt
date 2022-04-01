@@ -4,7 +4,8 @@ PC 12 Emergency Checklist Memory Items.
 
 Engine Fire on Ground.
 <break time="1200ms"/>
-Power Control Lever. Cut-off, feather. <break time="1s"/>
+Power Control Lever. Idle. <break time="1s"/>
+Condition Lever. Cut-off, feather. <break time="1s"/>
 ECS Emergency Shut Off. Pull. <break time="1s"/>
 Fuel Emergency Shut Off. Press latch down, Pull. <break time="1s"/>
 Radio. Make an Emergency Call. <break time="1s"/>
@@ -19,7 +20,7 @@ Engine Fire in Flight.
 Engine power. Reduce to minimum required. <break time="1s"/>
 ECS Emergency shut off. Pull. <break time="1s"/>
 Oxygen masks. On all occupants. <break time="1s"/>
-<break time="1200ms"/>>
+<break time="1200ms"/>
 
 Rejected Takeoff, Not Engine Related.
 <break time="1200ms"/>

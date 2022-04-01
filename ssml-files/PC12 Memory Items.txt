@@ -34,7 +34,7 @@ Max crosswind at flaps 30. 20 knots. <break time="800ms"/>
 Max crosswind at flaps 40. 15 knots. <break time="800ms"/>
 <break time="2s"/>
 
-Weights
+Weights.
 <break time="1200ms"/>
 Max ramp weight. 9965 pounds. <break time="800ms"/>
 Max Takeoff weight. 9921 pounds. <break time="800ms"/>
@@ -44,22 +44,21 @@ Max cargo weight. 3300 pounds. <break time="800ms"/>
 Max luggage weight. 400 pounds. <break time="800ms"/>
 <break time="2s"/>
 
-Aircraft System Limits
+Aircraft System Limits.
 <break time="1200ms"/>
 De-ice boots temperature limits. Negative 40 to positive 40 celsius. <break time="800ms"/>
 Outside air temperature range. Negative 55 celsius to positive 50 celsius. <break time="800ms"/>
 One of the reasons for the Negative 55 Celsius minimum temperature is that it is the minimum temperature for proper operation of the fire detection loop. <break time="800ms"/>
 Starting sequence limits. Sequence 1, 60 seconds off. Sequence 2, 60 seconds off. Sequence 3, 30 minutes off. <break time="800ms"/>
 Autopilot altitude hold below 1000 feet AGL. Prohibited. <break time="800ms"/>
-Minimum oxygen supply. 10 minutes for all occupants above 25000 feet. <break time="800ms"/>
 Ice on wing flap limitation. 15 degrees maximum. <break time="800ms"/>
 Go around with ice on the airframe. Flaps remain at 15 degrees. <break time="800ms"/>
 Prop De-ice modes. Mode 1, greater than 0 celsius, off. Mode 2, 0 to -16 celsius, 45 seconds per blade pair with 90 seconds of rest. Mode 3, less than -16 celsius, 90 seconds per blade pair with no rest. <break time="800ms"/>
-Windshield Heat modes. Light heat, all three windshield sections on drawing 28 amps. Heavy heat, only the center element on drawing 26 amps. <break time="800ms"/>
+Windshield Heat modes. Light heat, all three windshield sections on, drawing 28 amps. Heavy heat, only the center element on, drawing 26 amps. <break time="800ms"/>
 Minimum altitude for use of the autopilot. 1000 feet for altitude hold, 200 feet in approach mode on an ILS with a functioning radar altimeter. <break time="800ms"/>
 <break time="2s"/>
 
-Engine Torque Limits
+Engine Torque Limits.
 <break time="1200ms"/>
 Max takeoff torque. 44.34 PSI for 5 minutes. <break time="800ms"/>
 Max Transient torque. 61 PSI for 20 seconds. <break time="800ms"/>
@@ -67,7 +66,7 @@ Max continuous torque. 36.95 PSI. <break time="800ms"/>
 Max reverse torque. 34.25 PSI. <break time="800ms"/>
 <break time="2s"/>
 
-Engine Temperature Limits
+Engine Temperature Limits.
 <break time="1200ms"/>
 Max starting ITT. 1000 celsius. 870 to 1000 celsius for 5 seconds. <break time="800ms"/>
 Max transient ITT. 870 celsius. 800 to 870 celsius for 20 seconds. <break time="800ms"/>
@@ -77,13 +76,13 @@ Max reverse ITT. 760 celsius. <break time="800ms"/>
 Max idle ITT. 750 celsius. 50.7 to 61.4% N, G. <break time="800ms"/>
 <break time="2s"/>
 
-Engine Gas Generator Limits
+Engine Gas Generator Limits.
 <break time="1200ms"/>
-Max takeoff, continuous and transient N, G. 104%. <break time="800ms"/>
-Min idle N, G. 50% in ground idle, 64% in flight idle. <break time="800ms"/>
+Max takeoff, continuous and transient N.G., 104%. <break time="800ms"/>
+Minimum idle N.G., 50% in ground idle, 64% in flight idle. <break time="800ms"/>
 <break time="2s"/>
 
-Engine Propellor Limits
+Engine Propellor Limits.
 <break time="1200ms"/>
 Takeoff, continuous propeller RPM. 1700 RPM plus or minus 30 RPM. <break time="800ms"/>
 Transient propeller RPM. Eighteen Seventy RPM for 20 seconds. <break time="800ms"/>
@@ -95,7 +94,7 @@ N.P. exceeding eighteen oh two is an indication of. Overspeed governor failure. 
 N.P. exceeding Eighteen Fifty Three is an indication of. N.F. or fuel topping governor failure. <break time="800ms"/>
 <break time="2s"/>
 
-Additional Engine Limits
+Additional Engine Limits.
 <break time="1200ms"/>
 Minimum oil pressure at idle. 60 PSI. <break time="800ms"/>
 Maximum starting oil pressure. 200 PSI. <break time="800ms"/>
@@ -107,7 +106,7 @@ Idle, transient oil temp. Minus 40 celsius to 110 celsius, 105 to 110 celsius li
 Takeoff, continuous, reverse oil temperature. 10 to 105 celsius, 60 to 70 celsius recommended. <break time="800ms"/>
 <break time="2s"/>
 
-Electrical System Specifications
+Electrical System Specifications.
 <break time="1200ms"/>
 Generator 1 specifications. 28 Volts, 300 Amps continuous capacity, 450 amps capacity for 2 minutes. <break time="800ms"/>
 Generator 2 specifications. 28 volts, 115 amps. <break time="800ms"/>
@@ -116,7 +115,7 @@ Single battery, no generator available duration. 60 amps for 20 minutes, 50 amps
 Dual battery, no generator available duration. 60 amps for 40 minutes, 50 amps for 60 minutes. <break time="800ms"/>
 <break time="2s"/>
 
-Pressurization Limits
+Pressurization Limits.
 <break time="1200ms"/>
 Max cabin differential pressure. 5.75 PSI.  <break time="800ms"/>
 Pressure relief valve open pressure. 6.35 PSI. <break time="800ms"/>
@@ -124,7 +123,7 @@ Pressurization system redline pressure. 6.5 PSI. <break time="800ms"/>
 Cabin pressure CAWS. Illuminates at 10500 feet cabin pressure plus or minus 200 feet, or when 6.5 PSI cabin differential exceeded. <break time="800ms"/>
 <break time="2s"/>
 
-Additional Aircraft Specifications
+Additional Aircraft Specifications.
 <break time="1200ms"/>
 Wingspan. 53 feet 3 inches on the series 9, and 53 feet and 4 inches on the series 10.  <break time="800ms"/>
 Height. 14 feet.  <break time="800ms"/>
