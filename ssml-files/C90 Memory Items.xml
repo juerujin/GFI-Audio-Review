@@ -1,0 +1,182 @@
+<speak>
+<break time="1200ms"/>
+PC 12 Memory Items.
+<break time="1200ms"/>
+
+Airspeeds.
+<break time="1200ms"/>
+V, S, 0. 78 knots. <break time="800ms"/>
+V, S, 1. 88 knots. <break time="800ms"/>
+V, M C A . 80 knots. <break time="800ms"/>
+V, S S E . 97 Knots. <break time="800ms"/>
+V, X . 101 knots. <break time="800ms"/>
+V, X S E. 100 knots. <break time="800ms"/>
+V, Y . 112 knots. <break time="800ms"/>
+V, Y S E . 108 knots. <break time="800ms"/>
+V, glide. 125 knots. <break time="800ms"/>
+V, A, Maneuvering speed. 163 knots. <break time="800ms"/>
+V, R . 100 knots for Dash 21 powered aircraft, 94 knots for Dash 1 35A powered aircraft. <break time="800ms"/>
+V, 50 feet. 109 knots for Dash 21 powered aircraft, 111 knots for Dash 1 35A powered aircraft. <break time="800ms"/>
+V, cruise climb. 150 knots from Sea level up to 10000 feet. 130 knots from 10000 up to 20000 feet. 120 knots from 20000 up to 25000 feet. 110 knots from 25000 up to 30000 feet. <break time="800ms"/>
+V, approach, before the final approach fix. 140 knots. <break time="800ms"/>
+V, approach, after the final approach fix. 120 knots. <break time="800ms"/>
+V, approach, flaps down both engines operating. 101 knots. <break time="800ms"/>
+V, approach, one engine inoperative. 110 knots. <break time="800ms"/>
+V, approach, flap malfunction. 115 knots. <break time="800ms"/>
+V, M, O . 226 knots. <break time="800ms"/>
+M, M, O . 0.46 Mach. <break time="800ms"/>
+V, turbulence. 161 knots. <break time="800ms"/>
+V, minumum icing speed. 140 knots. <break time="800ms"/>
+V, holding. 140 knots. <break time="800ms"/>
+V, flaps extended. 184 knots for flaps approach, 148 knots for flaps down. <break time="800ms"/>
+V, L, O . 182 knots for landing gear extension, 163 knots for landing gear retraction. <break time="800ms"/>
+V, L, E. 182 knots. <break time="800ms"/>
+V, emergency descent. 182 knots. <break time="800ms"/>
+V, max effective windshield anti ice. 226 knots. <break time="800ms"/>
+Max crosswind. 25 knots. <break time="800ms"/>
+Airspeed indicator, white arc. 78 knots, V S 0. to 148 knots, max full flaps extended speed. <break time="800ms"/>
+Airspeed indicator, thick white arc. 78 knots, V S 0. to 88 knots, V S 1. <break time="800ms"/>
+Airspeed indicator, thin white arc. 88 knots, V S 1. to 148 knots, max full flaps extended speed. <break time="800ms"/>
+Airspeed indicator, red and white barber pole. 226 knots or 0.46 mach, whichever is lower. <break time="800ms"/>
+<break time="2s"/>
+
+Weights.
+<break time="1200ms"/>
+Max ramp weight. 10 5, 45 pounds. <break time="800ms"/>
+Max Takeoff weight. 10 4, 85 pounds. <break time="800ms"/>
+Max landing weight. 98, 32 pounds. <break time="800ms"/>
+Max zero fuel weight. 93, 78 pounds. <break time="800ms"/>
+Max rear and nose baggage weight. 350 pounds. <break time="800ms"/>
+<break time="2s"/>
+
+Aircraft System Limits.
+<break time="1200ms"/>
+De-ice boots minimum temperature. Negative 40 celsius. <break time="800ms"/>
+Maximum Outside air temperature. I S A plus 37 celsius. <break time="800ms"/>
+Minimum Altitudes for the use of the autopilot. On Approach, 200 feet. During Climb, 500 feet. All other operations, 1000 feet. <break time="800ms"/>
+Starting sequence limits. 40 Seconds on, 60 seconds off. 40 Seconds on, 60 seconds off. 40 Seconds on, 30 minutes off. <break time="800ms"/>
+
+<break time="2s"/>
+
+Engine Torque Limits.
+<break time="1200ms"/>
+Max takeoff and Continuous torque. 13, 15 foot pounds for Dash 21 equipped aircraft. 15, 20 foot pounds for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max Transient torque. Fifteen Hundred foot pounds for two seconds on Dash 21 equipped aircraft. No transient torque is allowed on Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max reverse torque. None defined for Dash 21 equipped aircraft. 15, 20 foot pounds for Dash 1 35A equipped aircraft. <break time="800ms"/>
+<break time="2s"/>
+
+Engine Temperature Limits.
+<break time="1200ms"/>
+Max starting ITT. 10, 90 celsius. 6, 95 to 10, 90 celsius for 2 seconds. <break time="800ms"/>
+Max transient ITT. 8, 25 celsius for Dash 21 equipped aircraft. 6, 95 to 8, 25 for two seconds. 8, 80 celsius for Dash 1 35A equipped aircraft. 8, O 5 to 8, 80 celcsius for two seconds. <break time="800ms"/>
+Max takeoff, continuous and reverse ITT. 6, 95 celsius for Dash 21 equipped aircraft. 8, O 5 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max low idle ITT. 6, 60 celsius for Dash 21 equipped aircraft. 6, 85 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
+<break time="2s"/>
+
+Engine Gas Generator Limits.
+<break time="1200ms"/>
+Max takeoff and continuous N.G. . 101.5%. <break time="800ms"/>
+Max transient N.G. . 102.6%. <break time="800ms"/>
+Max reverse N.G. . 88% for Dash 21 equipped aircraft. 101.5% celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Minimum idle N.G. . 58% for ground idle, 70% for high idle. <break time="800ms"/>
+<break time="2s"/>
+
+Engine Propellor Limits.
+<break time="1200ms"/>
+Max Takeoff and continuous propeller RPM. 22 Hundred RPM for Dash 21 equipped aircraft. 19 Hundred RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max reverse propeller RPM. 21 Hundred RPM for Dash 21 equipped aircraft. 18, 15 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Transient propeller RPM. 24, 20 RPM for 5 seconds for Dash 21 equipped aircraft. 20, 90 RPM for 5 seconds for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Min propeller idle RPM. 11 Hundred RPM. <break time="800ms"/>
+In the event of a Constant Speed Unit failure, the Overspeed governor will attempt to maintain. Eighteen Oh Two RPM. <break time="800ms"/>
+In the event of a CSU and Overspeed governor failure, the Fuel topping governor will attempt to maintain. Eighteen Fifty Three RPM. <break time="800ms"/>
+N 2, exceeding 22 hundred for Dash 21, or 19 hundred for Dash 1 35A equipped aircraft, is an indication of. Primary governor failure. <break time="800ms"/>
+N.2 exceeding 22, 88 on Dash 21 equipped aircraft is an indication of. Primary and Overspeed governor failure. <break time="800ms"/>
+<break time="2s"/>
+
+Additional Engine Limits.
+<break time="1200ms"/>
+Oil Pressure.
+<break time="1200ms"/>
+Minimum oil pressure at idle. 40 PSI. <break time="800ms"/>
+Max takeoff, continuous, and reverse oil pressure. 80 to 100 PSI for Dash 21 equipped aircraft. 85 to 105 PSI for Dash 1 35A equipped aircraft.
+Transient oil pressure. 200 PSI for Dash 21 equipped aircraft. None defined for Dash 1 35A equipped aircraft. <break time="800ms"/>
+
+<break time="1200ms"/>
+Oil Temperature.
+<break time="1200ms"/>
+Minimum Starting oil temperature. Negative 40 celsius. <break time="800ms"/>
+Low Idle Oil temperature range. Negative 40 to 99 celsius. <break time="800ms"/>
+High Idle Oil temperature range. 0 to 99 celsius. <break time="800ms"/>
+Takeoff and continuous oil temperature range. 10 to 99 celsius. <break time="800ms"/>
+Cruise climb, max cruise temperature range on Dash 21 equiped aircraft. 0 to 99 celsius. <break time="800ms"/>
+Max reverse oil temperature range. 0 to 99 celsius. <break time="800ms"/>
+Transient oil temperature range. 0 to 99 celsius for Dash 21 equiped aircraft. 104 celsius for 10 minutes for Dash 1 35A equipped aircraft. <break time="800ms"/>
+
+<break time="1200ms"/>
+Oil System Specifications.
+<break time="1200ms"/>
+Engine oil type. Eastman 23 80. <break time="800ms"/>
+Total Oil Capacity. 14 Quarts. <break time="800ms"/>
+Undrainable Oil quantity. 1.5 quarts. <break time="800ms"/>
+Oil refill capacity. 12.5 quarts. <break time="800ms"/>
+Oil Operating range. 4 quarts low to full. <break time="800ms"/>
+<break time="2s"/>
+
+Electrical System Specifications.
+<break time="1200ms"/>
+Generator specifications. 28 Volts, 250 Amps. <break time="800ms"/>
+100% Generator load N1 limits. 85% N1 minimum. <break time="800ms"/>
+Generator load and N1 limits for ground operation. 0 to 50% generator load, 59% N1 minimum. 50 to 80% generator load, 61% N1 minimum. 80 to 85% generator load, 70% N1 minimum. <break time="800ms"/>
+Inverter specifications. 2 Single Phase, 400 Hertz AC inverters at 115 and 26 Volts. <break time="800ms"/>
+Battery specifications. 24 volts, 42 amp hour, sealed lead acid battery. <break time="800ms"/>
+External power requirements. 28.2 plus or minus 0.2 volts. Should be capable of 1000 Amps for 5 seconds, 500 amps for 2 minutes, and 300 amps continuously. <break time="800ms"/>
+Current limiter rating. 60 Amps. <break time="800ms"/>
+<break time="2s"/>
+
+Fuel System.
+<break time="1200ms"/>
+Max cabin differential pressure. 5.1 PSI.  <break time="800ms"/>
+Alternate fuel limits. Alternate fuels such as 100 Low Lead may be used for 150 hours between engine overhauls. Operations are limited below 8000 feet pressure altitude with inoperative boost pumps. Cross feed capability required for flight above 8000 feet pressure altitude. <break time="800ms"/>
+<break time="2s"/>
+
+Pressurization Limits.
+<break time="1200ms"/>
+Usable fuel capacity. 384 gallons or 2573 pounds.  <break time="800ms"/>
+Fuel Capacity per side. 192 Gallons. 131 in the wing tanks, 91 in the nacelle tank  <break time="800ms"/>
+Max fuel imbalance. 200 pounds. <break time="800ms"/>
+Fuel crossfeed is only permitted during. An electrical boost pump failure or an engine failure. <break time="800ms"/>
+Fuel Low, Yellow arc on fuel quantity gauge. Less than 265 pounds of fuel is left in each wing system. No takeoff permitted. <break time="800ms"/>
+Electrical Boost pump operating envelope. Both electrical boost pumps must be activated prior to engine start. In the event of an inoperative boost pump in flight. 
+Left or Right low fuel pressure annunciator illuminated. engine operation is limited to 10 hours prior to mandatory engine-driven fuel pump replacement or overhaul. Windmilling time is not charged against this limit.
+Boost pumps must be operational prior to takeoff. <break time="800ms"/>
+Unavailable fuel with no fuel transfer pumps. 28 Gallons. <break time="800ms"/>
+<break time="2s"/>
+
+Additional Aircraft Specifications.
+<break time="1200ms"/>
+Wingspan. 50 feet, 3 inches.  <break time="800ms"/>
+Height. 14 feet, 3 inches.  <break time="800ms"/>
+Length. 35 feet, 6 inches.  <break time="800ms"/>
+Powerplant. PT6A Dash 21, or 1 35A.  <break time="800ms"/>
+
+<break time="2s"/>
+
+Recommended power settings
+<break time="1200ms"/>
+A brief description of the power level descriptions. <break time="800ms"/>
+Low is used for cruise descents with both engines operating, at 1000 feet per minute, at 160 knots. Or with one engine inoperative at 130 knots. <break time="800ms"/>
+Low is also used for non-precision approach descents with both engines operating, approach flaps, and landing gear down, at 1000 feet per minute, at 120 knots. Or the same with one engine inoperative and the landing gear up. <break time="800ms"/>
+Medium is used for level flight, with 2 engines operating, approach flaps, and gear up, in level flight at 120 knots. Or with the landing gear down in a 600 foot per minute descent on an ILS. <break time="800ms"/>
+High is used for level flight, with flaps zero, landing gear up at 160 knots. Or level flight with flaps approach and landing gear down at 120 knots. <break time="800ms"/>
+High Plus is used for level flight clean at 130 knots, level flight with approach flaps and gear up at 120 knots, or a 600 foot per minute descent at 120 knots with flaps approach and the landing gear down at 120 knots. <break time="800ms"/>
+Magic Numbers. Low, 300 foot pounds. Medium, 500 foot pounds. High, 800 foot pounds. High Plus, 900 foot pounds.
+
+<break time="1200ms"/>
+Guardian power settings
+<break time="1200ms"/>
+Clean configuration at 160 knots. 700 foot pounds with both engines operating. <break time="800ms"/>
+ILS. Both engines operating, 500 foot pounds. One engine inoperative, 900 foot pounds. <break time="800ms"/>
+Non precision approach. Both engines operating, 800 foot pounds with flaps approach and the landing gear down at 120 knots. One engine inoperative under the same conditions, 1000 foot pounds. <break time="800ms"/>
+<break time="2s"/>
+
+</speak>
