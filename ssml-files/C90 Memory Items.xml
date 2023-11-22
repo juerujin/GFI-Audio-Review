@@ -158,7 +158,11 @@ Wingspan. 50 feet, 3 inches.  <break time="800ms"/>
 Height. 14 feet, 3 inches.  <break time="800ms"/>
 Length. 35 feet, 6 inches.  <break time="800ms"/>
 Powerplant. PT6A Dash 21, or 1 35A.  <break time="800ms"/>
-
+Max pressure altitude. 30000 feet. <break time="800ms"/>
+Max occupancy. 13 including crew. <break time="800ms"/>
+Pneumatic pressure range. Green arc, 12 to 20 PSI. Red line, 20 PSI. <break time="800ms"/>
+Gyro suction ranges. Sea level to 15000 feet, 4.3 to 5.9 inches of mercury. 15000 to 35000 feet, 2.8 to 4.9 inches of mercury. 15000 foot line, 4.3 inches of mercury. 35000 foot line, 3.0 inches of mercury. <break time="800ms"/>
+Flight load limits. Flaps up. positive 3.28, negative 1.31 G . Flaps down. positive 2.0 G, no negative Gs. <break time="800ms"/>
 <break time="2s"/>
 
 Recommended power settings
@@ -166,8 +170,8 @@ Recommended power settings
 A brief description of the power level descriptions. <break time="800ms"/>
 Low is used for cruise descents with both engines operating, at 1000 feet per minute, at 160 knots. Or with one engine inoperative at 130 knots. <break time="800ms"/>
 Low is also used for non-precision approach descents with both engines operating, approach flaps, and landing gear down, at 1000 feet per minute, at 120 knots. Or the same with one engine inoperative and the landing gear up. <break time="800ms"/>
-Medium is used for level flight, with 2 engines operating, approach flaps, and gear up, in level flight at 120 knots. Or with the landing gear down in a 600 foot per minute descent on an ILS. <break time="800ms"/>
-High is used for level flight, with flaps zero, landing gear up at 160 knots. Or level flight with flaps approach and landing gear down at 120 knots. <break time="800ms"/>
+Medium is used for level flight, with 2 engines operating, approach flaps, and landing gear up in level flight at 120 knots. Or with the landing gear down in a 600 foot per minute descent on an ILS. <break time="800ms"/>
+High is used for level flight, with flaps zero, and landing gear up at 160 knots. Or level flight with flaps approach and landing gear down at 120 knots. <break time="800ms"/>
 High Plus is used for level flight clean at 130 knots, level flight with approach flaps and gear up at 120 knots, or a 600 foot per minute descent at 120 knots with flaps approach and the landing gear down at 120 knots. <break time="800ms"/>
 Magic Numbers. Low, 300 foot pounds. Medium, 500 foot pounds. High, 800 foot pounds. High Plus, 900 foot pounds.
 
