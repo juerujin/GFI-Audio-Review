@@ -1,6 +1,6 @@
 <speak>
 <break time="1200ms"/>
-PC 12 Memory Items.
+King Air C90B Memory Items.
 <break time="1200ms"/>
 
 Airspeeds.
@@ -26,13 +26,13 @@ V, approach, flap malfunction. 115 knots. <break time="800ms"/>
 V, M, O . 226 knots. <break time="800ms"/>
 M, M, O . 0.46 Mach. <break time="800ms"/>
 V, turbulence. 161 knots. <break time="800ms"/>
-V, minumum icing speed. 140 knots. <break time="800ms"/>
+V, minimum icing speed. 140 knots. <break time="800ms"/>
 V, holding. 140 knots. <break time="800ms"/>
 V, flaps extended. 184 knots for flaps approach, 148 knots for flaps down. <break time="800ms"/>
 V, L, O . 182 knots for landing gear extension, 163 knots for landing gear retraction. <break time="800ms"/>
 V, L, E. 182 knots. <break time="800ms"/>
 V, emergency descent. 182 knots. <break time="800ms"/>
-V, max effective windshield anti ice. 226 knots. <break time="800ms"/>
+V, max effective windshield anti ice speed. 226 knots. <break time="800ms"/>
 Max crosswind. 25 knots. <break time="800ms"/>
 Airspeed indicator, white arc. 78 knots, V S 0. to 148 knots, max full flaps extended speed. <break time="800ms"/>
 Airspeed indicator, thick white arc. 78 knots, V S 0. to 88 knots, V S 1. <break time="800ms"/>
@@ -47,6 +47,7 @@ Max Takeoff weight. 10 4, 85 pounds. <break time="800ms"/>
 Max landing weight. 98, 32 pounds. <break time="800ms"/>
 Max zero fuel weight. 93, 78 pounds. <break time="800ms"/>
 Max rear and nose baggage weight. 350 pounds. <break time="800ms"/>
+Maximum takeoff weight is limited by the most restrictive of. Max takeoff weight, max takeoff weight to achieve takeoff climb requirements, or max takeoff weight as limited by takeoff speed. The last restriction does not apply to guardian flight aircraft due to a different tire type installation. <break time="800ms"/>
 <break time="2s"/>
 
 Aircraft System Limits.
@@ -67,10 +68,11 @@ Max reverse torque. None defined for Dash 21 equipped aircraft. 15, 20 foot poun
 
 Engine Temperature Limits.
 <break time="1200ms"/>
-Max starting ITT. 10, 90 celsius. 6, 95 to 10, 90 celsius for 2 seconds. <break time="800ms"/>
+Max starting ITT. 10, 90 celsius for 2 seconds. <break time="800ms"/>
 Max transient ITT. 8, 25 celsius for Dash 21 equipped aircraft. 6, 95 to 8, 25 for two seconds. 8, 80 celsius for Dash 1 35A equipped aircraft. 8, O 5 to 8, 80 celcsius for two seconds. <break time="800ms"/>
 Max takeoff, continuous and reverse ITT. 6, 95 celsius for Dash 21 equipped aircraft. 8, O 5 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Max low idle ITT. 6, 60 celsius for Dash 21 equipped aircraft. 6, 85 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max Guardian Flight Cruise ITT. 6, 80 celsius for Dash 21 equipped aircraft. 7, 90 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
 <break time="2s"/>
 
 Engine Gas Generator Limits.
@@ -81,16 +83,18 @@ Max reverse N.G. . 88% for Dash 21 equipped aircraft. 101.5% celsius for Dash 1 
 Minimum idle N.G. . 58% for ground idle, 70% for high idle. <break time="800ms"/>
 <break time="2s"/>
 
-Engine Propellor Limits.
+Engine propeller Limits.
 <break time="1200ms"/>
 Max Takeoff and continuous propeller RPM. 22 Hundred RPM for Dash 21 equipped aircraft. 19 Hundred RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Max reverse propeller RPM. 21 Hundred RPM for Dash 21 equipped aircraft. 18, 15 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Transient propeller RPM. 24, 20 RPM for 5 seconds for Dash 21 equipped aircraft. 20, 90 RPM for 5 seconds for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Min propeller idle RPM. 11 Hundred RPM. <break time="800ms"/>
-In the event of a Constant Speed Unit failure, the Overspeed governor will attempt to maintain. Eighteen Oh Two RPM. <break time="800ms"/>
-In the event of a CSU and Overspeed governor failure, the Fuel topping governor will attempt to maintain. Eighteen Fifty Three RPM. <break time="800ms"/>
+Minimum propeller idle RPM. 11 Hundred RPM for Dash 21 equipped aircraft. 10, 70 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
 N 2, exceeding 22 hundred for Dash 21, or 19 hundred for Dash 1 35A equipped aircraft, is an indication of. Primary governor failure. <break time="800ms"/>
 N.2 exceeding 22, 88 on Dash 21 equipped aircraft is an indication of. Primary and Overspeed governor failure. <break time="800ms"/>
+The overspeed governor attempts to limits propeller speed to less than 104% of the selected propeller speed. <break time="800ms"/>
+If propeller speed exceeds 106% of the selected propeller speed, the Fuel Topping Governor will limit power to keep the propeller speed at 106% or less. <break time="800ms"/>
+In the reverse range, the fuel topping governor will limit propeller speed to 95% of the selected propeller speed. It is important that the propeller levers are pushed full foward in order to achieve maximum reverse. <break time="800ms"/>
+Overspeed governor test RPM. 2000, plus or minus 60 RPM for Dash 21 equipped aircraft. 17 20, plus or minus 40 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
 <break time="2s"/>
 
 Additional Engine Limits.
@@ -128,18 +132,11 @@ Generator specifications. 28 Volts, 250 Amps. <break time="800ms"/>
 100% Generator load N1 limits. 85% N1 minimum. <break time="800ms"/>
 Generator load and N1 limits for ground operation. 0 to 50% generator load, 59% N1 minimum. 50 to 80% generator load, 61% N1 minimum. 80 to 85% generator load, 70% N1 minimum. <break time="800ms"/>
 Inverter specifications. 2 Single Phase, 400 Hertz AC inverters at 115 and 26 Volts. <break time="800ms"/>
-Battery specifications. 24 volts, 42 amp hour, sealed lead acid battery. <break time="800ms"/>
+Battery specifications. 24 volts, 42 amp hour, sealed led acid battery. <break time="800ms"/>
 External power requirements. 28.2 plus or minus 0.2 volts. Should be capable of 1000 Amps for 5 seconds, 500 amps for 2 minutes, and 300 amps continuously. <break time="800ms"/>
-Current limiter rating. 60 Amps. <break time="800ms"/>
 <break time="2s"/>
 
 Fuel System.
-<break time="1200ms"/>
-Max cabin differential pressure. 5.1 PSI.  <break time="800ms"/>
-Alternate fuel limits. Alternate fuels such as 100 Low Lead may be used for 150 hours between engine overhauls. Operations are limited below 8000 feet pressure altitude with inoperative boost pumps. Cross feed capability required for flight above 8000 feet pressure altitude. <break time="800ms"/>
-<break time="2s"/>
-
-Pressurization Limits.
 <break time="1200ms"/>
 Usable fuel capacity. 384 gallons or 2573 pounds.  <break time="800ms"/>
 Fuel Capacity per side. 192 Gallons. 131 in the wing tanks, 91 in the nacelle tank  <break time="800ms"/>
@@ -150,6 +147,13 @@ Electrical Boost pump operating envelope. Both electrical boost pumps must be ac
 Left or Right low fuel pressure annunciator illuminated. engine operation is limited to 10 hours prior to mandatory engine-driven fuel pump replacement or overhaul. Windmilling time is not charged against this limit.
 Boost pumps must be operational prior to takeoff. <break time="800ms"/>
 Unavailable fuel with no fuel transfer pumps. 28 Gallons. <break time="800ms"/>
+Alternate fuel limits. Alternate fuels such as 100 Low Led may be used for 150 hours between engine overhauls. Operations are limited below 8000 feet pressure altitude with inoperative boost pumps. Cross feed capability required for flight above 8000 feet pressure altitude. <break time="800ms"/>
+<break time="2s"/>
+
+Pressurization Limits.
+<break time="1200ms"/>
+Max cabin differential pressure. 5.1 PSI.  <break time="800ms"/>
+Cabin Altitude at max aircraft pressure altitude of 30,000. 12,000 feet.  <break time="800ms"/>
 <break time="2s"/>
 
 Additional Aircraft Specifications.
@@ -163,6 +167,8 @@ Max occupancy. 13 including crew. <break time="800ms"/>
 Pneumatic pressure range. Green arc, 12 to 20 PSI. Red line, 20 PSI. <break time="800ms"/>
 Gyro suction ranges. Sea level to 15000 feet, 4.3 to 5.9 inches of mercury. 15000 to 35000 feet, 2.8 to 4.9 inches of mercury. 15000 foot line, 4.3 inches of mercury. 35000 foot line, 3.0 inches of mercury. <break time="800ms"/>
 Flight load limits. Flaps up. positive 3.28, negative 1.31 G . Flaps down. positive 2.0 G, no negative Gs. <break time="800ms"/>
+Tire limitations. 55 PSI for the nose landing gear tire. 70 PSI for the main landing gear tires. Rated for a max of 160 MPH. <break time="800ms"/>
+Both wing Ice lights are required per FAA A D 98, zero four, 24. This A D supersedes any relief provided by the M E L. <break time="800ms"/>
 <break time="2s"/>
 
 Recommended power settings
@@ -178,6 +184,7 @@ Magic Numbers. Low, 300 foot pounds. Medium, 500 foot pounds. High, 800 foot pou
 <break time="1200ms"/>
 Guardian power settings
 <break time="1200ms"/>
+Max initial power on takeoff roll. 1,200 foot pounds for Dash 21 equiped aircraft. 1400 foot pounds for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Clean configuration at 160 knots. 700 foot pounds with both engines operating. <break time="800ms"/>
 ILS. Both engines operating, 500 foot pounds. One engine inoperative, 900 foot pounds. <break time="800ms"/>
 Non precision approach. Both engines operating, 800 foot pounds with flaps approach and the landing gear down at 120 knots. One engine inoperative under the same conditions, 1000 foot pounds. <break time="800ms"/>
