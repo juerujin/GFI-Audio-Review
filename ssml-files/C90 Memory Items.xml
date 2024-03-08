@@ -90,7 +90,7 @@ Max reverse propeller RPM. 21 Hundred RPM for Dash 21 equipped aircraft. 18, 15 
 Transient propeller RPM. 24, 20 RPM for 5 seconds for Dash 21 equipped aircraft. 20, 90 RPM for 5 seconds for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Minimum propeller idle RPM. 11 Hundred RPM for Dash 21 equipped aircraft. 10, 70 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
 N 2, exceeding 22 hundred for Dash 21, or 19 hundred for Dash 1 35A equipped aircraft, is an indication of. Primary governor failure. <break time="800ms"/>
-N.2 exceeding 22, 88 on Dash 21 equipped aircraft is an indication of. Primary and Overspeed governor failure. <break time="800ms"/>
+N 2, exceeding 22, 88 on Dash 21 equipped aircraft is an indication of. Primary and Overspeed governor failure. <break time="800ms"/>
 The overspeed governor attempts to limits propeller speed to less than 104% of the selected propeller speed. <break time="800ms"/>
 If propeller speed exceeds 106% of the selected propeller speed, the Fuel Topping Governor will limit power to keep the propeller speed at 106% or less. <break time="800ms"/>
 In the reverse range, the fuel topping governor will limit propeller speed to 95% of the selected propeller speed. It is important that the propeller levers are pushed full foward in order to achieve maximum reverse. <break time="800ms"/>
@@ -139,7 +139,7 @@ External power requirements. 28.2 plus or minus 0.2 volts. Should be capable of 
 Fuel System.
 <break time="1200ms"/>
 Usable fuel capacity. 384 gallons or 2573 pounds.  <break time="800ms"/>
-Fuel Capacity per side. 192 Gallons. 131 in the wing tanks, 91 in the nacelle tank  <break time="800ms"/>
+Fuel Capacity per side. 192 Gallons. 131 in the wing tanks, 61 in the nacelle tank  <break time="800ms"/>
 Max fuel imbalance. 200 pounds. <break time="800ms"/>
 Fuel crossfeed is only permitted during. An electrical boost pump failure or an engine failure. <break time="800ms"/>
 Fuel Low, Yellow arc on fuel quantity gauge. Less than 265 pounds of fuel is left in each wing system. No takeoff permitted. <break time="800ms"/>
