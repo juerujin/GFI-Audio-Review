@@ -1,0 +1,139 @@
+<speak>
+PC 12 Emergency Checklist Memory Items.
+<break time="1200ms"/>
+
+Emergency Engine Shutdown.
+<break time="1200ms"/>
+Autopilot. Disconnect. <break time="1s"/>
+Affected engine. <break time="1s"/>
+Condition Lever. Cut-off. <break time="1s"/>
+Propeller Lever. Feather. <break time="1s"/>
+Fuel Firewall Shutoff Valve. Close. <break time="1s"/>
+Fire extinguisher, if installed. Actuate. <break time="1s"/>
+<break time="1200ms"/>
+
+Engine Failure After Liftoff.
+<break time="1200ms"/>
+Maximum Continuous Power. Set. <break time="1s"/>
+Air speed. Maintain, takeoff speed or above. <break time="1s"/>
+Propeller, inoperative engine. Verify feathered or feather. <break time="1s"/>
+Airspeed, After obstacles cleared. 108 knots. <break time="1s"/>
+<break time="1200ms"/>
+
+Engine Failure During Ground Roll.
+<break time="1200ms"/>
+Power levers. Ground fine. <break time="1s"/>
+Brakes. Maximum. <break time="1s"/>
+If insufficient runway remains for stopping. <break time="1s"/>
+Condition Lever. Cut-off. <break time="1s"/>
+Fuel Firewall Shutoff Valve. Close. <break time="1s"/>
+Master switch. Off, Gang bar down. <break time="1s"/>
+Boost Pumps. Off. <break time="1s"/>
+<break time="1200ms"/>
+
+Engine Fire on ground.
+<break time="1200ms"/>
+Condition Lever. Cut-off. <break time="1s"/>
+Fuel Firewall Shutoff Valve. Close. <break time="1s"/>
+<break time="1200ms"/>  
+
+Engine Failure in Flight below V M C A .
+<break time="1200ms"/>
+Power. Reduce as required to maintain control. <break time="1s"/>
+Nose. Lower to accelerate above V M C A . <break time="1s"/>
+Power. As required. <break time="1s"/>
+<break time="1200ms"/>
+
+Second Engine Flameout.
+<break time="1200ms"/>
+Power Lever. Idle. <break time="1s"/>
+Propeller Lever. Do, not, feather. <break time="1s"/>
+Condition Lever. Fuel Cutoff. <break time="1s"/>
+Conduct air-start. Abnormal procedures, tab 1. <break time="1s"/>
+<break time="1200ms"/>
+
+Use of oxygen, electrical smoke or fire, environmental system smoke or fumes, or pressurization loss.
+<break time="1200ms"/>
+Oxygen system control. Confirm on. <break time="1s"/>
+Crew. Don mask. <break time="1s"/>
+For smoke and fumes. <break time="1s"/>
+Mask Selector. Emergency Position. <break time="1s"/>
+<break time="1200ms"/>
+
+Cabin door unlocked.
+<break time="1200ms"/>
+All occupants. Seated with seatbelts. <break time="1s"/>
+<break time="1200ms"/>
+
+Emergency Descent.
+<break time="1200ms"/>
+Power levers. Idle. <break time="1s"/>
+Propeller Levers. High RPM. <break time="1s"/>
+Flaps, 184 knots maximum. Approach. <break time="1s"/>
+Landing gear, 182 maximum. Down. <break time="1s"/>
+Airspeed. 182 knots maximum. <break time="1s"/>
+<break time="1200ms"/>
+
+Emergency Glide.
+<break time="1200ms"/>
+Landing gear. Up. <break time="1s"/>
+Flaps. Up. <break time="1s"/>
+Propellers. Feathered. <break time="1s"/>
+Airspeed. 125 knots. <break time="1s"/>
+Glide ratio. 1.8 nautical miles per 1000 feet. <break time="1s"/>
+<break time="1200ms"/> 
+
+Autopilot Malfunction, elevator trim runaway.
+<break time="1200ms"/>
+Control Wheel. Hold firmly, be prepared to accept control wheel forces. <break time="1s"/>
+Autopilot, yaw damp, trim disconnect button. Depress fully. <break time="1s"/>
+Flight controls, power levers. As required to recover the airplane. <break time="1s"/>
+<break time="1200ms"/>
+
+Unscheduled Rudder Boost Activation.
+<break time="1200ms"/>
+Rudder Boost. Off. <break time="1s"/>
+Rudder Trim. As required. <break time="1s"/>
+<break time="1200ms"/>
+
+High differential pressure.
+<break time="1200ms"/>
+Cabin altitude controller. Select higher cabin altitude setting. <break time="1s"/>
+Item. Action. <break time="1s"/>
+If condition persists. <break time="1s"/>
+Bleed air valves. Closed. <break time="1s"/>
+Cabin Pressure, after cabin is depressurized. Dump. <break time="1s"/>
+Bleed air valve. Open. <break time="1s"/>
+<break time="1200ms"/>
+
+Emergency Exit.
+<break time="1200ms"/>
+Emergency release hatch cover. open. <break time="1s"/>
+Release button. Push. <break time="1s"/>
+If release button will not push, pull hooks to override pressure lock and then push the release button. <break time="1s"/>
+Pull handle and push out hatch. <break time="1s"/>
+<break time="1200ms"/>
+
+Spins Recovery.
+<break time="1200ms"/>
+Control Column. Full forward, Ailerons neutral. <break time="1s"/>
+Full Rudder. Opposite direction of spin. <break time="1s"/>
+Power levers. Idle. <break time="1s"/>
+Rudder. Neutralize when rotation stops. <break time="1s"/>
+Execute a smooth pullout. <break time="1s"/>
+<break time="1200ms"/>  
+
+  
+  
+TAWS Warning.
+<break time="1200ms"/>
+Wings. Level. <break time="1s"/>
+Power. Max Allowable. <break time="1s"/>
+Pitch. Increase first to 20 degrees. Adjust to avoid stall. Aim for 101 knots. <break time="1s"/>
+Gear and Flaps. Retract. <break time="1s"/>
+<break time="1200ms"/>
+
+
+End checklist memory items.
+<break time="1200ms"/>
+</speak>
