@@ -171,23 +171,10 @@ Tire limitations. 55 PSI for the nose landing gear tire. 70 PSI for the main lan
 Both wing Ice lights are required per FAA A D 98, zero four, 24. This A D supersedes any relief provided by the M E L. <break time="800ms"/>
 <break time="2s"/>
 
-Recommended power settings
-<break time="1200ms"/>
-A brief description of the power level descriptions. <break time="800ms"/>
-Low is used for cruise descents with both engines operating, at 1000 feet per minute, at 160 knots. Or with one engine inoperative at 130 knots. <break time="800ms"/>
-Low is also used for non-precision approach descents with both engines operating, approach flaps, and landing gear down, at 1000 feet per minute, at 120 knots. Or the same with one engine inoperative and the landing gear up. <break time="800ms"/>
-Medium is used for level flight, with 2 engines operating, approach flaps, and landing gear up in level flight at 120 knots. Or with the landing gear down in a 600 foot per minute descent on an ILS. <break time="800ms"/>
-High is used for level flight, with flaps zero, and landing gear up at 160 knots. Or level flight with flaps approach and landing gear down at 120 knots. <break time="800ms"/>
-High Plus is used for level flight clean at 130 knots, level flight with approach flaps and gear up at 120 knots, or a 600 foot per minute descent at 120 knots with flaps approach and the landing gear down at 120 knots. <break time="800ms"/>
-Magic Numbers. Low, 300 foot pounds. Medium, 500 foot pounds. High, 800 foot pounds. High Plus, 900 foot pounds.
-
-<break time="1200ms"/>
-Guardian power settings
+Power Settings
 <break time="1200ms"/>
 Max initial power on takeoff roll. 1,200 foot pounds for Dash 21 equiped aircraft. 1400 foot pounds for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Clean configuration at 160 knots. 700 foot pounds with both engines operating. <break time="800ms"/>
-ILS. Both engines operating, 500 foot pounds. One engine inoperative, 900 foot pounds. <break time="800ms"/>
-Non precision approach. Both engines operating, 800 foot pounds with flaps approach and the landing gear down at 120 knots. One engine inoperative under the same conditions, 1000 foot pounds. <break time="800ms"/>
+Max Guardian Flight Cruise ITT. 6, 80 Celsius for Dash 21 equipped aircraft. 7, 90 Celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
 <break time="2s"/>
 
 </speak>
