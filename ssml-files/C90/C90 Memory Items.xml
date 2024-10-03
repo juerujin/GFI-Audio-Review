@@ -143,7 +143,7 @@ Fuel Capacity per side. 192 Gallons. 131 in the wing tanks, 61 in the nacelle ta
 Max fuel imbalance. 200 pounds. <break time="800ms"/>
 Fuel crossfeed is only permitted during. An electrical boost pump failure or an engine failure. <break time="800ms"/>
 Fuel Low, Yellow arc on fuel quantity gauge. Less than 265 pounds of fuel is left in each wing system. No takeoff permitted. <break time="800ms"/>
-Electrical Boost pump operating envelope. Both electrical boost pumps must be activated prior to engine start. In the event of an inoperative boost pump in flight. 
+Electrical Boost pump operating envelope. Both electrical boost pumps must be activated prior to engine start. In the event of an inoperative boost pump in flight.
 Left or Right low fuel pressure annunciator illuminated. engine operation is limited to 10 hours prior to mandatory engine-driven fuel pump replacement or overhaul. Windmilling time is not charged against this limit.
 Boost pumps must be operational prior to takeoff. <break time="800ms"/>
 Unavailable fuel with no fuel transfer pumps. 28 Gallons. <break time="800ms"/>
@@ -165,9 +165,10 @@ Powerplant. PT6A Dash 21, or 1 35A.  <break time="800ms"/>
 Max pressure altitude. 30000 feet. <break time="800ms"/>
 Max occupancy. 13 including crew. <break time="800ms"/>
 Pneumatic pressure range. Green arc, 12 to 20 PSI. Red line, 20 PSI. <break time="800ms"/>
-Gyro suction ranges. Sea level to 15000 feet, 4.3 to 5.9 inches of mercury. 15000 to 35000 feet, 2.8 to 4.9 inches of mercury. 15000 foot line, 4.3 inches of mercury. 35000 foot line, 3.0 inches of mercury. <break time="800ms"/>
+Gyro suction ranges. Sea level to 15000 feet, 4.3 to 5.9 inches of mercury. 15000 to 35000 feet, 2.8 to 4.3 inches of mercury. 15000 foot line, 4.3 inches of mercury. 35000 foot line, 3.0 inches of mercury. <break time="800ms"/>
 Flight load limits. Flaps up. positive 3.28, negative 1.31 G . Flaps down. positive 2.0 G, no negative Gs. <break time="800ms"/>
-Tire limitations. 55 PSI for the nose landing gear tire. 70 PSI for the main landing gear tires. Rated for a max of 160 MPH. <break time="800ms"/>
+Tire Specifications. Main Landing gear tire. 8 point 5 by 10, 10 ply. Nose Landing gear tire. 6 point 5 by 10, 10 ply. <break time="800ms"/>
+Tire limitations. 51 to 55 PSI for the nose landing gear tire. 70 plus or minus 3 PSI for the main landing gear tires. Rated for a max of 160 MPH. <break time="800ms"/>
 Both wing Ice lights are required per FAA A D 98, zero four, 24. This A D supersedes any relief provided by the M E L. <break time="800ms"/>
 <break time="2s"/>
 
