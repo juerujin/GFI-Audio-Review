@@ -3,7 +3,7 @@
 King Air C90B Memory Items.
 <break time="1200ms"/>
 
-Airspeeds.
+Air speeds.
 <break time="1200ms"/>
 V, S, 0. 78 knots. <break time="800ms"/>
 V, S, 1. 88 knots. <break time="800ms"/>
@@ -15,7 +15,7 @@ V, Y . 112 knots. <break time="800ms"/>
 V, Y S E . 108 knots. <break time="800ms"/>
 V, glide. 125 knots. <break time="800ms"/>
 V, A, Maneuvering speed. 163 knots. <break time="800ms"/>
-V, R . 100 knots for Dash 21 powered aircraft, 94 knots for Dash 1 35A powered aircraft. <break time="800ms"/>
+V, R . 100 knots for Dash 21 powered aircraft, 94 knots for Dash 1 35A powered aircraft at maximum takeoff weight. <break time="800ms"/>
 V, 50 feet. 109 knots for Dash 21 powered aircraft, 111 knots for Dash 1 35A powered aircraft. <break time="800ms"/>
 V, cruise climb. 150 knots from Sea level up to 10000 feet. 130 knots from 10000 up to 20000 feet. 120 knots from 20000 up to 25000 feet. 110 knots from 25000 up to 30000 feet. <break time="800ms"/>
 V, approach, before the final approach fix. 140 knots. <break time="800ms"/>
@@ -52,8 +52,8 @@ Maximum takeoff weight is limited by the most restrictive of. Max takeoff weight
 
 Aircraft System Limits.
 <break time="1200ms"/>
-De-ice boots minimum temperature. Negative 40 celsius. <break time="800ms"/>
-Maximum Outside air temperature. I S A plus 37 celsius. <break time="800ms"/>
+De-ice boots minimum temperature. Negative 40 Celsius. <break time="800ms"/>
+Maximum Outside air temperature. I S A plus 37 Celsius. <break time="800ms"/>
 Minimum Altitudes for the use of the autopilot. On Approach, 200 feet. During Climb, 500 feet. All other operations, 1000 feet. <break time="800ms"/>
 Starting sequence limits. 40 Seconds on, 60 seconds off. 40 Seconds on, 60 seconds off. 40 Seconds on, 30 minutes off. <break time="800ms"/>
 
@@ -68,7 +68,7 @@ Max reverse torque. None defined for Dash 21 equipped aircraft. 15, 20 foot poun
 
 Engine Temperature Limits.
 <break time="1200ms"/>
-Max starting ITT. 10, 90 celsius for 2 seconds. <break time="800ms"/>
+Max starting ITT. 10, 90 Celsius for 2 seconds. <break time="800ms"/>
 Max transient ITT. 8, 25 celsius for Dash 21 equipped aircraft. 6, 95 to 8, 25 for two seconds. 8, 80 celsius for Dash 1 35A equipped aircraft. 8, O 5 to 8, 80 celcsius for two seconds. <break time="800ms"/>
 Max takeoff, continuous and reverse ITT. 6, 95 celsius for Dash 21 equipped aircraft. 8, O 5 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Max low idle ITT. 6, 60 celsius for Dash 21 equipped aircraft. 6, 85 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
@@ -87,14 +87,12 @@ Engine propeller Limits.
 <break time="1200ms"/>
 Max Takeoff and continuous propeller RPM. 22 Hundred RPM for Dash 21 equipped aircraft. 19 Hundred RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Max reverse propeller RPM. 21 Hundred RPM for Dash 21 equipped aircraft. 18, 15 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Transient propeller RPM. 24, 20 RPM for 5 seconds for Dash 21 equipped aircraft. 20, 90 RPM for 5 seconds for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Minimum propeller idle RPM. 11 Hundred RPM for Dash 21 equipped aircraft. 10, 70 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
-N 2, exceeding 22 hundred for Dash 21, or 19 hundred for Dash 1 35A equipped aircraft, is an indication of. Primary governor failure. <break time="800ms"/>
-N 2, exceeding 22, 88 on Dash 21 equipped aircraft is an indication of. Primary and Overspeed governor failure. <break time="800ms"/>
-The overspeed governor attempts to limits propeller speed to less than 104% of the selected propeller speed. <break time="800ms"/>
-If propeller speed exceeds 106% of the selected propeller speed, the Fuel Topping Governor will limit power to keep the propeller speed at 106% or less. <break time="800ms"/>
-In the reverse range, the fuel topping governor will limit propeller speed to 95% of the selected propeller speed. It is important that the propeller levers are pushed full foward in order to achieve maximum reverse. <break time="800ms"/>
-Overspeed governor test RPM. 2000, plus or minus 60 RPM for Dash 21 equipped aircraft. 17 20, plus or minus 40 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max Transient propeller RPM. 110% of the maximum continuous propeller RPM. 24, 20 RPM for 5 seconds for Dash 21 equipped aircraft. 20, 90 RPM for 5 seconds for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Over speed governor limit. 104% of the currently selected propeller RPM. 22, 88 RPM for Dash 21 equipped aircraft. 19, 76 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
+Fuel Topping governer limit. 106% of the currently selected propeller RPM. 23, 32 RPM for Dash 21 equipped aircraft. 20, 14 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
+In the reverse range, the fuel topping governor will limit propeller speed to 95% of the selected propeller speed. It is important that the propeller levers are pushed full forward in order to achieve maximum reverse. <break time="800ms"/>
+Over speed governor test RPM. 2000, plus or minus 60 RPM for Dash 21 equipped aircraft. 17 20, plus or minus 40 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
 <break time="2s"/>
 
 Additional Engine Limits.
@@ -174,7 +172,7 @@ Both wing Ice lights are required per FAA A D 98, zero four, 24. This A D supers
 
 Power Settings
 <break time="1200ms"/>
-Max initial power on takeoff roll. 1,200 foot pounds for Dash 21 equiped aircraft. 1400 foot pounds for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max initial power on takeoff roll. 1,200 foot pounds for Dash 21 equipped aircraft. 1400 foot pounds for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Max Guardian Flight Cruise ITT. 6, 80 Celsius for Dash 21 equipped aircraft. 7, 90 Celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
 <break time="2s"/>
 

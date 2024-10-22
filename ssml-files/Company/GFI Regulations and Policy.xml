@@ -2,33 +2,80 @@
 Regulations and policy
 <break time="1200ms"/>
 
+I.F.R. fuel requirements.
+<break time="1200ms"/>
+Enough fuel must be carried to complete the flight to the first airport of intended landing, fly from that airport to the alternate airport, and fly after that for 45 minutes at normal cruising speed. <break time="300ms"/>
+Reference. one thirty five,  two 23, A.
+<break time="1200ms"/>
+
 When do you not need an alternate for your destination?
 <break time="1200ms"/>
 For one hour before or after the expected time of arrival, the ceiling must be at least 1,500 feet above the lowest circling approach Minimum Descent Altitude, or <break time="300ms"/>
 If a circling instrument approach procedure is not authorized, the ceiling must be at least 1,500 feet above the lowest ceiling minimums or 2,000 feet above airport elevation, whichever is higher, and <break time="300ms"/>
-The visibility must be forecast to be at least 3 statute miles, or 2 statute miles more than the lowest applicable visibility minimums, whichever is greater, for the instrument approach procedure to be used at the destination airport.
+The visibility must be forecast to be at least 3 statute miles, or 2 statute miles more than the lowest applicable visibility minimums, whichever is greater, for the instrument approach procedure to be used at the destination airport. <break time="800ms"/>
+Reference. one thirty five,  two 23, B.
 <break time="1200ms"/>
 
-Alternate Airport IFR Weather Minimums.
+Alternate Airport I.F.R. Weather Minimums.
 <break time="1200ms"/>
-For airports with at least one navigation facility, add 400 feet to the minimum descent altitude or decision altitude and 1 statute mile to the visibility. For airports with at least two navigation facilities and straight-in approaches to at least two different runways, add 200' to the minimum descent altitude or decision altitude and half of a statute mile to the visibility.
+For airports with at least one operational navigational facility providing a straight in, non precision, or CAT one precision, approach procedure, add 400 feet to the minimum descent altitude or height, or decision altitude or height, and add one statute mile or 1600 meters to the landing minimum. <break time="300ms"/>
+For airports with at least two operational navigational facilities, each providing a straight in approach procedure to different suitable runways, add 200 feet to the minimum descent altitude or height, or decision altitude or height, and add one half statute mile or 800 meters to the landing minimum. <break time="300ms"/>
+If appropriately equipped, you may use a G.P.S. based instrument approach procedures at both the destination and an alternate airport. However, At the alternate, only L-NAV or circling M.D.A.'s are to be planned for unless equipped with baro V-NAV. <break time="800ms"/>
+Reference. Op Spec Charlie fifty five.
 <break time="1200ms"/>
 
 IFR takeoff minimums
 <break time="1200ms"/>
-Standard takeoff minimums for aircraft with 2 or less engines is 1 statute mile. If minimums are standard for the airport, then you can use the lowest CAT 1 minimum for the airport. Touchdown zone RVR <break time="300ms"/>(if reported) <break time="300ms"/> is controlling for the minimum visibilities. If the airport has a nonstandard takeoff minimum that are greater than standard, then the nonstandard minimum supersedes all others.
+Standard takeoff minimums are 1 statute mile or R.V.R 5000 for aircraft having two engines or less, and one half statute mile or R.V.R 2400 for airplanes having more than 2 engines.
+Additionally, the certificate holder is authorized to use a takeoff minimum equal to the lowest authorized straight-in Category one I.F.R. landing minimum applicable to the certificate holder for that particular airport. Touchdown R.V.R report, if available is controlling.
+If a higher than standard takeoff minimum is published and no alternate procedure is prescribed, that higher published takeoff minimum is controlling.
+The note prohibiting single-engine I.F.R. part 135 passenger-carrying operations, in lower than standard takeoff minimums, only applies to non turbine single-engine aircraft.<break time="800ms"/>
+Reference. Op Spec Charlie fifty seven.
 <break time="1200ms"/>
 
-When is takeoff alternate required?
+When is a takeoff alternate required?
 <break time="1200ms"/>
-If the visibility is lower than the lowest approach minimums then you must have an alternate for your departure.
+If the required weather conditions are above takeoff minimums, but below authorized I.F.R. landing minimums, you must have an alternate airport within 1 hour's flying time, at normal cruising speed in still air, of the departure airport. <break time="800ms"/>
+Reference. one 35, two 17.
 <break time="1200ms"/>
 
-Lost communication procedures.
+Continuing an approach at the destination.
 <break time="1200ms"/>
-Transponder set to 7600. <break time="800ms"/>
-Route, <break time="300ms"/>Cleared, <break time="300ms"/>Expected, <break time="300ms"/>Filed. <break time="800ms"/>
-Altitude, highest of <break time="300ms"/>Assigned, <break time="300ms"/>Minimum enroute, <break time="300ms"/>expected altitude.
+Must have the required approach minimums in order to continue an instrument approach, unless the aircraft is already established on the final approach segment of the approach. Upon arriving at the MDA or DA you must have the required weather minimums in order to land. <break time="800ms"/>
+Reference. 135, two 25.
+<break time="1200ms"/>
+
+Requirements for descending below the Decision or minimum descent altitudes. You need to have any of the following in sight.
+<break time="300ms"/>the runway or environment.
+<break time="300ms"/>the approach lighting system.
+<break time="300ms"/>the threshold marking or lighting.
+<break time="300ms"/>the runway end identifier lights.
+<break time="300ms"/>the VASI.
+<break time="300ms"/>the touchdown zone markings or lights.
+<break time="300ms"/> and the runway markings or lights. Additionally, you need the required flight visibility and can make a normal approach and landing.<break time="800ms"/>
+Reference. 91, one 75.
+<break time="1200ms"/>
+
+Relevant Approach Category speeds.
+<break time="1200ms"/>
+Category B. 91 to 121 knots. <break time="300ms"/>
+Category C. 121 to 141 knots. <break time="800ms"/>
+For Guardian Flight, approach speed standards are V-REF to V-REF plus 10 knots.
+<break time="1200ms"/>
+
+
+Circling approach radius distance.
+<break time="1200ms"/>
+Standard Circling Approach Maneuvering radius. <break time="800ms"/>
+Category B, 1.5 nautical miles. <break time="300ms"/>
+Category C, 1.7 Nautical miles. <break time="1200ms"/>
+Expanded Circling Approach maneuvering radius. <break time="800ms"/>
+M.D.A .of 1000 feet or less. 1.7 nautical miles for Cat B. 2.7 nautical miles for Cat C. <break time="300ms"/>
+M.D.A .of 1001 to 3000 feet. 1.8 nautical miles for Cat B. 2.8 nautical miles for Cat C. <break time="300ms"/>
+M.D.A. of 3001 to 5000 feet. 1.8 nautical miles for Cat B. 2.9 nautical miles for Cat C. <break time="300ms"/>
+M.D.A. of 5001 to 7000 feet. 1.9 nautical miles for Cat B. 3.0 nautical miles for Cat C. <break time="300ms"/>
+M.D.A. of 7001 to 9000 feet. 2.0 nautical miles for Cat B. 3.2 nautical miles for Cat C. <break time="300ms"/>
+M.D.A. of 9001 feet and above. 1.9 nautical miles for Cat B. 3.0 nautical miles for Cat C.
 <break time="1200ms"/>
 
 Land and hold short restrictions.
@@ -42,46 +89,37 @@ Land and hold short restrictions.
 - LAH SO is not authorized if wind shear is reported in the 20 minutes prior to the LAH SO clearance. <break time="800ms"/>
 - Tailwind should be calm or less than 3 knots. <break time="800ms"/>
 - Night LAH SO only with approved LAH SO lighting installed. <break time="800ms"/>
-- Reference, Op spec Alpha Oh 2 7. <break time="800ms"/>
+- Reference, Op spec Alpha 27.
 <break time="1200ms"/>
 
+Lost communication procedures.
 <break time="1200ms"/>
-Requirements for descending below the Decision or minimum descent altitudes. You need to have any of the following in sight.
-<break time="300ms"/>the runway or environment.
-<break time="300ms"/>the approach lighting system.
-<break time="300ms"/>the threshold marking or lighting.
-<break time="300ms"/>the runway end identifier lights.
-<break time="300ms"/>the VASI.
-<break time="300ms"/>the touchdown zone markings or lights.
-<break time="300ms"/> and the runway markings or lights. Additionally, you need the required flight visibility and can make a normal approach and landing.
+If under V.F.R. conditions, continue the flight under V.F.R. and land as soon as practicable. Otherwise, if under I.F.R. conditions. <break time="800ms"/>
+Transponder set to 7600. <break time="800ms"/>
+Route, <break time="300ms"/>Cleared, <break time="300ms"/> Vectored, <break time="300ms"/> Expected, <break time="300ms"/>Filed. <break time="800ms"/>
+Altitude, highest of <break time="300ms"/>Assigned, <break time="300ms"/>Minimum en route, <break time="300ms"/>expected altitude. <break time="800ms"/>
+Reference. one 35, one 85.
+<break time="1200ms"/>
 
+One thirty five V.F.R. minimums
 <break time="1200ms"/>
-Speed limit below 10000 feet. 250 knots. <break time="800ms"/>
-Speed limit below class Bravo airspace or a VFR corridor. 200 knots. <break time="800ms"/>
+V.F.R. minimum altitudes. <break time="1000ms"/>
+Daytime, 500 feet above the surface and 500 feet horizontally from any obstacle. <break time="800ms"/>
+At night, 1000 feet above the highest obstacle within 5 miles of the course to be flown or 2000 feet in mountainous terrain. <break time="1000ms"/>
+V.F.R. minimum visibility. <break time="1000ms"/>
+In uncontrolled airspace, not less than 1000 feet ceilings unless the flight visibility is at least 2 miles.
+<break time="800ms"/> Reference one thirty five two zero three and two zero five.
+<break time="1200ms"/>
+
+Airspace speed Limits
+<break time="1200ms"/>
+Speed limit below 10000 feet. 250 knots. <break time="300ms"/>
+Speed limit below class Bravo airspace or a V.F.R. corridor. 200 knots. <break time="300ms"/>
 Speed limit for class Charlie or Delta. 200 knots within 4 nautical miles and up to 2500 A. G. L. <break time="800ms"/>
-Rest requirements. 10 hours of rest within the preceding 24 hours to the start of duty. <break time="800ms"/>
-
+Reference. 91, one 17.
 <break time="1200ms"/>
-Flight hour limits.
-<break time="300ms"/>8 hours per day,
-<break time="300ms"/>500 hours per quarter,
-<break time="300ms"/>800 hours every 2 consecutive quarters,
-<break time="300ms"/>1400 hours per calendar year.
-<break time="300ms"/>Reference, one thirty five, two sixty seven.
 
-<break time="1200ms"/>
-Documents required.
-<break time="300ms"/>Airworthiness certificate,
-<break time="300ms"/>Aircraft registration,
-<break time="300ms"/>Radio station licence for flights outside of the US,
-<break time="300ms"/>Operating limitations,
-<break time="300ms"/>weight and balance data,
-<break time="300ms"/>avionics manuals,
-<break time="300ms"/>company issued electronic flight bag,
-<break time="300ms"/>aircraft maintenance logbook.
-<break time="1200s"/>
-
-One Thirthy Five Oxygen Requirements
+One Thirty Five Oxygen Requirements
 <break time="1200ms"/>
 For pilots. <break time="300ms"/>
 At MSL altitudes or cabin altitudes above 10000 through 12000 feet. Continuously after 30 minutes. <break time="800ms"/>
@@ -90,21 +128,41 @@ For passengers. <break time="300ms"/>
 At MSL altitudes or cabin altitudes above 10000 through 15000 feet. Available to supply at least 10% of passengers after 30 minutes at those altitudes. <break time="800ms"/>
 Above 15000 feet. Supplied to all passengers. <break time="800ms"/>
 Above 25000 feet in pressurized aircraft. At least a 10 minute supply to all occupants of the aircraft, for use in the event of the loss of cabin pressurization.
-<break time="1000ms"/>
+<break time="800ms"/>
 Reference one thirty five, eighty nine and one fifty seven.
 <break time="1200ms"/>
 
-One thirty five V.F.R. minimums
+Flight hour limits, unscheduled operations.
 <break time="1200ms"/>
-VFR minimum altitudes. <break time="1000ms"/>
-Daytime, 500 feet above the surface and 500 feet horizontally from any obstacle. <break time="800ms"/>
-At night, 1000 feet above the highest obstacle within 5 miles of the course to be flown or 2000 feet in mountainous terrain. <break time="1000ms"/>
-VFR minimum visibility. <break time="1000ms"/>
-In uncontrolled airspace, not less than 1000 feet ceilings unless the flight visibility is at least 2 miles.
-<break time="800ms"/> Reference one thirty five two zero three and two zero five.
+8 hours per day <break time="300ms"/>
+500 hours per quarter <break time="300ms"/>
+800 hours every 2 consecutive quarters <break time="300ms"/>
+1400 hours per calendar year <break time="800ms"/>
+Rest requirements. 10 hours of rest within the preceding 24 hours to the start of duty. <break time="800ms"/>
+Reference, one thirty five, two sixty seven.
 <break time="1200ms"/>
 
-M.E.L. category durations
+Multi engine aircraft load manifest requirement.
+<break time="1200ms"/>
+A load manifest must be prepared prior to each flight for multi engine aircraft. A copy of this record must be carried in the aircraft to it's destination and copy maintained by the certificate holder for at least 30 days. <break time="800ms"/>
+Reference, one thirty five, 63.
+<break time="1200ms"/>
+
+Medical certificate duration.
+<break time="1200ms"/>
+First Class, 12 calendar months if under 40 and 6 months if 40 or older. <break time="300ms"/>
+Second class, 12 calendar months. <break time="300ms"/>
+Third class, 60 calendar months if under 40 and 24 calendar months if 40 or older. <break time="800ms"/>
+Reference 61, 23.
+<break time="1200ms"/>
+
+Pre-takeoff contamination check.
+<break time="1200ms"/>
+At any time the conditions are such that frost, ice, or snow may be reasonably expected to adhere to the aircraft, a Pre-takeoff contamination check must be completed within 5 minutes of takeoff, in order to ensure that critical surfaces are free of contamination. <break time="800ms"/>
+Reference Op spec Alpha 41.
+<break time="1200ms"/>
+
+M.E.L. category duration
 <break time="1200ms"/>
 Category A. Defined in M.E.L. <break time="800ms"/>
 Category B. 3 days. <break time="800ms"/>
@@ -112,11 +170,24 @@ Category C. 10 days. <break time="800ms"/>
 Category D. 120 days. <break time="800ms"/>
 <break time="1200ms"/>
 
-Medical certificate duration. First Class, 12 calendar months if under 40 and 6 months if 40 or older. Second class, 12 calendar months. Third class, 60 calendar months if under 40 and 24 calendar months if 40 or older. <break time="800ms"/>
-Pre-takeoff contamination check. Pre-takeoff contamination check must be done within 5 minutes of takeoff. <break time="800ms"/>
-Continuing an approach at the destination. Must have the required minimums to continue unless past the final approach fix on the approach. <break time="800ms"/>
+Documents required.
+<break time="1200ms"/>Airworthiness certificate,
+<break time="300ms"/>Aircraft registration,
+<break time="300ms"/>Radio station license for flights outside of the US,
+<break time="300ms"/>Operating limitations,
+<break time="300ms"/>weight and balance data,
+<break time="300ms"/>avionics manuals,
+<break time="300ms"/>company issued electronic flight bag,
+<break time="300ms"/>aircraft maintenance logbook.
+<break time="1200ms"/>
+
+Transponder emergency codes.
+<break time="1200ms"/>
+75 hundred, Hijacking. 76 hundred, Radio failure. 77 hundred, general emergency. <break time="800ms"/>
+<break time="1200ms"/>
+
 Width of a victor airway. 8 nautical miles, 4 miles on either side of the center. <break time="800ms"/>
 Standard holding pattern turning direction. To the right. <break time="800ms"/>
-Information to report to ATC upon entering a hold. Time and altitude reaching the clearance limit. Begin slowing to holding speed within 3 minutes or less. <break time="800ms"/>
-3 degree Glideslope calculation. Half of your ground speed multiplied by 10. <break time="800ms"/>
+Information to report to A.T.C. upon entering a hold. Time and altitude reaching the clearance limit. Begin slowing to holding speed within 3 minutes or less. <break time="800ms"/>
+3 degree Glide slope calculation. Half of your ground speed multiplied by 10. <break time="800ms"/>
 </speak>

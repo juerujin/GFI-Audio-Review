@@ -1,7 +1,8 @@
 <speak>
 Opspec Review
 <break time="1200ms"/>
-
+Alpha Category
+<break time="1200ms"/>
 Alpha One. Primary Business Address. Doing business as names. Authorization to operate under part 91. <break time="800ms"/>
 Alpha two. Definitions and abbreviations. <break time="800ms"/>
 Alpha three. Authorized aircraft types. <break time="800ms"/>
@@ -11,9 +12,10 @@ Chief Pilot, Nathan Larson-Alexander. <break time="300ms"/>
 Director of Operations, Nicholas Cusimano. <break time="300ms"/>
 Director of Quality Assurance, Steven Sobezak. <break time="300ms"/>
 Director of Maintenance, George Tanos. <break time="800ms"/>
+Assistant Director of Maintenance, Lawrence Peranto. <break time="800ms"/>
 Alpha seven. List of designated persons. <break time="300ms"/>
-Agent for service, Jeremy Salveson. <break time="300ms"/>
-The Chief Pilot, Director of Maintenance, Director of Operations and director of quality assurance can apply for and recive op specs. <break time="800ms"/>
+Agent for service, Jared Sherman. <break time="300ms"/>
+The Chief Pilot, Director of Maintenance, Director of Operations and director of quality assurance can apply for and receive op specs. <break time="800ms"/>
 Alpha eight. List of persons with operational control. Consist of the Director of Operations, the Chief Pilot and the Director of Maintenance. <break time="800ms"/>
 Alpha nine. Defines the means by which the certificate holder will obtain, maintain, and distribute aeronautical data for the airports it uses. Located in G.O.M chapter 5<break time="800ms"/>
 Alpha ten. Approved sources of aviation weather information. <break time="800ms"/>
@@ -21,17 +23,88 @@ Alpha fifteen. Authorization to use an autopilot in lieu of a second in command 
 Alpha twenty four. Authorization to perform air ambulance operations.
 Alpha twenty five. Authorization to use electronic signatures, electronic record keeping systems and electronic manual systems along with a list of approved systems.
 Alpha twenty seven. Authorization to perform Land and Hold Short Operations. <break time="300ms"/>
-Landing distance should be AFM plus 1000 feet. <break time="300ms"/>
+Landing distance should be A.F.M. plus 1000 feet. <break time="300ms"/>
 No wet runways. <break time="300ms"/>
 Runway must have electronic or visual approach guidance. <break time="300ms"/>
 Weather of no less than a 1500 foot ceiling and a visibility of no less than 5 statute miles. <break time="300ms"/>
 Weather can be reduced to 1000 and 3 if a PAPI or VASI is installed and operational. <break time="300ms"/>
 Where a rejected landing procedure is published, weather minima will be published in local flying directives. <break time="300ms"/>
-LAH SO not authorized if windshear reported in the 20 minutes prior to the LAH SO clearance. <break time="300ms"/>
+LAH SO not authorized if wind-shear reported in the 20 minutes prior to the LAH SO clearance. <break time="300ms"/>
 Tailwind should be calm or less than 3 knots. <break time="300ms"/>
 Night LAH SO only with approved LAH SO lighting installed. <break time="800ms"/>
 Alpha thirty one. Authorization to use contract training facilities. <break time="800ms"/>
 Alpha forty one. Authorization to complete a pre-takeoff contamination check. <break time="800ms"/>
+Alpha forty six. Authorization to perform single engine I.F.R. passenger carrying operations. <break time="800ms"/>
+Alpha fifty seven. Authorization to perform eligible on demand operations. Eligible on demand operations will be conducted in accordance with Guardian flight G.O.M. Chapter 9.  <break time="800ms"/>
+Alpha sixty one. Authorization to conduct operations using an electronic flight bag, and the aircraft authorized under that program.  <break time="800ms"/>
+Alpha ninety six. Authorization to use only actual weights when determining aircraft weight and balance. Solicited weights must be passenger weight plus ten pounds. <break time="800ms"/>
+Alpha three forty eight. Authorization to allow persons eligible under part one twenty one dot five forty seven access to the flight deck using the Cockpit Access security system program and or the flight standards flight deck access restriction program in accordance with the relevant limitations and provisions. <break time="800ms"/>
+Alpha four forty nine. The certificate holder will comply with the requirements of 14 C.F.R. part 120 and 49 C.F.R. part 40 for it's anti drug and alcohol misuse prevention program. <break time="800ms"/>
+Alpha nine nine nine. Copy of the Air operator certificate issued to guardian flight.
+<break time="1200ms"/>
+
+Bravo Category
+<break time="1200ms"/>
+Bravo thirty. Authorization to conduct I.F.R. en route, area navigation operations in the state of Alaska and its airspace, on published air traffic routes using G.P.S. WAAS R-NAV systems as the only means of I.F.R. navigation, in accordance with the provisions of S-FAR ninety seven and this op spec. <break time="800ms"/>
+Bravo thirty one. Authorization to conduct en route operations within the areas listed in Bravo fifty. Additionally, it includes authorization, limitations, and provisions, to conduct class one navigation, or navigation within the service volumes of ICAO standard navigation aids, and class two navigation, which is any navigation not classed as class one navigation. <break time="800ms"/>
+Bravo thirty two. Contains the specific en route limitations and provisions when conducting class one and two navigation. <break time="800ms"/>
+Bravo thirty four. Authorization to conduct I.F.R. class one en route navigation using the listed area navigation systems. The included table list aircraft and navigation system types and their associated navigation performance.<break time="800ms"/>
+Bravo thirty five. Authorization to conduct I.F.R. class one en route navigation in Class Alpha airspace using the listed area or long range navigation systems. The included table list aircraft, navigation system types, software revisions, and their associated navigation performance. <break time="800ms"/>
+Bravo forty six. Authorization to conduct operations in reduced vertical separation minimum or R.V.S.M. airspace as well as the relevant requirements and limitations. <break time="800ms"/>
+Bravo fifty. Authorization to conduct en route operations in the listed specific areas as well as the relevant limitations and provisions. <break time="800ms"/>
+Bravo four fifty. Information regarding sensitive international areas as well as any authorizations and the point of contact for any timely updates.
+<break time="1200ms"/>
+
+Charlie Category
+<break time="1200ms"/>
+Charlie fifty one. Authorization to conduct terminal instrument operations. <break time="800ms"/>
+Charlie fifty two. Authorization to conduct specific types of instrument approach procedures as listed in this op spec as well as the relevant limitations and provisions. <break time="800ms"/>
+Charlie fifty four. High minimum P.I.C. provisions and limitations on the use of landing minimums for turbojet airplanes. <break time="800ms"/>
+Charlie fifty five. Authorization to derive alternate airport weather minimums. <break time="300ms"/>
+For airports with at least one operational navigational facility providing a straight in, non precision, or CAT one precision, approach procedure, add 400 feet to the minimum descent altitude or height, or decision altitude or height, and add one statute mile or 1600 meters to the landing minimum. <break time="300ms"/>
+For airports with at least two operational navigational facilities, each providing a straight in approach procedure to different suitable runways, add 200 feet to the minimum descent altitude or height, or decision altitude or height, and add one half statute mile or 800 meters to the landing minimum. <break time="300ms"/>
+Additionally, it contains the limitations and provisions for using G.P.S. based instrument approach procedures at both the destination and an alternate airport.
+At the alternate, only L-NAV or circling M.D.A.'s are to be planned for unless equipped with baro V-NAV.<break time="800ms"/>
+
+Charlie fifty seven. IFR take-off minimums for part one thirty five airplane operations. <break time="300ms"/>
+Standard takeoff minimums are 1 statute mile or R.V.R 5000 for aircraft having two engines or less, and one half statute mile or R.V.R 2400 for airplanes having more than 2 engines.
+Additionally, the certificate holder is authorized to use a takeoff minimum equal to the lowest authorized straight-in Category one I.F.R. landing minimum applicable to the certificate holder for that particular airport. Touchdown R.V.R report, if available is controlling.
+If a higher than standard takeoff minimum is published and no alternate procedure is prescribed, that higher published takeoff minimum is controlling.
+The note prohibiting single-engine I.F.R. part 135 passenger-carrying operations, in lower than standard takeoff minimums, only applies to non turbine single-engine aircraft.<break time="800ms"/>
+
+Charlie sixty three. Authorization to conduct I.F.R. R-NAV one and, or R.N.P. one, departure procedures, standard terminal arrival routes, and or tailored arrivals using approved R-NAV systems. <break time="800ms"/>
+Charlie sixty four. Authorization to conduct non scheduled passenger and all cargo terminal area I.F.R. operations in Class Golf airspace or at airports without an operating control tower in accordance with the limitations and provisions in this paragraph. <break time="800ms"/>
+Charlie sixty seven. Special authorization, provisions and limitations for certain airports. <break time="800ms"/>
+
+Charlie seventy three. Vertical navigation, V-NAV, instrument approach procedures, I.A.P. , using minimum descent altitude, M.D.A. ,  as a decision altitude, D.A. , or Decision height, D.H. <break time="300ms"/>
+Allows specific aircraft with specific equipment and software to use an M.D.A. as a D.A. or D.H. . <break time="300ms"/>
+This opspec provides protection for the temporary altitude loss below the MDA when performing a missed approach when using an MDA as a D.A. or D.H. . <break time="300ms"/>
+Simply stated, the runway for the non-precision approach to be used, must also be served by a precision approach with vertical guidance or a visual glide slope indicator.
+The final approach course must be exactly the same, and the Visual descent angle must be the same or greater. The vertical path flown must cross at or above all step down fix altitudes as referenced on the barometric altimeter. <break time="300ms"/>
+Specific V-NAV path angles are required for different categories of aircraft. <break time="300ms"/>
+If the requirements of this section are not met, the certificate holder may still use a continuous descent final approach, but must begin the missed approach so as not to descend below the M.D.A. <break time="800ms"/>
+
+Charlie seventy five. Circle to land approach maneuver, Category One I.F.R. landing minimums. Defines the limitations and provisions under which a circle to land maneuver may be performed from an instrument approach procedure. <break time="800ms"/>
+Charlie seventy seven. Terminal Visual Flight Rules, limitations, and provisions. Applies to turbojet operations. <break time="800ms"/>
+Charlie seventy nine. I.F.R. lower than standard takeoff minima, 14 C.F.R. part one thirty five airplane operations, all airports. Applies to turbojet operations. <break time="800ms"/>
+Charlie eighty one. Special Instrument and R-NAV visual flight procedures. Contains a list of special instrument approach procedures authorized for use in flight operations.
+<break time="1200ms"/>
+
+Delta Category
+<break time="1200ms"/>
+Delta seventy three. Approved aircraft inspection program. <break time="800ms"/>
+Delta eighty four. Special flight permit with continuous authorization to conduct ferry flights. <break time="800ms"/>
+Delta eighty five. Aircraft listing. <break time="800ms"/>
+Delta ninety two. Airplanes authorized for operations in designated reduced vertical separation minimum, R.V.S.M. , airspace. <break time="800ms"/>
+Delta ninety five. Minimum equipment list authorization. <break time="800ms"/>
+Delta one oh one. Additional maintenance requirements, aircraft engine, propeller, and propeller control or governor. <break time="800ms"/>
+Delta one oh three. Additional maintenance requirements, single engine I.F.R.. <break time="800ms"/>
+Delta one oh four. Additional maintenance requirements, emergency equipment. <break time="800ms"/>
+<break time="1200ms"/>
+
+Echo Category
+<break time="1200ms"/>
+Echo ninety six. Weight and Balance Control Procedures. <break time="800ms"/>
 <break time="1200ms"/>
 
 

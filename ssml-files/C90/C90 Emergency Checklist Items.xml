@@ -35,7 +35,7 @@ Engine Fire on ground.
 <break time="1200ms"/>
 Condition Lever. Cut-off. <break time="1s"/>
 Fuel Firewall Shutoff Valve. Close. <break time="1s"/>
-<break time="1200ms"/>  
+<break time="1200ms"/>
 
 Engine Failure in Flight below V M C A .
 <break time="1200ms"/>
@@ -81,7 +81,7 @@ Flaps. Up. <break time="1s"/>
 Propellers. Feathered. <break time="1s"/>
 Airspeed. 125 knots. <break time="1s"/>
 Glide ratio. 1.8 nautical miles per 1000 feet. <break time="1s"/>
-<break time="1200ms"/> 
+<break time="1200ms"/>
 
 Autopilot Malfunction, elevator trim runaway.
 <break time="1200ms"/>
@@ -99,7 +99,6 @@ Rudder Trim. As required. <break time="1s"/>
 High differential pressure.
 <break time="1200ms"/>
 Cabin altitude controller. Select higher cabin altitude setting. <break time="1s"/>
-Item. Action. <break time="1s"/>
 If condition persists. <break time="1s"/>
 Bleed air valves. Closed. <break time="1s"/>
 Cabin Pressure, after cabin is depressurized. Dump. <break time="1s"/>
@@ -121,10 +120,8 @@ Full Rudder. Opposite direction of spin. <break time="1s"/>
 Power levers. Idle. <break time="1s"/>
 Rudder. Neutralize when rotation stops. <break time="1s"/>
 Execute a smooth pullout. <break time="1s"/>
-<break time="1200ms"/>  
+<break time="1200ms"/>
 
-  
-  
 TAWS Warning.
 <break time="1200ms"/>
 Wings. Level. <break time="1s"/>
