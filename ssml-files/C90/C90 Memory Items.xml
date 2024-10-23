@@ -145,7 +145,7 @@ Electrical Boost pump operating envelope. Both electrical boost pumps must be ac
 Left or Right low fuel pressure annunciator illuminated. engine operation is limited to 10 hours prior to mandatory engine-driven fuel pump replacement or overhaul. Windmilling time is not charged against this limit.
 Boost pumps must be operational prior to takeoff. <break time="800ms"/>
 Unavailable fuel with no fuel transfer pumps. 28 Gallons. <break time="800ms"/>
-Alternate fuel limits. Alternate fuels such as 100 Low Led may be used for 150 hours between engine overhauls. Operations are limited below 8000 feet pressure altitude with inoperative boost pumps. Cross feed capability required for flight above 8000 feet pressure altitude. <break time="800ms"/>
+Alternate fuel limits. Alternate fuels such as 100 Low Led may be used for 150 hours between engine overhauls. Operations are limited below 8000 feet pressure altitude with inoperative boost pumps. Cross feed capability is required for flight above 8000 feet pressure altitude. <break time="800ms"/>
 <break time="2s"/>
 
 Pressurization Limits.
