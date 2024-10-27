@@ -4,7 +4,7 @@ Regulations and policy
 
 I.F.R. fuel requirements.
 <break time="1200ms"/>
-Enough fuel must be carried to complete the flight to the first airport of intended landing, fly from that airport to the alternate airport, and fly after that for 45 minutes at normal cruising speed. <break time="300ms"/>
+Enough fuel must be carried to complete the flight to the first airport of intended landing, then fly from that airport to the alternate airport, then fly after that for 45 minutes at normal cruising speed. <break time="300ms"/>
 Reference. one thirty five,  two 23, A.
 <break time="1200ms"/>
 
@@ -24,11 +24,11 @@ If appropriately equipped, you may use a G.P.S. based instrument approach proced
 Reference. Op Spec Charlie fifty five.
 <break time="1200ms"/>
 
-IFR takeoff minimums
+I.F.R. takeoff minimums
 <break time="1200ms"/>
 Standard takeoff minimums are 1 statute mile or R.V.R 5000 for aircraft having two engines or less, and one half statute mile or R.V.R 2400 for airplanes having more than 2 engines.
 Additionally, the certificate holder is authorized to use a takeoff minimum equal to the lowest authorized straight-in Category one I.F.R. landing minimum applicable to the certificate holder for that particular airport. Touchdown R.V.R report, if available is controlling.
-If a higher than standard takeoff minimum is published and no alternate procedure is prescribed, that higher published takeoff minimum is controlling.
+If a higher than standard takeoff minimum is published, and no alternative procedure is prescribed, that higher published takeoff minimum is controlling.
 The note prohibiting single-engine I.F.R. part 135 passenger-carrying operations, in lower than standard takeoff minimums, only applies to non turbine single-engine aircraft.<break time="800ms"/>
 Reference. Op Spec Charlie fifty seven.
 <break time="1200ms"/>
@@ -41,7 +41,7 @@ Reference. one 35, two 17.
 
 Continuing an approach at the destination.
 <break time="1200ms"/>
-Must have the required approach minimums in order to continue an instrument approach, unless the aircraft is already established on the final approach segment of the approach. Upon arriving at the MDA or DA you must have the required weather minimums in order to land. <break time="800ms"/>
+Must have the required approach minimums in order to continue an instrument approach, unless the aircraft is already established on the final approach segment of the approach. Upon arriving at the M.D.A. or D.A. you must have the required weather minimums in order to land. <break time="800ms"/>
 Reference. 135, two 25.
 <break time="1200ms"/>
 
@@ -78,7 +78,7 @@ M.D.A. of 7001 to 9000 feet. 2.0 nautical miles for Cat B. 3.2 nautical miles fo
 M.D.A. of 9001 feet and above. 1.9 nautical miles for Cat B. 3.0 nautical miles for Cat C.
 <break time="1200ms"/>
 
-Land and hold short restrictions.
+Land and hold short requirements and limitations.
 <break time="1200ms"/>
 - Landing distance should be A.F.M. plus 1000 feet. <break time="800ms"/>
 - No wet runways. <break time="800ms"/>
@@ -92,13 +92,13 @@ Land and hold short restrictions.
 - Reference, Op spec Alpha 27.
 <break time="1200ms"/>
 
-Lost communication procedures.
+Two-way radio communications failure.
 <break time="1200ms"/>
 If under V.F.R. conditions, continue the flight under V.F.R. and land as soon as practicable. Otherwise, if under I.F.R. conditions. <break time="800ms"/>
 Transponder set to 7600. <break time="800ms"/>
-Route, <break time="300ms"/>Cleared, <break time="300ms"/> Vectored, <break time="300ms"/> Expected, <break time="300ms"/>Filed. <break time="800ms"/>
-Altitude, highest of <break time="300ms"/>Assigned, <break time="300ms"/>Minimum en route, <break time="300ms"/>expected altitude. <break time="800ms"/>
-Reference. one 35, one 85.
+Route, <break time="300ms"/>Assigned, <break time="300ms"/> Vectored, <break time="300ms"/> Expected, <break time="300ms"/>Filed. <break time="800ms"/>
+Altitude, for the route segment currently being flown, highest of <break time="300ms"/>Assigned, <break time="300ms"/>Minimum en route, <break time="300ms"/>expected altitude. <break time="800ms"/>
+Reference. 91, one 85. AIM 6 4 1.
 <break time="1200ms"/>
 
 One thirty five V.F.R. minimums
@@ -107,8 +107,20 @@ V.F.R. minimum altitudes. <break time="1000ms"/>
 Daytime, 500 feet above the surface and 500 feet horizontally from any obstacle. <break time="800ms"/>
 At night, 1000 feet above the highest obstacle within 5 miles of the course to be flown or 2000 feet in mountainous terrain. <break time="1000ms"/>
 V.F.R. minimum visibility. <break time="1000ms"/>
-In uncontrolled airspace, not less than 1000 feet ceilings unless the flight visibility is at least 2 miles.
-<break time="800ms"/> Reference one thirty five two zero three and two zero five.
+In uncontrolled airspace, not less than 1000 feet ceilings unless the flight visibility is at least 2 miles. <break time="800ms"/>
+Reference one thirty five two zero three and two zero five.
+<break time="1200ms"/>
+
+Company I.F.R. cancellation and continued V.F.R. flight limitations.
+<break time="1200ms"/>
+For turbo prop aircraft, no further than 40 nautical miles from the destination. <break time="800ms"/>
+Reference Flight standards manual, 4, 10.
+<break time="1200ms"/>
+
+Pre-takeoff contamination check.
+<break time="1200ms"/>
+At any time the conditions are such that frost, ice, or snow may be reasonably expected to adhere to the aircraft, a Pre-takeoff contamination check must be completed within 5 minutes of takeoff, in order to ensure that critical surfaces are free of contamination. <break time="800ms"/>
+Reference Op spec Alpha 41.
 <break time="1200ms"/>
 
 Airspace speed Limits
@@ -144,7 +156,7 @@ Reference, one thirty five, two sixty seven.
 
 Multi engine aircraft load manifest requirement.
 <break time="1200ms"/>
-A load manifest must be prepared prior to each flight for multi engine aircraft. A copy of this record must be carried in the aircraft to it's destination and copy maintained by the certificate holder for at least 30 days. <break time="800ms"/>
+A load manifest must be prepared prior to each flight for multi engine aircraft. A copy of this record must be carried in the aircraft to it's destination and a copy maintained by the certificate holder for at least 30 days. <break time="800ms"/>
 Reference, one thirty five, 63.
 <break time="1200ms"/>
 
@@ -156,18 +168,12 @@ Third class, 60 calendar months if under 40 and 24 calendar months if 40 or olde
 Reference 61, 23.
 <break time="1200ms"/>
 
-Pre-takeoff contamination check.
-<break time="1200ms"/>
-At any time the conditions are such that frost, ice, or snow may be reasonably expected to adhere to the aircraft, a Pre-takeoff contamination check must be completed within 5 minutes of takeoff, in order to ensure that critical surfaces are free of contamination. <break time="800ms"/>
-Reference Op spec Alpha 41.
-<break time="1200ms"/>
-
 M.E.L. category duration
 <break time="1200ms"/>
 Category A. Defined in M.E.L. <break time="800ms"/>
 Category B. 3 days. <break time="800ms"/>
 Category C. 10 days. <break time="800ms"/>
-Category D. 120 days. <break time="800ms"/>
+Category D. 120 days.
 <break time="1200ms"/>
 
 Documents required.
@@ -183,11 +189,34 @@ Documents required.
 
 Transponder emergency codes.
 <break time="1200ms"/>
-75 hundred, Hijacking. 76 hundred, Radio failure. 77 hundred, general emergency. <break time="800ms"/>
+75 hundred, Hijacking. 76 hundred, Radio failure. 77 hundred, general emergency.
 <break time="1200ms"/>
 
 Width of a victor airway. 8 nautical miles, 4 miles on either side of the center. <break time="800ms"/>
 Standard holding pattern turning direction. To the right. <break time="800ms"/>
 Information to report to A.T.C. upon entering a hold. Time and altitude reaching the clearance limit. Begin slowing to holding speed within 3 minutes or less. <break time="800ms"/>
-3 degree Glide slope calculation. Half of your ground speed multiplied by 10. <break time="800ms"/>
+3 degree Glide slope calculation. Half of your ground speed multiplied by 10.
+<break time="1200ms"/>
+
+Regulations and policy quick reference
+<break time="1200ms"/>
+One 35 I.F.R. Fuel requirements. one thirty five,  two 23, A. <break time="800ms"/>
+One 35 Alternate requirements.  one thirty five,  two 23, B. <break time="800ms"/>
+Alternate Airport I.F.R. Weather Minimums. Op Spec Charlie fifty five. <break time="800ms"/>
+One 35 I.F.R. takeoff minimums. Op Spec Charlie fifty seven. <break time="800ms"/>
+One 35 I.F.R. takeoff takeoff alternate requirement. one 35, two 17. <break time="800ms"/>
+One 35, requirements for beginning an approach at an airport. 135, two 25, C. <break time="800ms"/>
+91, Requirements for descending below the Decision or minimum descent altitudes. 91, one 75. <break time="800ms"/>
+Land and hold short requirements and limitations. Op spec Alpha 27. <break time="800ms"/>
+Two-way radio communications failure. 91, one 85. AIM 6 4 1. <break time="800ms"/>
+Sterile cockpit. Reference, one thirty five, 100. <break time="800ms"/>
+One thirty five V.F.R. minimums. one thirty five two zero three and two zero five. <break time="800ms"/>
+Company V.F.R. flight requirements and limitations. Flight standards manual, 4, 10. <break time="800ms"/>
+Requirement to perform a pre takeoff contamination check. Op spec Alpha 41. <break time="800ms"/>
+Airspace speed limits. 91, one 17. <break time="800ms"/>
+One 35 Oxygen Requirements. One thirty five, eighty nine and one fifty seven. <break time="800ms"/>
+One 35 Flight time limitations and rest requirements, unscheduled one and two pilot crews. one thirty five, two sixty seven. <break time="800ms"/>
+Load manifest requirement for multi-engine aircraft. one thirty five, 63. <break time="800ms"/>
+Medical certificate duration. 61, 23.
+<break time="1200ms"/>
 </speak>

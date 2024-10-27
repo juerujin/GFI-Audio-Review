@@ -6,8 +6,8 @@ Alpha Category
 Alpha One. Primary Business Address. Doing business as names. Authorization to operate under part 91. <break time="800ms"/>
 Alpha two. Definitions and abbreviations. <break time="800ms"/>
 Alpha three. Authorized aircraft types. <break time="800ms"/>
-Alpha four. List of authorized opspec paragraphs. <break time="800ms"/>
-Alpha six. List of management personel. <break time="300ms"/>
+Alpha four. List of authorized op  spec paragraphs. <break time="800ms"/>
+Alpha six. List of management personnel. <break time="300ms"/>
 Chief Pilot, Nathan Larson-Alexander. <break time="300ms"/>
 Director of Operations, Nicholas Cusimano. <break time="300ms"/>
 Director of Quality Assurance, Steven Sobezak. <break time="300ms"/>
@@ -66,7 +66,7 @@ For airports with at least two operational navigational facilities, each providi
 Additionally, it contains the limitations and provisions for using G.P.S. based instrument approach procedures at both the destination and an alternate airport.
 At the alternate, only L-NAV or circling M.D.A.'s are to be planned for unless equipped with baro V-NAV.<break time="800ms"/>
 
-Charlie fifty seven. IFR take-off minimums for part one thirty five airplane operations. <break time="300ms"/>
+Charlie fifty seven. I.F.R. take-off minimums for part one thirty five airplane operations. <break time="300ms"/>
 Standard takeoff minimums are 1 statute mile or R.V.R 5000 for aircraft having two engines or less, and one half statute mile or R.V.R 2400 for airplanes having more than 2 engines.
 Additionally, the certificate holder is authorized to use a takeoff minimum equal to the lowest authorized straight-in Category one I.F.R. landing minimum applicable to the certificate holder for that particular airport. Touchdown R.V.R report, if available is controlling.
 If a higher than standard takeoff minimum is published and no alternate procedure is prescribed, that higher published takeoff minimum is controlling.
@@ -106,6 +106,5 @@ Echo Category
 <break time="1200ms"/>
 Echo ninety six. Weight and Balance Control Procedures. <break time="800ms"/>
 <break time="1200ms"/>
-
 
 </speak>
