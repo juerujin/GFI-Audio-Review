@@ -46,13 +46,12 @@ Reference. 135, two 25.
 <break time="1200ms"/>
 
 Requirements for descending below the Decision or minimum descent altitudes. You need to have any of the following in sight.
-<break time="300ms"/>the runway or environment.
-<break time="300ms"/>the approach lighting system.
-<break time="300ms"/>the threshold marking or lighting.
-<break time="300ms"/>the runway end identifier lights.
-<break time="300ms"/>the VASI.
-<break time="300ms"/>the touchdown zone markings or lights.
-<break time="300ms"/> and the runway markings or lights. Additionally, you need the required flight visibility and can make a normal approach and landing.<break time="800ms"/>
+<break time="300ms"/>The approach lighting system.
+<break time="300ms"/>The threshold, threshold markings, or threshold lights.
+<break time="300ms"/>The runway end identifier lights.
+<break time="300ms"/>The VASI.
+<break time="300ms"/>The touchdown zone, touchdown zone markings, or touchdown zone lights.
+<break time="300ms"/>and the runway, runway markings or runway lights. Additionally, you need the required flight visibility and can make a normal approach and landing.<break time="800ms"/>
 Reference. 91, one 75.
 <break time="1200ms"/>
 
