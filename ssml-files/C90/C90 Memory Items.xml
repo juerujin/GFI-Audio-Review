@@ -12,11 +12,9 @@ V, S S E . 97 Knots. <break time="800ms"/>
 V, X . 101 knots. <break time="800ms"/>
 V, X S E. 100 knots. <break time="800ms"/>
 V, Y . 112 knots. <break time="800ms"/>
-V, Y S E . 108 knots. <break time="800ms"/>
+V, Y S E . 108 knots for Dash 21 equipped aircraft. 106 knots for Dash 1 35A equipped aircraft. <break time="800ms"/>
 V, glide. 125 knots. <break time="800ms"/>
 V, A, Maneuvering speed. 163 knots. <break time="800ms"/>
-V, R . 100 knots for Dash 21 powered aircraft, 94 knots for Dash 1 35A powered aircraft at maximum takeoff weight. <break time="800ms"/>
-V, 50 feet. 109 knots for Dash 21 powered aircraft, 111 knots for Dash 1 35A powered aircraft at maximum takeoff weight. <break time="800ms"/>
 V, cruise climb. 150 knots from Sea level up to 10000 feet. 130 knots from 10000 up to 20000 feet. 120 knots from 20000 up to 25000 feet. 110 knots from 25000 up to 30000 feet. <break time="800ms"/>
 V, approach, before the final approach fix. 140 knots. <break time="800ms"/>
 V, approach, after the final approach fix. 120 knots. <break time="800ms"/>
@@ -54,7 +52,10 @@ Aircraft System Limits.
 <break time="1200ms"/>
 De-ice boots minimum temperature. Negative 40 Celsius. <break time="800ms"/>
 Maximum Outside air temperature. I S A plus 37 Celsius. <break time="800ms"/>
-Minimum Altitudes for the use of the autopilot. On Approach, 200 feet. During Climb, 500 feet. All other operations, 1000 feet. <break time="800ms"/>
+Minimum Altitudes for the use of the Collins autopilot. On Approach, 200 feet. During Climb, 500 feet. All other operations, 1000 feet. <break time="800ms"/>
+  
+Minimum Altitudes for the use of the Garmin autopilot. On Approach, 200 feet. During Climb, 500 feet. All other operations, 1000 feet. <break time="800ms"/>
+
 Starting sequence limits. 40 Seconds on, 60 seconds off. 40 Seconds on, 60 seconds off. 40 Seconds on, 30 minutes off. <break time="800ms"/>
 
 <break time="2s"/>
