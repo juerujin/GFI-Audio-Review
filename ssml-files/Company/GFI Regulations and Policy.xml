@@ -16,10 +16,17 @@ The visibility must be forecast to be at least 3 statute miles, or 2 statute mil
 Reference. one thirty five,  two 23, B.
 <break time="1200ms"/>
 
+Destination Airport Weather Minimums.
+<break time="1200ms"/>
+No person may take off an aircraft under IFR, or begin an IFR, or over-the-top operation, unless the latest weather reports or forecasts, or any combination of them, 
+indicate that weather conditions, at the estimated time of arrival at the next airport of intended landing, will be at or above authorized IFR landing minimums.  <break time="800ms"/>
+Reference. one 35, two 19.
+<break time="1200ms"/>
+
 Alternate Airport I.F.R. Weather Minimums.
 <break time="1200ms"/>
-For airports with at least one operational navigational facility providing a straight in, non precision, or CAT one precision, approach procedure, add 400 feet to the minimum descent altitude or height, or decision altitude or height, and add one statute mile or 1600 meters to the landing minimum. <break time="300ms"/>
-For airports with at least two operational navigational facilities, each providing a straight in approach procedure to different suitable runways, add 200 feet to the minimum descent altitude or height, or decision altitude or height, and add one half statute mile or 800 meters to the landing minimum. <break time="300ms"/>
+For airports with at least one operational navigational facility providing a straight in, non precision, or CAT one precision, approach procedure, add 400 feet to the minimum descent altitude or height, or decision altitude or height, and add one statute mile to the landing minimum. <break time="300ms"/>
+For airports with at least two operational navigational facilities, each providing a straight in approach procedure to different suitable runways, add 200 feet to the minimum descent altitude or height, or decision altitude or height, and add one half statute mile to the landing minimum. <break time="300ms"/>
 If appropriately equipped, you may use a G.P.S. based instrument approach procedures at both the destination and an alternate airport. However, At the alternate, only L-NAV or circling M.D.A.'s are to be planned for unless equipped with baro V-NAV. <break time="800ms"/>
 Reference. Op Spec Charlie fifty five.
 <break time="1200ms"/>
@@ -49,9 +56,10 @@ Requirements for descending below the Decision or minimum descent altitudes. You
 <break time="300ms"/>The approach lighting system.
 <break time="300ms"/>The threshold, threshold markings, or threshold lights.
 <break time="300ms"/>The runway end identifier lights.
-<break time="300ms"/>The VASI.
+<break time="300ms"/>The visual glideslope indicator.
 <break time="300ms"/>The touchdown zone, touchdown zone markings, or touchdown zone lights.
-<break time="300ms"/>and the runway, runway markings or runway lights. Additionally, you need the required flight visibility and can make a normal approach and landing.<break time="800ms"/>
+<break time="300ms"/>and the runway, runway markings, or runway lights. Additionally, you need the required flight visibility and can make a normal approach and landing.<break time="1000ms"/>
+For the approach light system reference, the pilot may not descend below 100 feet above the touchdown zone elevation using the approach lights as a reference, unless the red terminating bars or the red side row bars are also distinctly visible and identifiable.
 Reference. 91, one 75.
 <break time="1200ms"/>
 
@@ -65,16 +73,10 @@ For Guardian Flight, approach speed standards are V-REF to V-REF plus 10 knots.
 
 Circling approach radius distance.
 <break time="1200ms"/>
-Standard Circling Approach Maneuvering radius. <break time="800ms"/>
-Category B, 1.5 nautical miles. <break time="300ms"/>
-Category C, 1.7 Nautical miles. <break time="1200ms"/>
-Expanded Circling Approach maneuvering radius. <break time="800ms"/>
-M.D.A .of 1000 feet or less. 1.7 nautical miles for Cat B. 2.7 nautical miles for Cat C. <break time="300ms"/>
-M.D.A .of 1001 to 3000 feet. 1.8 nautical miles for Cat B. 2.8 nautical miles for Cat C. <break time="300ms"/>
-M.D.A. of 3001 to 5000 feet. 1.8 nautical miles for Cat B. 2.9 nautical miles for Cat C. <break time="300ms"/>
-M.D.A. of 5001 to 7000 feet. 1.9 nautical miles for Cat B. 3.0 nautical miles for Cat C. <break time="300ms"/>
-M.D.A. of 7001 to 9000 feet. 2.0 nautical miles for Cat B. 3.2 nautical miles for Cat C. <break time="300ms"/>
-M.D.A. of 9001 feet and above. 1.9 nautical miles for Cat B. 3.0 nautical miles for Cat C.
+Circling Approach Maneuvering airspace radius. <break time="800ms"/>
+All circling areas have been evaluated for the circling radii defined in the digital terminal procedures supplemental. <break time="300ms"/>
+The terms standard and expanded are no longer used, and the inverted C icons can now be ignored, as they will be removed on a day forward basis. <break time="300ms"/>
+The current circling radii by M.D.A, and approach category speeds, can be found in the digital terminal procedures supplemental.
 <break time="1200ms"/>
 
 Land and hold short requirements and limitations.
@@ -94,7 +96,7 @@ Land and hold short requirements and limitations.
 Two-way radio communications failure.
 <break time="1200ms"/>
 If under V.F.R. conditions, continue the flight under V.F.R. and land as soon as practicable. Otherwise, if under I.F.R. conditions. <break time="800ms"/>
-Transponder set to 7600. <break time="800ms"/>
+Transponder set to 76 hundred. <break time="800ms"/>
 Route, <break time="300ms"/>Assigned, <break time="300ms"/> Vectored, <break time="300ms"/> Expected, <break time="300ms"/>Filed. <break time="800ms"/>
 Altitude, for the route segment currently being flown, highest of <break time="300ms"/>Assigned, <break time="300ms"/>Minimum en route, <break time="300ms"/>expected altitude. <break time="800ms"/>
 Reference. 91, one 85. AIM 6 4 1.
@@ -112,14 +114,15 @@ Reference one thirty five two zero three and two zero five.
 
 Company I.F.R. cancellation and continued V.F.R. flight limitations.
 <break time="1200ms"/>
-For turbo prop aircraft, no further than 40 nautical miles from the destination. <break time="800ms"/>
-Reference Flight standards manual, 4, 10.
+No further than 20 nautical miles from the destination. <break time="800ms"/>
+Additionally, at night, you must be cleared for, and established on, a published segment of an approach, and must continue to fly the ground track and altitudes on the approach. <break time="800ms"/>
+G.O.M., 9.2 and 8.2.
 <break time="1200ms"/>
 
-Pre-takeoff contamination check.
+Pre-takeoff contamination check. Icing conditions: operating limitations.
 <break time="1200ms"/>
 At any time the conditions are such that frost, ice, or snow may be reasonably expected to adhere to the aircraft, a Pre-takeoff contamination check must be completed within 5 minutes of takeoff, in order to ensure that critical surfaces are free of contamination. <break time="800ms"/>
-Reference Op spec Alpha 41.
+Reference Op spec Alpha 41. One thirty five two twenty seven.
 <break time="1200ms"/>
 
 Airspace speed Limits
@@ -201,9 +204,10 @@ Regulations and policy quick reference
 <break time="1200ms"/>
 One 35 I.F.R. Fuel requirements. one thirty five,  two 23, A. <break time="800ms"/>
 One 35 Alternate requirements.  one thirty five,  two 23, B. <break time="800ms"/>
+Destination Airport I.F.R. Weather Minimums. one 35, two 19. <break time="800ms"/>
 Alternate Airport I.F.R. Weather Minimums. Op Spec Charlie fifty five. <break time="800ms"/>
 One 35 I.F.R. takeoff minimums. Op Spec Charlie fifty seven. <break time="800ms"/>
-One 35 I.F.R. takeoff takeoff alternate requirement. one 35, two 17. <break time="800ms"/>
+One 35 I.F.R. takeoff alternate requirement. one 35, two 17. <break time="800ms"/>
 One 35, requirements for beginning an approach at an airport. 135, two 25, C. <break time="800ms"/>
 91, Requirements for descending below the Decision or minimum descent altitudes. 91, one 75. <break time="800ms"/>
 Land and hold short requirements and limitations. Op spec Alpha 27. <break time="800ms"/>
@@ -216,6 +220,7 @@ Airspace speed limits. 91, one 17. <break time="800ms"/>
 One 35 Oxygen Requirements. One thirty five, eighty nine and one fifty seven. <break time="800ms"/>
 One 35 Flight time limitations and rest requirements, unscheduled one and two pilot crews. one thirty five, two sixty seven. <break time="800ms"/>
 Load manifest requirement for multi-engine aircraft. one thirty five, 63. <break time="800ms"/>
+Briefing of passengers before flight. One thirty five, one seventeen. <break time="800ms"/>
 Medical certificate duration. 61, 23.
 <break time="1200ms"/>
 </speak>

@@ -3,19 +3,16 @@ Opspec Review
 <break time="1200ms"/>
 Alpha Category
 <break time="1200ms"/>
-Alpha One. Primary Business Address. Doing business as names. Authorization to operate under part 91. <break time="800ms"/>
+Alpha One. Primary Business Address. Authorization to operate under part 91. <break time="800ms"/>
 Alpha two. Definitions and abbreviations. <break time="800ms"/>
 Alpha three. Authorized aircraft types. <break time="800ms"/>
 Alpha four. List of authorized op  spec paragraphs. <break time="800ms"/>
 Alpha six. List of management personnel. <break time="300ms"/>
 Chief Pilot, Nathan Larson-Alexander. <break time="300ms"/>
-Director of Operations, Christopher Burns. <break time="300ms"/>
-Director of Quality Assurance, Steven Sobezak. <break time="300ms"/>
-Director of Maintenance, George Tanos. <break time="800ms"/>
-Assistant Director of Maintenance, Lawrence Peranto. <break time="800ms"/>
-Alpha seven. List of designated persons. <break time="300ms"/>
-Agent for service, Jared Sherman. <break time="300ms"/>
-The Chief Pilot, Director of Maintenance, Director of Operations and director of quality assurance can apply for and receive op specs. <break time="800ms"/>
+Director of Operations, Darrin Greubel. <break time="300ms"/>
+Director of Maintenance, Buck Curry. <break time="300ms"/>
+Agent for service, Christopher Burns. <break time="800ms"/>
+Alpha seven. List of designated persons. <break time="800ms"/>
 Alpha eight. List of persons with operational control. Consist of the Director of Operations, the Chief Pilot and the Director of Maintenance. <break time="800ms"/>
 Alpha nine. Defines the means by which the certificate holder will obtain, maintain, and distribute aeronautical data for the airports it uses. Located in G.O.M chapter 5<break time="800ms"/>
 Alpha ten. Approved sources of aviation weather information. <break time="800ms"/>
@@ -46,10 +43,7 @@ Alpha nine nine nine. Copy of the Air operator certificate issued to guardian fl
 Bravo Category
 <break time="1200ms"/>
 Bravo thirty. Authorization to conduct I.F.R. en route, area navigation operations in the state of Alaska and its airspace, on published air traffic routes using G.P.S. WAAS R-NAV systems as the only means of I.F.R. navigation, in accordance with the provisions of S-FAR ninety seven and this op spec. <break time="800ms"/>
-Bravo thirty one. Authorization to conduct en route operations within the areas listed in Bravo fifty. Additionally, it includes authorization, limitations, and provisions, to conduct class one navigation, or navigation within the service volumes of ICAO standard navigation aids, and class two navigation, which is any navigation not classed as class one navigation. <break time="800ms"/>
-Bravo thirty two. Contains the specific en route limitations and provisions when conducting class one and two navigation. <break time="800ms"/>
-Bravo thirty four. Authorization to conduct I.F.R. class one en route navigation using the listed area navigation systems. The included table list aircraft and navigation system types and their associated navigation performance.<break time="800ms"/>
-Bravo thirty five. Authorization to conduct I.F.R. class one en route navigation in Class Alpha airspace using the listed area or long range navigation systems. The included table list aircraft, navigation system types, software revisions, and their associated navigation performance. <break time="800ms"/>
+Bravo thirty three. IFR en route operations. This opspec replaces bravo 31, 32, 34, and 35. Authorizes IFR en route operations using RNAV/GNSS in areas without ground-based NAVAIDs, requiring the aircraft to maintain at least a One-Hour Reliable Fix (1HRF) capability or comply with additional operational limitations if it cannot. <break time="800ms"/>
 Bravo forty six. Authorization to conduct operations in reduced vertical separation minimum or R.V.S.M. airspace as well as the relevant requirements and limitations. <break time="800ms"/>
 Bravo fifty. Authorization to conduct en route operations in the listed specific areas as well as the relevant limitations and provisions. <break time="800ms"/>
 Bravo four fifty. Information regarding sensitive international areas as well as any authorizations and the point of contact for any timely updates.

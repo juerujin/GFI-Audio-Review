@@ -93,10 +93,18 @@ Glide ratio. 1.8 nautical miles per 1000 feet. <break time="800ms"/>
 Reference. Emergency Procedures Tab 4.
 <break time="1200ms"/>
 
-Autopilot Malfunction, elevator trim runaway.
+Autopilot Malfunction, elevator trim runaway, Collins FCS 65H autopilot.
 <break time="1200ms"/>
 Control Wheel. Hold firmly, be prepared to accept control wheel forces. <break time="1s"/>
-Autopilot, yaw damp, trim disconnect button. Depress fully. <break time="1s"/>
+Autopilot, yaw damp, trim disconnect button. Press and hold. <break time="1s"/>
+Aircraft attitude. maintain, regain control. <break time="800ms"/>
+Reference. Garmin GFC 600 autopilot airplane flight manual supplement.
+<break time="1200ms"/>
+
+Autopilot Malfunction, elevator trim runaway, Garmin GFC 600 autopilot.
+<break time="1200ms"/>
+Control Wheel. Grip firmly. <break time="1s"/>
+Autopilot, disconnect, trim interrupt button. Depress fully. <break time="1s"/>
 Flight controls, power levers. As required to recover the airplane. <break time="800ms"/>
 Reference. Emergency Procedures Tab 5.
 <break time="1200ms"/>
@@ -181,4 +189,5 @@ Left or right chip detect caution. Abnormal Procedures Tab 3. <break time="800ms
 Hydraulic fluid low caution. Abnormal Procedures Tab 5. <break time="800ms"/>
 Battery charge caution. Abnormal Procedures Tab 4. <break time="800ms"/>
 
+<break time="2s"/>
 </speak>

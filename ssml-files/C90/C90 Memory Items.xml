@@ -52,10 +52,9 @@ Aircraft System Limits.
 <break time="1200ms"/>
 De-ice boots minimum temperature. Negative 40 Celsius. <break time="800ms"/>
 Maximum Outside air temperature. I S A plus 37 Celsius. <break time="800ms"/>
-Minimum Altitudes for the use of the Collins autopilot. On Approach, 200 feet. During Climb, 500 feet. All other operations, 1000 feet. <break time="800ms"/>
-  
-Minimum Altitudes for the use of the Garmin autopilot. On Approach, 200 feet. During Climb, 500 feet. All other operations, 1000 feet. <break time="800ms"/>
-
+Minimum Altitudes for the use of the Collins FCS 65H autopilot. On Approach, 200 feet. During Climb, 500 feet. All other operations, 1000 feet. <break time="800ms"/>
+Minimum Altitudes for the use of the Garmin GFC 600 autopilot. On Approach, 200 feet. All other operations, 800 feet. <break time="800ms"/>
+Airspeed limitations for the use of Garmin GFC 600 autopilot. Minimum engagement speed, 91 knots. Maximum engagement speed, 226 knots. <break time="800ms"/>
 Starting sequence limits. 40 Seconds on, 60 seconds off. 40 Seconds on, 60 seconds off. 40 Seconds on, 30 minutes off. <break time="800ms"/>
 
 <break time="2s"/>
@@ -89,12 +88,20 @@ Engine propeller Limits.
 <break time="1200ms"/>
 Max Takeoff and continuous propeller RPM. 22 Hundred RPM for Dash 21 equipped aircraft. 19 Hundred RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Max reverse propeller RPM. 21 Hundred RPM for Dash 21 equipped aircraft. 18, 15 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Minimum propeller idle RPM. 11 Hundred RPM for Dash 21 equipped aircraft. 10, 70 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
-Max Transient propeller RPM. 110% of the maximum continuous propeller RPM. 24, 20 RPM for 5 seconds for Dash 21 equipped aircraft. 20, 90 RPM for 5 seconds for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Over speed governor limit. 104% of the maximum continuous propeller RPM. 22, 88 RPM for Dash 21 equipped aircraft. 19, 76 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
+Minimum propeller idle RPM. 11 Hundred RPM for the McCauley square tipped propellers. 10, 70 RPM for Hartzel round tipped propellers. <break time="800ms"/>
+Max Transient propeller RPM. 110% of 2200 RPM for the McCauley square tipped propellers, and roughly 139% of 1900 for the Hartzel round tipped propellers. 24, 20 RPM for 5 seconds for the McCauley square tipped propellers. 26, 40 RPM not exceeding 20 seconds for the Hartzel round tipped propellers. <break time="800ms"/>
+Over speed governor limit. 104% of the maximum continuous propeller RPM. 22, 88 RPM for Dash 21 equipped aircraft, allowed for sustained periods in accordance with Note 4 on the aircraft type certificate data sheet. 19, 76 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
 Fuel Topping governer limit. 106% of the currently selected propeller RPM. 23, 32 RPM for Dash 21 equipped aircraft. 20, 14 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
 In the reverse range, the fuel topping governor will limit propeller speed to 95% of the selected propeller speed. It is important that the propeller levers are pushed full forward in order to achieve maximum reverse. <break time="800ms"/>
-Over speed governor test RPM. 2000, plus or minus 60 RPM for Dash 21 equipped aircraft. 17 20, plus or minus 40 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Over speed governor test RPM. 2000, plus or minus 60 RPM for Dash 21 equipped aircraft. 17 60, plus or minus 40 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Auto feather arm point. Greater than 90% N1 with both power levers advanced. <break time="800ms"/>
+Yellow index on propeller blade. Indicates the 30 inch station where the propeller blade angle is measured. <break time="800ms"/>
+Max propeller diameter. 90 inches. <break time="800ms"/>
+Minimum propeller diameter. 89 inches. <break time="800ms"/>
+Reverse Propeller Pitch Angle. Negative 10 plus or minus zero point two degrees. <break time="800ms"/>
+Feathered propeller pitch angle. 85.8 plus or minus 0.2 degrees for the McCauley square tipped propellers, and 0.5 degrees for the Hartzel round tipped propellers. <break time="800ms"/>
+McCauley square tipped propeller model number. 4HFR, 3 4C7, 6 8, /, 9 4, LMA, dash 4. <break time="800ms"/>
+Hartzel round tipped propeller model. HC, dash, E4N, dash, 3N, /, D89, 90, sub model K. <break time="800ms"/>
 <break time="2s"/>
 
 Additional Engine Limits.
@@ -112,9 +119,9 @@ Minimum Starting oil temperature. Negative 40 celsius. <break time="800ms"/>
 Low Idle Oil temperature range. Negative 40 to 99 celsius. <break time="800ms"/>
 High Idle Oil temperature range. 0 to 99 celsius. <break time="800ms"/>
 Takeoff and continuous oil temperature range. 10 to 99 celsius. <break time="800ms"/>
-Cruise climb, max cruise temperature range on Dash 21 equiped aircraft. 0 to 99 celsius. <break time="800ms"/>
+Cruise climb, max cruise temperature range on Dash 21 equipped aircraft. 0 to 99 celsius. <break time="800ms"/>
 Max reverse oil temperature range. 0 to 99 celsius. <break time="800ms"/>
-Transient oil temperature range. 0 to 99 celsius for Dash 21 equiped aircraft. 104 celsius for 10 minutes for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Transient oil temperature range. 0 to 99 celsius for Dash 21 equipped aircraft. 104 celsius for 10 minutes for Dash 1 35A equipped aircraft. <break time="800ms"/>
 
 <break time="1200ms"/>
 Oil System Specifications.
@@ -130,23 +137,30 @@ Electrical System Specifications.
 <break time="1200ms"/>
 Generator specifications. 28 Volts, 250 Amps. <break time="800ms"/>
 100% Generator load N1 limits. 85% N1 minimum. <break time="800ms"/>
-Generator load and N1 limits for ground operation. 0 to 50% generator load, 59% N1 minimum. 50 to 80% generator load, 61% N1 minimum. 80 to 85% generator load, 70% N1 minimum. <break time="800ms"/>
-Inverter specifications. 2 Single Phase, 400 Hertz AC inverters at 115 and 26 Volts. <break time="800ms"/>
+Generator load and N1 limits for ground operations. Up to 50% generator loads, 59% N1 minimum. Up to 80% generator loads, 61% N1 minimum. Up to 85% generator loads, 70% N1 minimum. <break time="800ms"/>
+Inverter specifications. 2 Single Phase, 400 Hertz AC inverters at 115 and 26 Volts. Inverter output rated at 250 volt amps. <break time="800ms"/>
 Battery specifications. 24 volts, 42 amp hour, sealed led acid battery. <break time="800ms"/>
-External power requirements. 28.2 plus or minus 0.2 volts. Should be capable of 1000 Amps for 5 seconds, 500 amps for 2 minutes, and 300 amps continuously. <break time="800ms"/>
+External power requirements. 28.2 plus or minus 0.2 volts. Should be capable of 1000 Amps for 5 seconds, 500 amps for 2 minutes, and 300 amps continuously. High voltage lockout, 31 plus or minus 0.5 volts.<break time="800ms"/>
+Minimum starting voltage on battery power. 23 volts. <break time="800ms"/>
+Minimum starting voltage on external power. 20 volts. <break time="800ms"/>
 <break time="2s"/>
 
 Fuel System.
 <break time="1200ms"/>
 Usable fuel capacity. 384 gallons or 2573 pounds.  <break time="800ms"/>
 Fuel Capacity per side. 192 Gallons. 131 in the wing tanks, 61 in the nacelle tank  <break time="800ms"/>
+Fuel Tank distribution. 5 tanks total in each wing system.<break time="800ms"/>
+One leading edge, bladder type tank with a capacity of 40 gallons. <break time="300ms"/>
+Two outboard wing panel, bladder type tanks with a capacity of 23 and 25 gallons respectively. <break time="300ms"/>
+One center section bladder type tank with a capacity of 44 gallons. <break time="300ms"/>
+and a nacelle, bladder type tank with a capacity of 61 gallons. <break time="1000ms"/>
 Max fuel imbalance. 200 pounds. <break time="800ms"/>
 Fuel crossfeed is only permitted during. An electrical boost pump failure or an engine failure. <break time="800ms"/>
 Fuel Low, Yellow arc on fuel quantity gauge. Less than 265 pounds of fuel is left in each wing system. No takeoff permitted. <break time="800ms"/>
 Electrical Boost pump operating envelope. Both electrical boost pumps must be activated prior to engine start. In the event of an inoperative boost pump in flight.
-Left or Right low fuel pressure annunciator illuminated. engine operation is limited to 10 hours prior to mandatory engine-driven fuel pump replacement or overhaul. Windmilling time is not charged against this limit.
+Left or Right low fuel pressure annunciator illuminated. Engine operation is limited to 10 hours prior to mandatory engine-driven fuel pump replacement or overhaul. Windmilling time is not charged against this limit.
 Boost pumps must be operational prior to takeoff. <break time="800ms"/>
-Unavailable fuel with no fuel transfer pumps. 28 Gallons. <break time="800ms"/>
+Unavailable fuel with no fuel transfer pumps. 28 Gallons in each wing system. <break time="800ms"/>
 Alternate fuel limits. Alternate fuels such as 100 Low Led may be used for 150 hours between engine overhauls. Operations are limited below 8000 feet pressure altitude with inoperative boost pumps. Cross feed capability is required for flight above 8000 feet pressure altitude. <break time="800ms"/>
 <break time="2s"/>
 
@@ -165,10 +179,12 @@ Powerplant. PT6A Dash 21, or 1 35A.  <break time="800ms"/>
 Max pressure altitude. 30000 feet. <break time="800ms"/>
 Max occupancy. 13 including crew. <break time="800ms"/>
 Pneumatic pressure range. Green arc, 12 to 20 PSI. Red line, 20 PSI. <break time="800ms"/>
-Gyro suction ranges. Sea level to 15000 feet, 4.3 to 5.9 inches of mercury. 15000 to 35000 feet, 2.8 to 4.3 inches of mercury. 15000 foot line, 4.3 inches of mercury. 35000 foot line, 3.0 inches of mercury. <break time="800ms"/>
+Gyro suction ranges. Sea level to 15000 feet, 5.9 to 4.3 inches of mercury. 15000 to 35000 feet, 4.3 to 2.8 inches of mercury. 15000 foot line, 4.3 inches of mercury. 35000 foot line, 3.0 inches of mercury. <break time="800ms"/>
 Flight load limits. Flaps up. positive 3.28, negative 1.31 G . Flaps down. positive 2.0 G, no negative Gs. <break time="800ms"/>
 Tire Specifications. Main Landing gear tire. 8 point 5 by 10, 10 ply. Nose Landing gear tire. 6 point 5 by 10, 10 ply. <break time="800ms"/>
 Tire pressure limitations. 51 to 55 PSI for the nose landing gear tire. 70 plus or minus 3 PSI for the main landing gear tires. Rated for a max of 160 MPH. <break time="800ms"/>
+Landing gear actuation limits. One cycle per 3 minutes, up to 10 times, then a 15 minute cool down period. <break time="800ms"/>
+Landing gear warning horn activation point. 79% N1, plus or minus 2%. <break time="800ms"/>
 Both wing Ice lights are required per FAA A D 98, zero four, 24. This A D supersedes any relief provided by the M E L. <break time="800ms"/>
 <break time="2s"/>
 
