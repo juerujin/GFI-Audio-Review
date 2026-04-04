@@ -1,0 +1,125 @@
+<speak>
+C90B maneuver guide.
+<break time="1200ms"/>
+
+Stall Prevention Clean.
+<break time="1200ms"/>
+Setup
+<break time="1000ms"/>
+Torque. <break time="300ms"/> As Directed. <break time="800ms"/>
+Propeller RPM. <break time="300ms"/> 19 hundred RPM. <break time="1000ms"/>
+
+Stall and Recovery
+<break time="1000ms"/>
+Announce the first indication of a stall. <break time="800ms"/>
+Autopilot. <break time="300ms"/> Disconnect. <break time="800ms"/>
+Nose down pitch control. <break time="300ms"/> Apply until stall warning is eliminated. <break time="800ms"/>
+Nose down pitch trim. <break time="300ms"/> As required. <break time="800ms"/>
+Bank. <break time="300ms"/> Wings level <break time="800ms"/>
+Power. <break time="300ms"/> Max allowable <break time="1000ms"/>
+
+Completion
+<break time="1000ms"/>
+level off at new altitude and initial heading. <break time="800ms"/>
+Power. <break time="300ms"/> Reset
+<break time="1200ms"/>
+
+
+Stall Prevention Partial Flap.
+<break time="1200ms"/>
+Setup
+<break time="1000ms"/>
+Torque. <break time="300ms"/> As Directed. <break time="800ms"/>
+Propeller RPM. <break time="300ms"/> 22 hundred RPM. <break time="800ms"/>
+Flaps. <break time="300ms"/> Approach. <break time="800ms"/>
+Landing Gear. <break time="300ms"/> Down. <break time="1000ms"/>
+
+Stall and Recovery
+<break time="1000ms"/>
+Announce the first indication of a stall. <break time="800ms"/>
+Autopilot. <break time="300ms"/> Disconnect. <break time="800ms"/>
+Nose down pitch control. <break time="300ms"/> Apply until stall warning is eliminated. <break time="800ms"/>
+Nose down pitch trim. <break time="300ms"/> As required. <break time="800ms"/>
+Bank. <break time="300ms"/> Wings level. <break time="800ms"/>
+Power. <break time="300ms"/> Max allowable. <break time="800ms"/>
+Establish Positive rate of climb. <break time="300ms"/> Gear up. <break time="800ms"/>
+At or above V.Y.S.E. <break time="300ms"/> Flaps up. <break time="1000ms"/>
+
+Completion
+<break time="1000ms"/>
+level off at new altitude and initial heading. <break time="800ms"/>
+Power. <break time="300ms"/> Reset
+<break time="1200ms"/>
+
+
+Stall Prevention Landing Configuration.
+<break time="1200ms"/>
+Setup
+<break time="1000ms"/>
+Torque. <break time="300ms"/> As Directed. <break time="800ms"/>
+Propeller RPM. <break time="300ms"/> 19 hundred RPM. <break time="800ms"/>
+Flaps. <break time="300ms"/> Approach. <break time="800ms"/>
+Landing Gear. <break time="300ms"/> Down. <break time="800ms"/>
+Flaps. <break time="300ms"/> Down. <break time="1000ms"/>
+
+Stall and Recovery
+<break time="1000ms"/>
+Announce the first indication of a stall. <break time="800ms"/>
+Autopilot. <break time="300ms"/> Disconnect. <break time="800ms"/>
+Nose down pitch control. <break time="300ms"/> Apply until stall warning is eliminated. <break time="800ms"/>
+Nose down pitch trim. <break time="300ms"/> As required. <break time="800ms"/>
+Bank. <break time="300ms"/> Wings level. <break time="800ms"/>
+Power. <break time="300ms"/> Max allowable. <break time="800ms"/>
+Propeller levers. <break time="300ms"/> Full forward. <break time="800ms"/>
+At or above 101 knots. <break time="300ms"/> Flaps up. <break time="800ms"/>
+Establish Positive rate of climb. <break time="300ms"/> Gear up. <break time="1000ms"/>
+
+Completion
+<break time="1000ms"/>
+level off at new altitude and initial heading. <break time="800ms"/>
+Power. <break time="300ms"/> Reset
+<break time="1200ms"/>
+
+
+Steep Turns
+<break time="1200ms"/>
+Setup
+<break time="1000ms"/>
+Torque. <break time="300ms"/> Approximately 700 foot pounds. <break time="800ms"/>
+Propeller RPM. <break time="300ms"/> 19 hundred RPM. <break time="800ms"/>
+Airspeed. <break time="300ms"/> stabilized between 150 and 160 knots. <break time="800ms"/>
+Flight Director. <break time="300ms"/> Off. <break time="800ms"/>
+Stabilize the aircraft on a reference heading and altitude. <break time="1000ms"/>
+
+Steep turn maneuver.
+<break time="1000ms"/>
+Roll the aircraft into a 45 degree bank. <break time="800ms"/>
+Autopilot. <break time="300ms"/> Disconnect. <break time="800ms"/>
+Power. <break time="300ms"/> add approximately 100 foot pounds of torque when the bank angle is achieved. <break time="800ms"/>
+Pitch. <break time="300ms"/> Approximately 1 to 4 degrees nose up. <break time="800ms"/>
+Trim. <break time="300ms"/> As needed. <break time="1000ms"/>
+Recovery
+<break time="1000ms"/>
+Begin rolling wings level 20 degrees before target heading. <break time="800ms"/>
+Reduce pitch and retrim as required during the recovery. <break time="800ms"/>
+Power. <break time="300ms"/> Reduce to original setting <break time="800ms"/>
+<break time="1200ms"/>
+
+
+Unusual Attitudes.
+<break time="1200ms"/>
+Nose high attitude.
+<break time="1000ms"/>
+Power. <break time="300ms"/> Max allowable. <break time="800ms"/>
+Flight controls. <break time="300ms"/> Simultaneously level the wings, and pitch down to the horizon. <break time="800ms"/>
+Power. <break time="300ms"/> as required to return aircraft to cruise speed. <break time="1000ms"/>
+
+Nose low attitude.
+<break time="1000ms"/>
+Power. <break time="300ms"/> Idle. <break time="800ms"/>
+Aileron Control. <break time="300ms"/> Wings level. <break time="800ms"/>
+Pitch. <break time="300ms"/> carefully pitch up to the horizon. <break time="800ms"/>
+Power. <break time="300ms"/> as required to return aircraft to cruise speed. <break time="1000ms"/>
+<break time="1200ms"/>
+
+</speak>

@@ -1,0 +1,200 @@
+<speak>
+C90B Powerplant System Overview
+<break time="1500ms"/>
+
+Understanding the powerplant… is critical for safe and efficient aircraft operation. <break time="700ms"/>
+Proper use of the engine and propeller system… extends engine life… and improves safety. <break time="800ms"/>
+
+This aircraft uses the Pratt and Whitney PT6A turboprop engine… a free-turbine, reverse-flow design. <break time="900ms"/>
+In this design… the compressor and power turbine are not physically connected… allowing smoother operation and better reliability. <break time="900ms"/>
+
+Air enters from the rear of the engine… moves forward through compression… combustion… and turbines… then exits at the front. <break time="900ms"/>
+
+Only about 25 percent of the compressed air is used for combustion. <break time="500ms"/>
+The remaining 75 percent is used for cooling… and stabilizing the flame. <break time="800ms"/>
+
+After ignition… expanding gases drive two turbine sections. <break time="600ms"/>
+The compressor turbine powers the compressor… <break time="400ms"/>
+while the power turbine drives the propeller… through a reduction gearbox. <break time="900ms"/>
+
+This gearbox reduces high-speed turbine rotation… into low-speed… high-torque output for the propeller. <break time="900ms"/>
+
+Engine power is measured primarily using shaft horsepower… and equivalent shaft horsepower… which includes jet thrust. <break time="900ms"/>
+
+Key engine parameters include… <break time="400ms"/>
+N1… which is gas generator speed… <break time="300ms"/>
+N2… or propeller speed… <break time="300ms"/>
+ITT… interstage turbine temperature… <break time="300ms"/>
+and P3… compressor discharge pressure. <break time="900ms"/>
+
+These values are critical… for both normal and emergency operations. <break time="800ms"/>
+
+Fuel is delivered through a multi-stage system… including a boost pump… high-pressure pump… and fuel control unit. <break time="900ms"/>
+The fuel control unit… automatically adjusts fuel flow… to maintain the selected engine speed. <break time="800ms"/>
+
+During startup… igniters provide the initial spark… <break time="400ms"/>
+but once combustion is established… the process becomes self-sustaining. <break time="800ms"/>
+
+An automatic ignition system is also available… to assist in engine relight… if torque drops unexpectedly. <break time="900ms"/>
+
+Lubrication is essential… for both cooling and mechanical operation. <break time="700ms"/>
+Engine oil lubricates bearings… removes heat… and powers the propeller control system. <break time="900ms"/>
+
+Oil pressure and temperature must remain within limits… <break time="400ms"/>
+typically between 80 and 100 PSI… during normal operation. <break time="800ms"/>
+
+The propeller system is variable-pitch… full-feathering… and reversible. <break time="800ms"/>
+Blade angle adjusts automatically… to maintain selected RPM… while optimizing thrust. <break time="900ms"/>
+
+Engine power is controlled using three cockpit levers… <break time="400ms"/>
+power… propeller… and condition. <break time="800ms"/>
+
+The power lever controls engine output… <break time="400ms"/>
+the propeller lever sets RPM… <break time="400ms"/>
+and the condition lever controls fuel flow… and idle speed. <break time="900ms"/>
+
+As engine speed increases… torque… temperature… and fuel flow also increase. <break time="900ms"/>
+
+However… engine limits must always be respected. <break time="700ms"/>
+
+The two primary limits are… torque… and temperature. <break time="800ms"/>
+At low altitude or cold conditions… torque usually limits power. <break time="800ms"/>
+At high altitude or hot conditions… temperature… specifically ITT… becomes the limiting factor. <break time="900ms"/>
+
+Exceeding these limits… even briefly… can damage the engine. <break time="800ms"/>
+
+During engine start… ITT is especially critical. <break time="700ms"/>
+If temperature approaches the maximum limit… the start must be aborted immediately. <break time="900ms"/>
+
+Oil pressure must rise quickly after start… <break time="400ms"/>
+and remain above minimum levels… to prevent damage. <break time="800ms"/>
+
+Additional protections include… <break time="400ms"/>
+a compressor bleed valve… to prevent stalls at low speeds… <break time="800ms"/>
+and a chip detector… to warn of internal metal contamination. <break time="900ms"/>
+
+Fuel system failures… can result in engine flameout… <break time="500ms"/>
+while boost pump failures… trigger warnings… but allow temporary operation. <break time="900ms"/>
+
+Engine trend monitoring is used… to track performance over time. <break time="800ms"/>
+By recording parameters like torque… ITT… and fuel flow… pilots can detect early signs of wear… or inefficiency. <break time="1000ms"/>
+
+In summary… <break time="500ms"/>
+the PT6A engine is a highly reliable… and efficient turboprop system… <break time="700ms"/>
+but it requires careful monitoring… <break time="400ms"/>
+proper handling… <break time="400ms"/>
+and strict adherence to operating limits… <break time="900ms"/>
+
+Mastery of these concepts… ensures safe flight operations… and maximizes engine longevity. 
+
+<break time="1500ms"/>
+
+Propeller System Overview… <break time="600ms"/>
+
+The aircraft uses constant-speed… full-feathering… reversing propellers. <break time="800ms"/>
+These propellers automatically adjust blade angle… to maintain a selected RPM. <break time="900ms"/>
+
+They are driven by engine oil pressure… controlled through a propeller governor. <break time="800ms"/>
+At the same time… counterweights and springs… naturally push the blades toward feather. <break time="900ms"/>
+
+This creates a balance of forces… <break time="400ms"/>
+oil pressure drives toward low pitch… <break time="400ms"/>
+while springs and counterweights drive toward high pitch… or feather. <break time="900ms"/>
+
+If oil pressure is lost… the propeller will feather automatically. <break time="900ms"/>
+
+Blade angle… determines thrust. <break time="600ms"/>
+Low pitch produces high RPM and thrust for takeoff… <break time="700ms"/>
+while high pitch produces lower RPM… for cruise efficiency. <break time="900ms"/>
+
+The primary governor maintains constant RPM… <break time="400ms"/>
+typically between 1,800 and 2,200 RPM. <break time="800ms"/>
+
+If RPM increases… an overspeed condition… <break time="400ms"/>
+the governor increases blade angle… slowing the propeller. <break time="800ms"/>
+
+If RPM decreases… an underspeed condition… <break time="400ms"/>
+the governor reduces blade angle… increasing RPM. <break time="900ms"/>
+
+This constant adjustment… keeps the propeller at the selected speed. <break time="900ms"/>
+
+However… the system has limits. <break time="600ms"/>
+
+The low pitch stop prevents the blades… from going too flat in flight. <break time="900ms"/>
+Without it… excessive drag could disrupt airflow over the tail… <break time="700ms"/>
+causing loss of control. <break time="900ms"/>
+
+When the propeller reaches this stop… <break time="400ms"/>
+RPM may fall below the selected value… <break time="400ms"/>
+because the governor can no longer reduce blade angle further. <break time="900ms"/>
+
+On the ground… the system allows access to Beta and reverse ranges. <break time="900ms"/>
+
+In the Beta range… blade angle is directly controlled by the power lever… <break time="700ms"/>
+allowing fine thrust adjustments for taxi. <break time="900ms"/>
+
+In reverse… blade angles become negative… <break time="400ms"/>
+producing reverse thrust for braking. <break time="900ms"/>
+
+As reverse increases… engine power also increases… <break time="400ms"/>
+up to approximately 85 percent N1. <break time="900ms"/>
+
+The power lever controls multiple things in reverse… <break time="500ms"/>
+blade angle… <break time="300ms"/>
+engine power… <break time="300ms"/>
+and propeller limits. <break time="900ms"/>
+
+Improper use… such as selecting reverse when feathered… <break time="600ms"/>
+can damage the system. <break time="900ms"/>
+
+The propeller can be feathered manually… <break time="400ms"/>
+by pulling the propeller lever fully aft. <break time="800ms"/>
+This removes oil pressure… allowing springs and counterweights… to align the blades with the airflow. <break time="1000ms"/>
+
+Feathering reduces drag… especially after engine failure. <break time="900ms"/>
+
+An autofeather system is also available. <break time="700ms"/>
+When armed during takeoff… <break time="400ms"/>
+if engine torque drops… the system automatically feathers the affected propeller. <break time="1000ms"/>
+
+This improves aircraft control… during critical phases of flight. <break time="900ms"/>
+
+Multiple backup systems protect against overspeed. <break time="800ms"/>
+
+The overspeed governor… activates around 2,288 RPM… <break time="500ms"/>
+increasing blade angle to slow the propeller. <break time="900ms"/>
+
+The fuel topping governor… provides an additional layer… <break time="500ms"/>
+by reducing engine power… if RPM exceeds limits. <break time="900ms"/>
+
+Together… these systems prevent dangerous propeller speeds. <break time="900ms"/>
+
+The cockpit includes three primary controls… <break time="500ms"/>
+power levers… <break time="300ms"/>
+propeller levers… <break time="300ms"/>
+and condition levers. <break time="900ms"/>
+
+The propeller lever sets desired RPM. <break time="700ms"/>
+The power lever controls thrust… and blade angle in Beta and reverse. <break time="900ms"/>
+
+A synchrophaser system improves comfort… <break time="600ms"/>
+by matching propeller RPM… and blade position… between engines. <break time="900ms"/>
+
+This reduces vibration… and cabin noise. <break time="800ms"/>
+
+A synchroscope indicator shows alignment… <break time="500ms"/>
+spinning left or right if propellers are out of sync… <break time="700ms"/>
+and stopping when synchronized. <break time="900ms"/>
+
+In summary… <break time="500ms"/>
+the propeller system automatically balances aerodynamic forces… <break time="700ms"/>
+mechanical inputs… <break time="400ms"/>
+and pilot commands… <break time="700ms"/>
+to deliver efficient and controlled thrust. <break time="900ms"/>
+
+Understanding these systems… is essential… <break time="500ms"/>
+for safe ground handling… <break time="400ms"/>
+engine-out response… <break time="400ms"/>
+and overall flight performance. <break time="1000ms"/>
+
+</speak>

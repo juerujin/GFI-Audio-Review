@@ -1,0 +1,236 @@
+<speak>
+C90B Pressurization System Overview
+<break time="1500ms"/>
+
+Pressurization allows the cabin altitude to remain lower than the aircraft altitude.
+<break time="500ms"/>
+This reduces or eliminates the need for supplemental oxygen.
+<break time="1s"/>
+
+The system provides a breathable cabin environment,
+<break time="300ms"/>
+even at high altitudes.
+<break time="1s"/>
+
+As aircraft altitude increases,
+<break time="300ms"/>
+outside air pressure decreases.
+<break time="500ms"/>
+Above approximately twelve thousand five hundred feet,
+<break time="300ms"/>
+normal breathing is not possible without pressurization.
+<break time="1s"/>
+
+The system maintains a lower cabin altitude,
+<break time="300ms"/>
+creating a pressure difference between inside and outside air.
+<break time="500ms"/>
+This is called differential pressure.
+<break time="1s"/>
+
+The King Air maintains about five point zero psi differential.
+<break time="500ms"/>
+This results in a cabin altitude of about six thousand feet at twenty thousand feet,
+<break time="300ms"/>
+and twelve thousand feet at thirty thousand feet.
+<break time="1s"/>
+
+The aircraft is not designed to withstand negative pressure.
+<break time="1s"/>
+
+The pressurization system works together with the environmental system.
+<break time="500ms"/>
+They share ducting to control both pressure and temperature.
+<break time="1s"/>
+
+The pressurized area,
+<break time="300ms"/>
+called the pressure vessel,
+<break time="300ms"/>
+extends from the cockpit to the rear cabin.
+<break time="500ms"/>
+It is sealed to prevent air leaks.
+<break time="1s"/>
+
+Pressurization air comes from engine bleed air.
+<break time="500ms"/>
+This air is taken from the compressor section of each engine.
+<break time="500ms"/>
+It is mixed with ambient air to create a usable airflow.
+<break time="1s"/>
+
+Bleed air flow is controlled by switches in the cockpit.
+<break time="500ms"/>
+If electrical power is lost,
+<break time="300ms"/>
+the valves close,
+<break time="300ms"/>
+and pressurization is lost.
+<break time="1s"/>
+
+Air flows into the cabin,
+<break time="300ms"/>
+circulates,
+<break time="300ms"/>
+and exits through the outflow valve.
+<break time="500ms"/>
+This valve controls how much air leaves the cabin.
+<break time="500ms"/>
+Controlling outflow controls cabin pressure.
+<break time="1s"/>
+
+A safety valve provides backup protection.
+<break time="500ms"/>
+It prevents overpressure,
+<break time="300ms"/>
+allows manual depressurization,
+<break time="300ms"/>
+and keeps the cabin unpressurized on the ground.
+<break time="1s"/>
+
+It also prevents negative pressure during rapid descents.
+<break time="1s"/>
+
+During takeoff,
+<break time="300ms"/>
+airflow increases in stages,
+<break time="300ms"/>
+to prevent pressure surges in the cabin.
+<break time="1s"/>
+
+Cabin pressure is controlled by the pressurization controller.
+<break time="500ms"/>
+The pilot selects a desired cabin altitude.
+<break time="500ms"/>
+The system then adjusts the outflow valve to maintain it.
+<break time="1s"/>
+
+The controller has two scales.
+<break time="500ms"/>
+Cabin altitude,
+<break time="300ms"/>
+and aircraft altitude limit.
+<break time="500ms"/>
+These help ensure the system stays within limits.
+<break time="1s"/>
+
+The cabin altimeter shows actual cabin altitude.
+<break time="500ms"/>
+The cabin climb indicator shows the rate of change.
+<break time="1s"/>
+
+Cabin rate can be adjusted.
+<break time="500ms"/>
+Typical rates range from two hundred,
+<break time="300ms"/>
+to two thousand feet per minute.
+<break time="1s"/>
+
+A switch controls pressurization mode.
+<break time="500ms"/>
+Press maintains normal operation.
+<break time="300ms"/>
+Dump depressurizes the cabin.
+<break time="300ms"/>
+Test allows ground testing.
+<break time="1s"/>
+
+Before flight,
+<break time="300ms"/>
+the system should be checked during runup.
+<break time="500ms"/>
+Set a lower cabin altitude,
+<break time="300ms"/>
+activate test mode,
+<break time="300ms"/>
+and confirm pressurization.
+<break time="1s"/>
+
+Before takeoff,
+<break time="300ms"/>
+set the controller to about one thousand feet above cruise altitude.
+<break time="500ms"/>
+Adjust the rate for comfort.
+<break time="1s"/>
+
+In climb,
+<break time="300ms"/>
+the cabin altitude increases gradually,
+<break time="300ms"/>
+until reaching the selected value.
+<break time="500ms"/>
+The system then maintains it.
+<break time="1s"/>
+
+If aircraft altitude exceeds system limits,
+<break time="300ms"/>
+safety valves prevent excessive pressure.
+<break time="1s"/>
+
+If cabin altitude reaches twelve thousand five hundred feet,
+<break time="300ms"/>
+a warning light illuminates.
+<break time="500ms"/>
+This indicates oxygen may be required.
+<break time="1s"/>
+
+During descent,
+<break time="300ms"/>
+set the cabin altitude slightly above landing field elevation.
+<break time="500ms"/>
+Adjust descent rate for passenger comfort.
+<break time="1s"/>
+
+The goal is to match cabin pressure with outside pressure at landing.
+<break time="1s"/>
+
+As the aircraft descends,
+<break time="300ms"/>
+the system equalizes pressure automatically.
+<break time="500ms"/>
+The cabin becomes unpressurized before touchdown.
+<break time="1s"/>
+
+Flow control units regulate airflow into the cabin.
+<break time="500ms"/>
+They mix bleed air with ambient air,
+<break time="300ms"/>
+based on temperature and altitude.
+<break time="1s"/>
+
+On the ground,
+<break time="300ms"/>
+ambient air is limited,
+<break time="300ms"/>
+to improve cabin heating.
+<break time="1s"/>
+
+After takeoff,
+<break time="300ms"/>
+ambient air is gradually added,
+<break time="300ms"/>
+to prevent pressure surges.
+<break time="1s"/>
+
+Temperature and pressure sensors adjust airflow automatically.
+<break time="500ms"/>
+This ensures stable cabin conditions.
+<break time="1s"/>
+
+Overall,
+<break time="300ms"/>
+the pressurization system is mostly automatic.
+<break time="500ms"/>
+The pilot manages settings,
+<break time="300ms"/>
+monitors indications,
+<break time="300ms"/>
+and responds to warnings.
+<break time="1s"/>
+
+Proper use ensures passenger comfort,
+<break time="300ms"/>
+and safe operation at high altitude.
+<break time="1s"/>
+
+</speak>

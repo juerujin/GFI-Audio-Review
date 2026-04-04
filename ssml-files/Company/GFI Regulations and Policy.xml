@@ -5,7 +5,7 @@ Regulations and policy
 I.F.R. fuel requirements.
 <break time="1200ms"/>
 Enough fuel must be carried to complete the flight to the first airport of intended landing, then fly from that airport to the alternate airport, then fly after that for 45 minutes at normal cruising speed. <break time="300ms"/>
-Reference. one thirty five,  two 23, A.
+Reference. <break time="300ms"/> one thirty five,  two 23, A.
 <break time="1200ms"/>
 
 When do you not need an alternate for your destination?
@@ -13,22 +13,22 @@ When do you not need an alternate for your destination?
 For one hour before or after the expected time of arrival, the ceiling must be at least 1,500 feet above the lowest circling approach Minimum Descent Altitude, or <break time="300ms"/>
 If a circling instrument approach procedure is not authorized, the ceiling must be at least 1,500 feet above the lowest ceiling minimums or 2,000 feet above airport elevation, whichever is higher, and <break time="300ms"/>
 The visibility must be forecast to be at least 3 statute miles, or 2 statute miles more than the lowest applicable visibility minimums, whichever is greater, for the instrument approach procedure to be used at the destination airport. <break time="800ms"/>
-Reference. one thirty five,  two 23, B.
+Reference. <break time="300ms"/> one thirty five,  two 23, B.
 <break time="1200ms"/>
 
 Destination Airport Weather Minimums.
 <break time="1200ms"/>
 No person may take off an aircraft under IFR, or begin an IFR, or over-the-top operation, unless the latest weather reports or forecasts, or any combination of them, 
 indicate that weather conditions, at the estimated time of arrival at the next airport of intended landing, will be at or above authorized IFR landing minimums.  <break time="800ms"/>
-Reference. one 35, two 19.
+Reference. <break time="300ms"/> one 35, two 19.
 <break time="1200ms"/>
 
 Alternate Airport I.F.R. Weather Minimums.
 <break time="1200ms"/>
-For airports with at least one operational navigational facility providing a straight in, non precision, or CAT one precision, approach procedure, add 400 feet to the minimum descent altitude or height, or decision altitude or height, and add one statute mile to the landing minimum. <break time="300ms"/>
-For airports with at least two operational navigational facilities, each providing a straight in approach procedure to different suitable runways, add 200 feet to the minimum descent altitude or height, or decision altitude or height, and add one half statute mile to the landing minimum. <break time="300ms"/>
-If appropriately equipped, you may use a G.P.S. based instrument approach procedures at both the destination and an alternate airport. However, At the alternate, only L-NAV or circling M.D.A.'s are to be planned for unless equipped with baro V-NAV. <break time="800ms"/>
-Reference. Op Spec Charlie fifty five.
+For airports with at least one operational navigational facility providing a straight in, non precision, or CAT one precision, approach procedure, <break time="300ms"/> add 400 feet to the minimum descent altitude or height, or decision altitude or height, <break time="300ms"/> and add one statute mile to the landing minimum visibility. <break time="300ms"/>
+For airports with at least two operational navigational facilities <break time="300ms"/> each providing a straight in approach procedure to different suitable runways <break time="300ms"/> add 200 feet to the higher minimum descent altitude or height, or decision altitude or height <break time="300ms"/> and add one half statute mile to the higher landing minimum visibility of the two approaches to be used. <break time="300ms"/>
+If appropriately equipped, you may use a G.P.S. based instrument approach procedures at both the destination and an alternate airport. However, At the alternate, only L-NAV or circling M.D.A.'s are to be planned for unless equipped with ba ro V-NAV. <break time="800ms"/>
+Reference. <break time="300ms"/> opsspec Charlie fifty five.
 <break time="1200ms"/>
 
 I.F.R. takeoff minimums
@@ -36,20 +36,20 @@ I.F.R. takeoff minimums
 Standard takeoff minimums are 1 statute mile or R.V.R 5000 for aircraft having two engines or less, and one half statute mile or R.V.R 2400 for airplanes having more than 2 engines.
 Additionally, the certificate holder is authorized to use a takeoff minimum equal to the lowest authorized straight-in Category one I.F.R. landing minimum applicable to the certificate holder for that particular airport. Touchdown R.V.R report, if available is controlling.
 If a higher than standard takeoff minimum is published, and no alternative procedure is prescribed, that higher published takeoff minimum is controlling.
-The note prohibiting single-engine I.F.R. part 135 passenger-carrying operations, in lower than standard takeoff minimums, only applies to non turbine single-engine aircraft.<break time="800ms"/>
-Reference. Op Spec Charlie fifty seven.
+The note prohibiting single-engine I.F.R. part one 35 passenger-carrying operations, in lower than standard takeoff minimums, only applies to non turbine single-engine aircraft.<break time="800ms"/>
+Reference. <break time="300ms"/> opsspec Charlie fifty seven.
 <break time="1200ms"/>
 
 When is a takeoff alternate required?
 <break time="1200ms"/>
 If the required weather conditions are above takeoff minimums, but below authorized I.F.R. landing minimums, you must have an alternate airport within 1 hour's flying time, at normal cruising speed in still air, of the departure airport. <break time="800ms"/>
-Reference. one 35, two 17.
+Reference. <break time="300ms"/> one 35, two 17.
 <break time="1200ms"/>
 
 Continuing an approach at the destination.
 <break time="1200ms"/>
 Must have the required approach minimums in order to continue an instrument approach, unless the aircraft is already established on the final approach segment of the approach. Upon arriving at the M.D.A. or D.A. you must have the required weather minimums in order to land. <break time="800ms"/>
-Reference. 135, two 25.
+Reference. <break time="300ms"/> one 35, two 25.
 <break time="1200ms"/>
 
 Requirements for descending below the Decision or minimum descent altitudes. You need to have any of the following in sight.
@@ -59,14 +59,14 @@ Requirements for descending below the Decision or minimum descent altitudes. You
 <break time="300ms"/>The visual glideslope indicator.
 <break time="300ms"/>The touchdown zone, touchdown zone markings, or touchdown zone lights.
 <break time="300ms"/>and the runway, runway markings, or runway lights. Additionally, you need the required flight visibility and can make a normal approach and landing.<break time="1000ms"/>
-For the approach light system reference, the pilot may not descend below 100 feet above the touchdown zone elevation using the approach lights as a reference, unless the red terminating bars or the red side row bars are also distinctly visible and identifiable.
-Reference. 91, one 75.
+With the approach lights in sight <break time="300ms"/> the pilot may not descend below 100 feet above the touchdown zone elevation using the approach lights as a reference, unless the red terminating bars or the red side row bars are also distinctly visible and identifiable. <break time="800ms"/>
+Reference. <break time="300ms"/> 91, one 75.
 <break time="1200ms"/>
 
 Relevant Approach Category speeds.
 <break time="1200ms"/>
-Category B. 91 to 121 knots. <break time="300ms"/>
-Category C. 121 to 141 knots. <break time="800ms"/>
+Category B. <break time="300ms"/> 91 to 120 knots. <break time="300ms"/>
+Category C. <break time="300ms"/> 121 to 140 knots. <break time="800ms"/>
 For Guardian Flight, approach speed standards are V-REF to V-REF plus 10 knots.
 <break time="1200ms"/>
 
@@ -90,7 +90,7 @@ Land and hold short requirements and limitations.
 - LAH SO is not authorized if wind shear is reported in the 20 minutes prior to the LAH SO clearance. <break time="800ms"/>
 - Tailwind should be calm or less than 3 knots. <break time="800ms"/>
 - Night LAH SO only with approved LAH SO lighting installed. <break time="800ms"/>
-- Reference, Op spec Alpha 27.
+- Reference. <break time="300ms"/> opsspec Alpha 27.
 <break time="1200ms"/>
 
 Two-way radio communications failure.
@@ -99,7 +99,7 @@ If under V.F.R. conditions, continue the flight under V.F.R. and land as soon as
 Transponder set to 76 hundred. <break time="800ms"/>
 Route, <break time="300ms"/>Assigned, <break time="300ms"/> Vectored, <break time="300ms"/> Expected, <break time="300ms"/>Filed. <break time="800ms"/>
 Altitude, for the route segment currently being flown, highest of <break time="300ms"/>Assigned, <break time="300ms"/>Minimum en route, <break time="300ms"/>expected altitude. <break time="800ms"/>
-Reference. 91, one 85. AIM 6 4 1.
+Reference. <break time="300ms"/> 91, one 85. AIM 6 4 1.
 <break time="1200ms"/>
 
 One thirty five V.F.R. minimums
@@ -109,41 +109,50 @@ Daytime, 500 feet above the surface and 500 feet horizontally from any obstacle.
 At night, 1000 feet above the highest obstacle within 5 miles of the course to be flown or 2000 feet in mountainous terrain. <break time="1000ms"/>
 V.F.R. minimum visibility. <break time="1000ms"/>
 In uncontrolled airspace, not less than 1000 feet ceilings unless the flight visibility is at least 2 miles. <break time="800ms"/>
-Reference one thirty five two zero three and two zero five.
+Reference. <break time="300ms"/> one thirty five two zero three and two zero five.
 <break time="1200ms"/>
 
 Company I.F.R. cancellation and continued V.F.R. flight limitations.
 <break time="1200ms"/>
 No further than 20 nautical miles from the destination. <break time="800ms"/>
-Additionally, at night, you must be cleared for, and established on, a published segment of an approach, and must continue to fly the ground track and altitudes on the approach. <break time="800ms"/>
-G.O.M., 9.2 and 8.2.
+Additionally, at night, you must be cleared for, and established on, a published segment of an approach, and must continue to fly the ground track and altitudes on the approach. Otherwise, if performing a visual approach, the IFR clearance must be cancled once on the ground. <break time="800ms"/>
+Reference.  <break time="300ms"/> G.O.M., 9.2 and 8.2.
 <break time="1200ms"/>
 
-Pre-takeoff contamination check. Icing conditions: operating limitations.
+Contaminated runway performance limitations
+<break time="1200ms"/>
+For pilots with more than 1 year of experience in their assigned airframe at Guardian Flight,<break time="300ms"/> runway condition codes down to 3, 3, 3 are authorized without P MOC approval. <break time="800ms"/>
+For pilots with less than 1 year of experience in their assigned airframe at Guardian Flight,<break time="300ms"/> P MOC approval is required for runway condition codes of 3, 3, 3. <break time="800ms"/>
+If contaminated runway performance data is available for the aircraft,<break time="300ms"/> calculate runway requirements using that data.<break time="300ms"/> No additional factors are required. <break time="800ms"/>
+If manufacturer-provided contaminated runway performance data is not available for the aircraft,<break time="300ms"/> 150% of the dry unfactored runway distance required <break time="300ms"/> must be available. <break time="800ms"/>
+Reference.  <break time="300ms"/> G.O.M., Section 12.7 
+<break time="1200ms"/>
+
+Pre-takeoff contamination check.
 <break time="1200ms"/>
 At any time the conditions are such that frost, ice, or snow may be reasonably expected to adhere to the aircraft, a Pre-takeoff contamination check must be completed within 5 minutes of takeoff, in order to ensure that critical surfaces are free of contamination. <break time="800ms"/>
-Reference Op spec Alpha 41. One thirty five two twenty seven.
+Reference.  <break time="300ms"/> opsspec Alpha 41. One thirty five two twenty seven.
 <break time="1200ms"/>
 
 Airspace speed Limits
 <break time="1200ms"/>
-Speed limit below 10000 feet. 250 knots. <break time="300ms"/>
-Speed limit below class Bravo airspace or a V.F.R. corridor. 200 knots. <break time="300ms"/>
-Speed limit for class Charlie or Delta. 200 knots within 4 nautical miles and up to 2500 A. G. L. <break time="800ms"/>
-Reference. 91, one 17.
+Speed limit below 10000 feet.<break time="300ms"/> 250 knots. <break time="300ms"/>
+Speed limit below class Bravo airspace or a V.F.R. corridor.<break time="300ms"/> 200 knots. <break time="300ms"/>
+Speed limit for class Charlie or Delta.<break time="300ms"/> 200 knots within 4 nautical miles and up to 2500 A. G. L. <break time="800ms"/>
+Reference. <break time="300ms"/> 91, one 17.
 <break time="1200ms"/>
 
 One Thirty Five Oxygen Requirements
 <break time="1200ms"/>
 For pilots. <break time="300ms"/>
-At MSL altitudes or cabin altitudes above 10000 through 12000 feet. Continuously after 30 minutes. <break time="800ms"/>
-Above 12000. Continuously. <break time="800ms"/>
+At MSL altitudes or cabin altitudes above 10000 through 12000 feet.<break time="300ms"/> Continuously after 30 minutes. <break time="800ms"/>
+Above 12000.<break time="300ms"/> Continuously. <break time="800ms"/>
 For passengers. <break time="300ms"/>
-At MSL altitudes or cabin altitudes above 10000 through 15000 feet. Available to supply at least 10% of passengers after 30 minutes at those altitudes. <break time="800ms"/>
-Above 15000 feet. Supplied to all passengers. <break time="800ms"/>
-Above 25000 feet in pressurized aircraft. At least a 10 minute supply to all occupants of the aircraft, for use in the event of the loss of cabin pressurization.
+At MSL altitudes or cabin altitudes above 10000 through 15000 feet.<break time="300ms"/> Available to supply at least 10% of passengers after 30 minutes at those altitudes. <break time="800ms"/>
+Above 15000 feet.<break time="300ms"/> Supplied to all passengers. <break time="800ms"/>
+Above 25000 feet in pressurized aircraft.<break time="300ms"/> At least a 10 minute supply to all occupants of the aircraft, for use in the event of the loss of cabin pressurization.
 <break time="800ms"/>
-Reference one thirty five, eighty nine and one fifty seven.
+Reference. <break time="300ms"/>  one thirty five, eighty nine and one fifty seven.
 <break time="1200ms"/>
 
 Flight hour limits, unscheduled operations.
@@ -152,30 +161,30 @@ Flight hour limits, unscheduled operations.
 500 hours per quarter <break time="300ms"/>
 800 hours every 2 consecutive quarters <break time="300ms"/>
 1400 hours per calendar year <break time="800ms"/>
-Rest requirements. 10 hours of rest within the preceding 24 hours to the start of duty. <break time="800ms"/>
-Reference, one thirty five, two sixty seven.
+Rest requirements.<break time="300ms"/> 10 hours of rest within the preceding 24 hours to the start of duty. <break time="800ms"/>
+Reference. <break time="300ms"/>  one thirty five, two sixty seven.
 <break time="1200ms"/>
 
 Multi engine aircraft load manifest requirement.
 <break time="1200ms"/>
-A load manifest must be prepared prior to each flight for multi engine aircraft. A copy of this record must be carried in the aircraft to it's destination and a copy maintained by the certificate holder for at least 30 days. <break time="800ms"/>
-Reference, one thirty five, 63.
+A load manifest must be prepared prior to each flight for multi engine aircraft.<break time="300ms"/> A copy of this record must be carried in the aircraft to it's destination and a copy maintained by the certificate holder for at least 30 days. <break time="800ms"/>
+Reference. <break time="300ms"/>  one thirty five, 63.
 <break time="1200ms"/>
 
 Medical certificate duration.
 <break time="1200ms"/>
-First Class, 12 calendar months if under 40 and 6 months if 40 or older. <break time="300ms"/>
-Second class, 12 calendar months. <break time="300ms"/>
-Third class, 60 calendar months if under 40 and 24 calendar months if 40 or older. <break time="800ms"/>
-Reference 61, 23.
+First Class,<break time="300ms"/>  12 calendar months if under 40, <break time="300ms"/> and 6 months if 40 or older. <break time="300ms"/>
+Second class,<break time="300ms"/>  12 calendar months. <break time="300ms"/>
+Third class,<break time="300ms"/>  60 calendar months if under 40, <break time="300ms"/> and 24 calendar months if 40 or older. <break time="800ms"/>
+Reference. <break time="300ms"/>  61, 23.
 <break time="1200ms"/>
 
 M.E.L. category duration
 <break time="1200ms"/>
-Category A. Defined in M.E.L. <break time="800ms"/>
-Category B. 3 days. <break time="800ms"/>
-Category C. 10 days. <break time="800ms"/>
-Category D. 120 days.
+Category A.<break time="300ms"/> Defined in M.E.L. <break time="800ms"/>
+Category B.<break time="300ms"/> 3 days. <break time="800ms"/>
+Category C.<break time="300ms"/> 10 days. <break time="800ms"/>
+Category D.<break time="300ms"/> 120 days.
 <break time="1200ms"/>
 
 Documents required.
@@ -191,36 +200,36 @@ Documents required.
 
 Transponder emergency codes.
 <break time="1200ms"/>
-75 hundred, Hijacking. 76 hundred, Radio failure. 77 hundred, general emergency.
+75 hundred, Hijacking. <break time="300ms"/> 76 hundred, Radio failure. <break time="300ms"/> 77 hundred, general emergency.
 <break time="1200ms"/>
 
-Width of a victor airway. 8 nautical miles, 4 miles on either side of the center. <break time="800ms"/>
-Standard holding pattern turning direction. To the right. <break time="800ms"/>
-Information to report to A.T.C. upon entering a hold. Time and altitude reaching the clearance limit. Begin slowing to holding speed within 3 minutes or less. <break time="800ms"/>
-3 degree Glide slope calculation. Half of your ground speed multiplied by 10.
+Width of a victor airway. <break time="300ms"/> 8 nautical miles, 4 miles on either side of the center. <break time="800ms"/>
+Standard holding pattern turning direction. <break time="300ms"/> To the right. <break time="800ms"/>
+Information to report to A.T.C. upon entering a hold. <break time="300ms"/> Time and altitude reaching the clearance limit. <break time="300ms"/>  Begin slowing to holding speed within 3 minutes or less. <break time="800ms"/>
+3 degree Glide slope calculation. <break time="300ms"/> Half of your ground speed multiplied by 10.
 <break time="1200ms"/>
 
 Regulations and policy quick reference
 <break time="1200ms"/>
-One 35 I.F.R. Fuel requirements. one thirty five,  two 23, A. <break time="800ms"/>
-One 35 Alternate requirements.  one thirty five,  two 23, B. <break time="800ms"/>
-Destination Airport I.F.R. Weather Minimums. one 35, two 19. <break time="800ms"/>
-Alternate Airport I.F.R. Weather Minimums. Op Spec Charlie fifty five. <break time="800ms"/>
-One 35 I.F.R. takeoff minimums. Op Spec Charlie fifty seven. <break time="800ms"/>
-One 35 I.F.R. takeoff alternate requirement. one 35, two 17. <break time="800ms"/>
-One 35, requirements for beginning an approach at an airport. 135, two 25, C. <break time="800ms"/>
-91, Requirements for descending below the Decision or minimum descent altitudes. 91, one 75. <break time="800ms"/>
-Land and hold short requirements and limitations. Op spec Alpha 27. <break time="800ms"/>
-Two-way radio communications failure. 91, one 85. AIM 6 4 1. <break time="800ms"/>
-Sterile cockpit. Reference, one thirty five, 100. <break time="800ms"/>
-One thirty five V.F.R. minimums. one thirty five two zero three and two zero five. <break time="800ms"/>
-Company V.F.R. flight requirements and limitations. Flight standards manual, 4, 10. <break time="800ms"/>
-Requirement to perform a pre takeoff contamination check. Op spec Alpha 41. <break time="800ms"/>
-Airspace speed limits. 91, one 17. <break time="800ms"/>
-One 35 Oxygen Requirements. One thirty five, eighty nine and one fifty seven. <break time="800ms"/>
-One 35 Flight time limitations and rest requirements, unscheduled one and two pilot crews. one thirty five, two sixty seven. <break time="800ms"/>
-Load manifest requirement for multi-engine aircraft. one thirty five, 63. <break time="800ms"/>
-Briefing of passengers before flight. One thirty five, one seventeen. <break time="800ms"/>
-Medical certificate duration. 61, 23.
+One 35 I.F.R. Fuel requirements. <break time="300ms"/> one thirty five,  two 23, A. <break time="800ms"/>
+One 35 Alternate requirements. <break time="300ms"/> one thirty five,  two 23, B. <break time="800ms"/>
+Destination Airport I.F.R. Weather Minimums. <break time="300ms"/> one 35, two 19. <break time="800ms"/>
+Alternate Airport I.F.R. Weather Minimums. <break time="300ms"/> opsspec Charlie fifty five. <break time="800ms"/>
+One 35 I.F.R. takeoff minimums. <break time="300ms"/> opsspec Charlie fifty seven. <break time="800ms"/>
+One 35 I.F.R. takeoff alternate requirement. <break time="300ms"/> one 35, two 17. <break time="800ms"/>
+One 35, requirements for beginning an approach at an airport. <break time="300ms"/> one 35, two 25, C. <break time="800ms"/>
+Part 91, Requirements for descending below the Decision or minimum descent altitudes. <break time="300ms"/> 91, one 75. <break time="800ms"/>
+Land and hold short requirements and limitations. <break time="300ms"/> opsspec Alpha 27.  <break time="800ms"/>
+Two-way radio communications failure. <break time="300ms"/> 91, one 85. AIM 6 4 1. <break time="800ms"/>
+Sterile cockpit. <break time="300ms"/> one thirty five, 100. <break time="800ms"/>
+One thirty five V.F.R. minimums. <break time="300ms"/> one thirty five two zero three and two zero five. <break time="800ms"/>
+Company V.F.R. flight requirements and limitations. Canceling IFR in Flight. <break time="300ms"/> G.O.M., 8.2 and 9.2. <break time="800ms"/>
+Requirement to perform a pre takeoff contamination check. <break time="300ms"/> opsspec Alpha 41. <break time="800ms"/>
+Airspace speed limits. <break time="300ms"/> 91, one 17. <break time="800ms"/>
+One 35 Oxygen Requirements. <break time="300ms"/> One thirty five, eighty nine and one fifty seven. <break time="800ms"/>
+One 35 Flight time limitations and rest requirements, unscheduled one and two pilot crews. <break time="300ms"/> one thirty five, two sixty seven. <break time="800ms"/>
+Load manifest requirement for multi-engine aircraft. <break time="300ms"/> one thirty five, 63. <break time="800ms"/>
+Briefing of passengers before flight. <break time="300ms"/> One thirty five, one seventeen. <break time="800ms"/>
+Medical certificate duration. <break time="300ms"/> 61, 23.
 <break time="1200ms"/>
 </speak>

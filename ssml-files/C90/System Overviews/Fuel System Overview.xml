@@ -1,0 +1,206 @@
+<speak>
+C90B Fuel System Overview
+<break time="1500ms"/>
+
+A complete understanding of the fuel system is essential for safe and confident aircraft operation.
+<break time="500ms"/>
+Fuel management is a major daily responsibility for the pilot.
+<break time="1s"/>
+
+The aircraft has two independent fuel systems,
+<break time="300ms"/>
+one for each engine,
+<break time="300ms"/>
+connected by a crossfeed system.
+<break time="500ms"/>
+Total usable fuel is three hundred eighty four gallons.
+<break time="1s"/>
+
+There are three modes of operation.
+<break time="500ms"/>
+
+Normal operation.
+<break time="300ms"/>
+Each engine receives fuel from its own tanks,
+<break time="300ms"/>
+using its own boost pump.
+<break time="1s"/>
+
+Automatic crossfeed.
+<break time="300ms"/>
+If a boost pump fails,
+<break time="300ms"/>
+fuel pressure drops,
+<break time="300ms"/>
+and the system automatically opens the crossfeed valve.
+<break time="500ms"/>
+The remaining boost pump supplies both engines.
+<break time="1s"/>
+
+Suction feed.
+<break time="300ms"/>
+If needed,
+<break time="300ms"/>
+the engine driven pump can draw fuel without boost pressure.
+<break time="500ms"/>
+This is limited to ten hours total use.
+<break time="1s"/>
+
+Each wing contains multiple tanks.
+<break time="500ms"/>
+Fuel flows from wing tanks,
+<break time="300ms"/>
+to the center tank,
+<break time="300ms"/>
+then to the nacelle tank.
+<break time="500ms"/>
+Engines are fed directly from the nacelle tank.
+<break time="1s"/>
+
+Fuel transfer is mostly automatic.
+<break time="500ms"/>
+When the nacelle tank drops about ten gallons,
+<break time="300ms"/>
+transfer pumps refill it from the wing tanks.
+<break time="1s"/>
+
+If transfer pressure is not detected,
+<break time="300ms"/>
+a no fuel transfer warning appears.
+<break time="500ms"/>
+This may mean either empty wing tanks,
+<break time="300ms"/>
+or a pump failure.
+<break time="1s"/>
+
+If transfer pumps fail,
+<break time="300ms"/>
+gravity feed will still move most fuel to the nacelle tank.
+<break time="1s"/>
+
+Boost pumps provide fuel pressure to the engine.
+<break time="500ms"/>
+Low pressure triggers a fuel pressure warning.
+<break time="500ms"/>
+Operation without boost pumps is limited to ten hours.
+<break time="1s"/>
+
+Both boost pumps must be working before takeoff.
+<break time="1s"/>
+
+The crossfeed system allows one side to feed both engines.
+<break time="500ms"/>
+It is used only during engine failure,
+<break time="300ms"/>
+or boost pump failure.
+<break time="1s"/>
+
+In automatic mode,
+<break time="300ms"/>
+the system responds to pressure loss without pilot input.
+<break time="1s"/>
+
+The firewall shutoff valves control fuel flow to each engine.
+<break time="500ms"/>
+Open allows fuel flow.
+<break time="300ms"/>
+Closed stops all fuel to the engine.
+<break time="1s"/>
+
+Fuel quantity is measured using a capacitance system.
+<break time="500ms"/>
+It reads fuel in pounds,
+<break time="300ms"/>
+and compensates for temperature and density changes.
+<break time="1s"/>
+
+Pilots can select total fuel,
+<break time="300ms"/>
+or nacelle tank fuel only.
+<break time="1s"/>
+
+Fuel venting prevents tank collapse.
+<break time="500ms"/>
+Heated vents and ram air vents provide redundancy.
+<break time="1s"/>
+
+Fuel drains must be checked before flight.
+<break time="500ms"/>
+Water and contaminants collect in low points.
+<break time="500ms"/>
+Jet fuel requires longer settling time,
+<break time="300ms"/>
+up to three hours.
+<break time="1s"/>
+
+Fuel contamination is a major concern.
+<break time="500ms"/>
+Water can freeze at low temperatures,
+<break time="300ms"/>
+forming ice in the system.
+<break time="1s"/>
+
+Fuel heating reduces icing risk,
+<break time="300ms"/>
+but anti icing additives may still be required.
+<break time="1s"/>
+
+Good fuel handling practices are critical.
+<break time="500ms"/>
+Use clean fuel sources,
+<break time="300ms"/>
+allow time for settling,
+<break time="300ms"/>
+and always check for contamination.
+<break time="1s"/>
+
+Microbial growth can occur in contaminated fuel.
+<break time="500ms"/>
+Biocide additives may be used to prevent this.
+<break time="1s"/>
+
+Approved fuels include jet fuels,
+<break time="300ms"/>
+and aviation gasoline for emergency use only.
+<break time="500ms"/>
+Use of aviation gasoline is limited,
+<break time="300ms"/>
+due to engine wear and performance effects.
+<break time="1s"/>
+
+When fueling,
+<break time="300ms"/>
+fill nacelle tanks first,
+<break time="300ms"/>
+then wing tanks.
+<break time="500ms"/>
+This ensures proper fuel distribution.
+<break time="1s"/>
+
+Always ground the aircraft during fueling,
+<break time="300ms"/>
+and check for contamination after fueling.
+<break time="1s"/>
+
+Fuel system operation is mostly automatic.
+<break time="500ms"/>
+The pilot’s role is monitoring,
+<break time="300ms"/>
+verification,
+<break time="300ms"/>
+and proper response to warnings.
+<break time="1s"/>
+
+Key risks include:
+<break time="500ms"/>
+boost pump failure,
+<break time="300ms"/>
+fuel contamination,
+<break time="300ms"/>
+and improper fuel management.
+<break time="1s"/>
+
+Proper understanding and monitoring of the system ensures safe and efficient flight operations.
+<break time="1s"/>
+
+</speak>

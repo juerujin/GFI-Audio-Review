@@ -1,5 +1,5 @@
 <speak>
-Opspec Review
+opsspec Review
 <break time="1200ms"/>
 Alpha Category
 <break time="1200ms"/>
@@ -17,8 +17,8 @@ Alpha eight. List of persons with operational control. Consist of the Director o
 Alpha nine. Defines the means by which the certificate holder will obtain, maintain, and distribute aeronautical data for the airports it uses. Located in G.O.M chapter 5<break time="800ms"/>
 Alpha ten. Approved sources of aviation weather information. <break time="800ms"/>
 Alpha fifteen. Authorization to use an autopilot in lieu of a second in command along with a list of approved autopilot systems. <break time="800ms"/>
-Alpha twenty four. Authorization to perform air ambulance operations.
-Alpha twenty five. Authorization to use electronic signatures, electronic record keeping systems and electronic manual systems along with a list of approved systems.
+Alpha twenty four. Authorization to perform air ambulance operations. <break time="800ms"/>
+Alpha twenty five. Authorization to use electronic signatures, electronic record keeping systems and electronic manual systems along with a list of approved systems. <break time="800ms"/>
 Alpha twenty seven. Authorization to perform Land and Hold Short Operations. <break time="300ms"/>
 Landing distance should be A.F.M. plus 1000 feet. <break time="300ms"/>
 No wet runways. <break time="300ms"/>
@@ -42,8 +42,9 @@ Alpha nine nine nine. Copy of the Air operator certificate issued to guardian fl
 
 Bravo Category
 <break time="1200ms"/>
-Bravo thirty. Authorization to conduct I.F.R. en route, area navigation operations in the state of Alaska and its airspace, on published air traffic routes using G.P.S. WAAS R-NAV systems as the only means of I.F.R. navigation, in accordance with the provisions of S-FAR ninety seven and this op spec. <break time="800ms"/>
-Bravo thirty three. IFR en route operations. This opspec replaces bravo 31, 32, 34, and 35. Authorizes IFR en route operations using RNAV/GNSS in areas without ground-based NAVAIDs, requiring the aircraft to maintain at least a One-Hour Reliable Fix (1HRF) capability or comply with additional operational limitations if it cannot. <break time="800ms"/>
+Bravo thirty. Authorization to conduct I.F.R. en route, area navigation operations in the state of Alaska and its airspace, on published air traffic routes using G.P.S. WAAS R-NAV systems as the only means of I.F.R. navigation, in accordance with the provisions of S-FAR ninety seven and this opsspec. <break time="800ms"/>
+Bravo thirty three. IFR en route operations. This opsspec replaces bravo 31, 32, 34, and 35. <break time="300ms"/> Authorizes IFR en route operations using R-NAV and, or, GNSS in areas without ground-based NAVAIDs, <break time="300ms"/> requiring the aircraft to maintain at least a One-Hour Reliable Fix (1HRF) capability or comply with additional operational limitations if it cannot. <break time="800ms"/>
+For the purposes of this opsspec, <break time="300ms"/> One Hour Reliable Fix operations are defined as, <break time="300ms"/> Operations over land or over water where a reliable ground-based NAVAID fix is available at least once each hour. <break time="800ms"/>
 Bravo forty six. Authorization to conduct operations in reduced vertical separation minimum or R.V.S.M. airspace as well as the relevant requirements and limitations. <break time="800ms"/>
 Bravo fifty. Authorization to conduct en route operations in the listed specific areas as well as the relevant limitations and provisions. <break time="800ms"/>
 Bravo four fifty. Information regarding sensitive international areas as well as any authorizations and the point of contact for any timely updates.
@@ -72,7 +73,7 @@ Charlie sixty seven. Special authorization, provisions and limitations for certa
 
 Charlie seventy three. Vertical navigation, V-NAV, instrument approach procedures, I.A.P. , using minimum descent altitude, M.D.A. ,  as a decision altitude, D.A. , or Decision height, D.H. <break time="300ms"/>
 Allows specific aircraft with specific equipment and software to use an M.D.A. as a D.A. or D.H. . <break time="300ms"/>
-This opspec provides protection for the temporary altitude loss below the MDA when performing a missed approach when using an MDA as a D.A. or D.H. . <break time="300ms"/>
+This opsspec provides protection for the temporary altitude loss below the MDA when performing a missed approach when using an MDA as a D.A. or D.H. . <break time="300ms"/>
 Simply stated, the runway for the non-precision approach to be used, must also be served by a precision approach with vertical guidance or a visual glide slope indicator.
 The final approach course must be exactly the same, and the Visual descent angle must be the same or greater. The vertical path flown must cross at or above all step down fix altitudes as referenced on the barometric altimeter. <break time="300ms"/>
 Specific V-NAV path angles are required for different categories of aircraft. <break time="300ms"/>

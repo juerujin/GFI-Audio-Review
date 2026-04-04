@@ -1,0 +1,180 @@
+<speak>
+C90B Electrical System Overview
+<break time="1500ms"/>
+The aircraft electrical system is a twenty eight volt direct current system, designed for reliability, redundancy, and automatic protection.
+<break time="1000ms"/>
+
+Power comes from two main sources.
+<break time="500ms"/>
+A battery, used for engine starts and backup power,
+<break time="500ms"/>
+and two starter generators, which provide primary power during flight.
+<break time="1000ms"/>
+
+The battery is always connected to the hot battery bus.
+<break time="500ms"/>
+This means some systems can receive power even when the battery switch is off.
+<break time="500ms"/>
+Use caution to avoid draining the battery.
+<break time="1000ms"/>
+
+Each engine has a starter generator.
+<break time="500ms"/>
+During engine start, it acts as a starter.
+<break time="500ms"/>
+Once the engine is running, it becomes a generator and supplies electrical power.
+<break time="500ms"/>
+Each generator can produce up to two hundred fifty amps,
+<break time="500ms"/>
+and normally maintains about twenty eight volts.
+<break time="1000ms"/>
+
+The system uses multiple electrical buses.
+<break time="500ms"/>
+These include the left generator bus,
+<break time="300ms"/>
+right generator bus,
+<break time="300ms"/>
+center bus,
+<break time="300ms"/>
+triple fed bus,
+<break time="300ms"/>
+and the battery bus.
+<break time="1000ms"/>
+
+The key idea is redundancy.
+<break time="500ms"/>
+Critical systems are connected to more than one power source,
+<break time="500ms"/>
+so if one part fails, others can continue supplying power.
+<break time="1000ms"/>
+
+In normal operation, all buses are connected together automatically.
+<break time="500ms"/>
+Both generators share the electrical load,
+<break time="500ms"/>
+power the entire aircraft,
+<break time="500ms"/>
+and keep the battery charged.
+<break time="1000ms"/>
+
+The system includes automatic protection features.
+<break time="500ms"/>
+One of the most important is the bus tie system.
+<break time="500ms"/>
+Sensors monitor current flow.
+<break time="500ms"/>
+If a high current is detected, indicating a fault,
+<break time="500ms"/>
+the system isolates that part of the electrical system.
+<break time="500ms"/>
+This prevents the fault from affecting the rest of the aircraft.
+<break time="1000ms"/>
+
+Current limiters provide additional protection,
+<break time="500ms"/>
+acting like slow blow fuses.
+<break time="1000ms"/>
+
+Another key feature is load shedding.
+<break time="500ms"/>
+If both generators fail,
+<break time="500ms"/>
+the system automatically removes non essential electrical loads.
+<break time="500ms"/>
+The battery will then power only critical buses.
+<break time="500ms"/>
+In this situation,
+<break time="300ms"/>
+land as soon as practical.
+<break time="1000ms"/>
+
+There are manual controls for the bus tie system.
+<break time="500ms"/>
+The bus sense switch allows testing or resetting after a fault.
+<break time="500ms"/>
+The generator ties switch allows manual control of generator connections.
+<break time="500ms"/>
+A fault must be reset before ties can be reconnected.
+<break time="1000ms"/>
+
+The battery system may include a charge monitor.
+<break time="500ms"/>
+A high charge rate after engine start is normal,
+<break time="500ms"/>
+and will decrease as the battery recharges.
+<break time="1000ms"/>
+
+Each generator is controlled by a generator control unit.
+<break time="500ms"/>
+This unit regulates voltage,
+<break time="300ms"/>
+protects against overvoltage,
+<break time="300ms"/>
+prevents reverse current,
+<break time="300ms"/>
+and balances load between generators.
+<break time="1000ms"/>
+
+For engine starts,
+<break time="300ms"/>
+the first engine is started using the battery.
+<break time="500ms"/>
+The second engine uses a cross start,
+<break time="500ms"/>
+drawing power from the battery and the operating generator.
+<break time="500ms"/>
+During starts,
+<break time="300ms"/>
+some protection systems are temporarily bypassed.
+<break time="1000ms"/>
+
+The aircraft uses inverters to supply alternating current power.
+<break time="500ms"/>
+Two inverters are installed,
+<break time="300ms"/>
+and either one can power the system.
+<break time="500ms"/>
+If one source fails,
+<break time="300ms"/>
+another is automatically used.
+<break time="1000ms"/>
+
+External power can be used on the ground.
+<break time="500ms"/>
+The battery must be connected first.
+<break time="500ms"/>
+Voltage and polarity must be correct.
+<break time="1000ms"/>
+
+Circuit breakers protect individual systems.
+<break time="500ms"/>
+If a non essential breaker trips in flight,
+<break time="500ms"/>
+do not reset it.
+<break time="500ms"/>
+If an essential breaker trips,
+<break time="500ms"/>
+wait thirty seconds and reset it once.
+<break time="500ms"/>
+If it trips again,
+<break time="300ms"/>
+leave it out.
+<break time="1000ms"/>
+
+Overall,
+<break time="300ms"/>
+the system is highly automated and designed to protect itself.
+<break time="500ms"/>
+Most failures isolate automatically.
+<break time="500ms"/>
+The most critical situation is loss of both generators.
+<break time="500ms"/>
+In that case,
+<break time="300ms"/>
+reduce electrical load,
+<break time="300ms"/>
+and land as soon as practical.
+<break time="1000ms"/>
+
+</speak>
