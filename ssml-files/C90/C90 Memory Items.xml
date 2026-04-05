@@ -76,7 +76,7 @@ Minimum idle N.G. . <break time="300ms"/> 58% for ground idle, 70% for high idle
 Oil Pressure limits.
 <break time="1200ms"/>
 Minimum oil pressure at idle. <break time="300ms"/> 40 PSI. <break time="800ms"/>
-Max takeoff, continuous, and reverse oil pressure. <break time="300ms"/> 80 to 100 PSI for Dash 21 equipped aircraft. 85 to 105 PSI for Dash 1 35A equipped aircraft.
+Max takeoff, continuous, and reverse oil pressure. <break time="300ms"/> 80 to 100 PSI for Dash 21 equipped aircraft. 85 to 105 PSI for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Transient oil pressure. <break time="300ms"/> 200 PSI for Dash 21 equipped aircraft. None defined for Dash 1 35A equipped aircraft. <break time="800ms"/>
 
 <break time="1200ms"/>
@@ -186,7 +186,7 @@ In descent mode. <break time="300ms"/> Plus or minus 200 feet per minute per act
 In climb mode. <break time="300ms"/> Plus or minus 1 knot per actuation. <break time="800ms"/>
 Garmin GFC 600 autopilot, Nose Up, Down, wheel functionality <break time="1200ms"/>
 In pitch hold mode. <break time="300ms"/> Plus or minus 0.5 degrees per click. <break time="500ms"/>
-In altitude hold mode. <break time="300ms"/> Plus or minus 10 feet per click. <break time="500ms"/>
+In altitude hold mode. <break time="300ms"/> Plus or minus 10 feet per click, <break time="300ms"/> Up to 200 feet. <break time="500ms"/>
 In indicated airspeed mode. <break time="300ms"/> Plus or minus 1 knot of indicated airspeed per click. <break time="500ms"/>
 In vertical speed mode. <break time="300ms"/> Plus or minus 100 feet per minute per click.
 <break time="2s"/>
@@ -199,8 +199,8 @@ Length. <break time="300ms"/> 35 feet, 6 inches.  <break time="800ms"/>
 Powerplant. <break time="300ms"/> PT6A Dash 21, or 1 35A.  <break time="800ms"/>
 Max pressure altitude. <break time="300ms"/> 30000 feet. <break time="800ms"/>
 Max occupancy. <break time="300ms"/> 13 including crew. <break time="800ms"/>
-Pneumatic pressure range. <break time="300ms"/> Green arc, 12 to 20 PSI. Red line, 20 PSI. <break time="800ms"/>
-Gyro suction ranges. <break time="300ms"/> Sea level to 15000 feet, wide green arc <break time="300ms"/> 5.9 to 4.3 inches of mercury. <break time="300ms"/> 15000 to 35000 feet, narrow green arc <break time="300ms"/> 4.3 to 2.8 inches of mercury. <break time="300ms"/> 15000 foot line, 4.3 inches of mercury. <break time="300ms"/> 35000 foot line, 3.0 inches of mercury. <break time="800ms"/>
+Pneumatic pressure range. <break time="300ms"/> Green ark, 12 to 20 PSI. Red line, 20 PSI. <break time="800ms"/>
+Gyro suction ranges. <break time="300ms"/> Sea level to 15000 feet, wide green ark <break time="300ms"/> 5.9 to 4.3 inches of mercury. <break time="300ms"/> 15000 to 35000 feet, narrow green ark <break time="300ms"/> 4.3 to 2.8 inches of mercury. <break time="300ms"/> 15000 foot line, 4.3 inches of mercury. <break time="300ms"/> 35000 foot line, 3.0 inches of mercury. <break time="800ms"/>
 Flight load limits. <break time="300ms"/> Flaps up. positive 3.28, negative 1.31 G . Flaps down. positive 2.0 G, no negative Gs. <break time="800ms"/>
 Tire Specifications. <break time="300ms"/> Main Landing gear tire. 8 point 5 by 10, 10 ply. Nose Landing gear tire. 6 point 5 by 10, 6 ply. <break time="800ms"/>
 Tire pressure limitations. <break time="300ms"/> 51 to 55 PSI for the nose landing gear tire. 70 plus or minus 3 PSI for the main landing gear tires. Rated for a max of 160 MPH. <break time="800ms"/>

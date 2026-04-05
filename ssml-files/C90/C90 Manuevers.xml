@@ -101,7 +101,7 @@ Trim. <break time="300ms"/> As needed. <break time="1000ms"/>
 Recovery
 <break time="1000ms"/>
 Begin rolling wings level 20 degrees before target heading. <break time="800ms"/>
-Reduce pitch and retrim as required during the recovery. <break time="800ms"/>
+Reduce pitch and re trim as required during the recovery. <break time="800ms"/>
 Power. <break time="300ms"/> Reduce to original setting <break time="800ms"/>
 <break time="1200ms"/>
 

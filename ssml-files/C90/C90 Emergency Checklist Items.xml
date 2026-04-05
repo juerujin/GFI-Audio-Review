@@ -85,10 +85,10 @@ Reference. <break time="300ms"/> Emergency Procedures Tab 4.
 
 Emergency Glide.
 <break time="1200ms"/>
-Landing gear. <break time="300ms"/> Up. <break time="1s"/>
-Flaps. <break time="300ms"/> Up. <break time="1s"/>
-Propellers. <break time="300ms"/> Feathered. <break time="1s"/>
-Airspeed. <break time="300ms"/> 125 knots. <break time="1s"/>
+Landing gear. <break time="300ms"/> Up. <break time="1000ms"/>
+Flaps. <break time="300ms"/> Up. <break time="1000ms"/>
+Propellers. <break time="300ms"/> Feathered. <break time="1000ms"/>
+Airspeed. <break time="300ms"/> 125 knots. <break time="1000ms"/>
 Glide ratio. <break time="300ms"/> 1.8 nautical miles per 1000 feet. <break time="800ms"/>
 Reference. <break time="300ms"/> Emergency Procedures Tab 4.
 <break time="1200ms"/>

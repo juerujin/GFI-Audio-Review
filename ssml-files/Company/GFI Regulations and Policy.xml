@@ -116,12 +116,12 @@ Company I.F.R. cancellation and continued V.F.R. flight limitations.
 <break time="1200ms"/>
 No further than 20 nautical miles from the destination. <break time="800ms"/>
 Additionally, at night, you must be cleared for, and established on, a published segment of an approach, and must continue to fly the ground track and altitudes on the approach. Otherwise, if performing a visual approach, the IFR clearance must be cancled once on the ground. <break time="800ms"/>
-Reference.  <break time="300ms"/> G.O.M., 9.2 and 8.2.
+Reference.  <break time="300ms"/> G.O.M., Section 9.2 and 8.2.
 <break time="1200ms"/>
 
 Contaminated runway performance limitations
 <break time="1200ms"/>
-For pilots with more than 1 year of experience in their assigned airframe at Guardian Flight,<break time="300ms"/> runway condition codes down to 3, 3, 3 are authorized without P MOC approval. <break time="800ms"/>
+For pilots with more than 1 year of experience in their assigned airframe at Guardian Flight,<break time="300ms"/> runway condition codes down to 3, 3, 3 <break time="300ms"/> are authorized without P MOC approval. <break time="800ms"/>
 For pilots with less than 1 year of experience in their assigned airframe at Guardian Flight,<break time="300ms"/> P MOC approval is required for runway condition codes of 3, 3, 3. <break time="800ms"/>
 If contaminated runway performance data is available for the aircraft,<break time="300ms"/> calculate runway requirements using that data.<break time="300ms"/> No additional factors are required. <break time="800ms"/>
 If manufacturer-provided contaminated runway performance data is not available for the aircraft,<break time="300ms"/> 150% of the dry unfactored runway distance required <break time="300ms"/> must be available. <break time="800ms"/>
