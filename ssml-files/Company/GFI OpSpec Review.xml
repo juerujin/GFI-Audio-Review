@@ -7,10 +7,10 @@ Alpha One. Primary Business Address. Authorization to operate under part 91. <br
 Alpha two. Definitions and abbreviations. <break time="800ms"/>
 Alpha three. Authorized aircraft types. <break time="800ms"/>
 Alpha four. List of authorized op  spec paragraphs. <break time="800ms"/>
-Alpha six. List of management personnel. <break time="300ms"/>
-Chief Pilot, Nathan Larson-Alexander. <break time="300ms"/>
-Director of Operations, Darrin Greubel. <break time="300ms"/>
-Director of Maintenance, Buck Curry. <break time="300ms"/>
+Alpha six. List of management personnel. <break time="500ms"/>
+Chief Pilot, Nathan Larson-Alexander. <break time="500ms"/>
+Director of Operations, Darrin Greubel. <break time="500ms"/>
+Director of Maintenance, Buck Curry. <break time="500ms"/>
 Agent for service, Christopher Burns. <break time="800ms"/>
 Alpha seven. List of designated persons. <break time="800ms"/>
 Alpha eight. List of persons with operational control. Consist of the Director of Operations, the Chief Pilot and the Director of Maintenance. <break time="800ms"/>
@@ -19,15 +19,15 @@ Alpha ten. Approved sources of aviation weather information. <break time="800ms"
 Alpha fifteen. Authorization to use an autopilot in lieu of a second in command along with a list of approved autopilot systems. <break time="800ms"/>
 Alpha twenty four. Authorization to perform air ambulance operations. <break time="800ms"/>
 Alpha twenty five. Authorization to use electronic signatures, electronic record keeping systems and electronic manual systems along with a list of approved systems. <break time="800ms"/>
-Alpha twenty seven. Authorization to perform Land and Hold Short Operations. <break time="300ms"/>
-Landing distance should be A.F.M. plus 1000 feet. <break time="300ms"/>
-No wet runways. <break time="300ms"/>
-Runway must have electronic or visual approach guidance. <break time="300ms"/>
-Weather of no less than a 1500 foot ceiling and a visibility of no less than 5 statute miles. <break time="300ms"/>
-Weather can be reduced to 1000 and 3 if a PAPI or VASI is installed and operational. <break time="300ms"/>
-Where a rejected landing procedure is published, weather minima will be published in local flying directives. <break time="300ms"/>
-LAH SO not authorized if wind-shear reported in the 20 minutes prior to the LAH SO clearance. <break time="300ms"/>
-Tailwind should be calm or less than 3 knots. <break time="300ms"/>
+Alpha twenty seven. Authorization to perform Land and Hold Short Operations. <break time="500ms"/>
+Landing distance should be A.F.M. plus 1000 feet. <break time="500ms"/>
+No wet runways. <break time="500ms"/>
+Runway must have electronic or visual approach guidance. <break time="500ms"/>
+Weather of no less than a 1500 foot ceiling and a visibility of no less than 5 statute miles. <break time="500ms"/>
+Weather can be reduced to 1000 and 3 if a PAPI or VASI is installed and operational. <break time="500ms"/>
+Where a rejected landing procedure is published, weather minima will be published in local flying directives. <break time="500ms"/>
+LAH SO not authorized if wind-shear reported in the 20 minutes prior to the LAH SO clearance. <break time="500ms"/>
+Tailwind should be calm or less than 3 knots. <break time="500ms"/>
 Night LAH SO only with approved LAH SO lighting installed. <break time="800ms"/>
 Alpha thirty one. Authorization to use contract training facilities. <break time="800ms"/>
 Alpha forty one. Authorization to complete a pre-takeoff contamination check. <break time="800ms"/>
@@ -43,8 +43,8 @@ Alpha nine nine nine. Copy of the Air operator certificate issued to guardian fl
 Bravo Category
 <break time="1200ms"/>
 Bravo thirty. Authorization to conduct I.F.R. en route, area navigation operations in the state of Alaska and its airspace, on published air traffic routes using G.P.S. WAAS R-NAV systems as the only means of I.F.R. navigation, in accordance with the provisions of S-FAR ninety seven and this opsspec. <break time="800ms"/>
-Bravo thirty three. IFR en route operations. This opsspec replaces bravo 31, 32, 34, and 35. <break time="300ms"/> Authorizes IFR en route operations using R-NAV and, or, GNSS in areas without ground-based NAVAIDs, <break time="300ms"/> requiring the aircraft to maintain at least a One-Hour Reliable Fix (1HRF) capability or comply with additional operational limitations if it cannot. <break time="800ms"/>
-For the purposes of this opsspec, <break time="300ms"/> One Hour Reliable Fix operations are defined as, <break time="300ms"/> Operations over land or over water where a reliable ground-based NAVAID fix is available at least once each hour. <break time="800ms"/>
+Bravo thirty three. IFR en route operations. This opsspec replaces bravo 31, 32, 34, and 35. <break time="500ms"/> Authorizes IFR en route operations using R-NAV and, or, GNSS in areas without ground-based NAVAIDs, <break time="500ms"/> requiring the aircraft to maintain at least a One-Hour Reliable Fix (1HRF) capability or comply with additional operational limitations if it cannot. <break time="800ms"/>
+For the purposes of this opsspec, <break time="500ms"/> One Hour Reliable Fix operations are defined as, <break time="500ms"/> Operations over land or over water where a reliable ground-based NAVAID fix is available at least once each hour. <break time="800ms"/>
 Bravo forty six. Authorization to conduct operations in reduced vertical separation minimum or R.V.S.M. airspace as well as the relevant requirements and limitations. <break time="800ms"/>
 Bravo fifty. Authorization to conduct en route operations in the listed specific areas as well as the relevant limitations and provisions. <break time="800ms"/>
 Bravo four fifty. Information regarding sensitive international areas as well as any authorizations and the point of contact for any timely updates.
@@ -55,12 +55,12 @@ Charlie Category
 Charlie fifty one. Authorization to conduct terminal instrument operations. <break time="800ms"/>
 Charlie fifty two. Authorization to conduct specific types of instrument approach procedures as listed in this op spec as well as the relevant limitations and provisions. <break time="800ms"/>
 Charlie fifty four. High minimum P.I.C. provisions and limitations on the use of landing minimums for turbojet airplanes. <break time="800ms"/>
-Charlie fifty five. Authorization to derive alternate airport weather minimums. <break time="300ms"/>
-For airports with at least one operational navigational facility providing a straight in, non precision, or CAT one precision, approach procedure, <break time="300ms"/> add 400 feet to the minimum descent altitude or height, or decision altitude or height, <break time="300ms"/> and add one statute mile to the landing minimum visibility. <break time="300ms"/>
-For airports with at least two operational navigational facilities <break time="300ms"/> each providing a straight in approach procedure to different suitable runways <break time="300ms"/> add 200 feet to the higher minimum descent altitude or height, or decision altitude or height <break time="300ms"/> and add one half statute mile to the higher landing minimum visibility of the two approaches to be used. <break time="300ms"/>
+Charlie fifty five. Authorization to derive alternate airport weather minimums. <break time="500ms"/>
+For airports with at least one operational navigational facility providing a straight in, non precision, or CAT one precision, approach procedure, <break time="500ms"/> add 400 feet to the minimum descent altitude or height, or decision altitude or height, <break time="500ms"/> and add one statute mile to the landing minimum visibility. <break time="500ms"/>
+For airports with at least two operational navigational facilities <break time="500ms"/> each providing a straight in approach procedure to different suitable runways <break time="500ms"/> add 200 feet to the higher minimum descent altitude or height, or decision altitude or height <break time="500ms"/> and add one half statute mile to the higher landing minimum visibility of the two approaches to be used. <break time="500ms"/>
 If appropriately equipped, you may use a G.P.S. based instrument approach procedures at both the destination and an alternate airport. However, At the alternate, only L-NAV or circling M.D.A.'s are to be planned for unless equipped with ba ro V-NAV. <break time="800ms"/>
 
-Charlie fifty seven. I.F.R. take-off minimums for part one thirty five airplane operations. <break time="300ms"/>
+Charlie fifty seven. I.F.R. take-off minimums for part one thirty five airplane operations. <break time="500ms"/>
 Standard takeoff minimums are 1 statute mile or R.V.R 5000 for aircraft having two engines or less, and one half statute mile or R.V.R 2400 for airplanes having more than 2 engines.
 Additionally, the certificate holder is authorized to use a takeoff minimum equal to the lowest authorized straight-in Category one I.F.R. landing minimum applicable to the certificate holder for that particular airport. Touchdown R.V.R report, if available is controlling.
 If a higher than standard takeoff minimum is published and no alternate procedure is prescribed, that higher published takeoff minimum is controlling.
@@ -70,12 +70,12 @@ Charlie sixty three. Authorization to conduct I.F.R. R-NAV one and, or R.N.P. on
 Charlie sixty four. Authorization to conduct non scheduled passenger and all cargo terminal area I.F.R. operations in Class Golf airspace or at airports without an operating control tower in accordance with the limitations and provisions in this paragraph. <break time="800ms"/>
 Charlie sixty seven. Special authorization, provisions and limitations for certain airports. <break time="800ms"/>
 
-Charlie seventy three. Vertical navigation, V-NAV, instrument approach procedures, I.A.P. , using minimum descent altitude, M.D.A. ,  as a decision altitude, D.A. , or Decision height, D.H. <break time="300ms"/>
-Allows specific aircraft with specific equipment and software to use an M.D.A. as a D.A. or D.H. . <break time="300ms"/>
-This opsspec provides protection for the temporary altitude loss below the MDA when performing a missed approach when using an MDA as a D.A. or D.H. . <break time="300ms"/>
+Charlie seventy three. Vertical navigation, V-NAV, instrument approach procedures, I.A.P. , using minimum descent altitude, M.D.A. ,  as a decision altitude, D.A. , or Decision height, D.H. <break time="500ms"/>
+Allows specific aircraft with specific equipment and software to use an M.D.A. as a D.A. or D.H. . <break time="500ms"/>
+This opsspec provides protection for the temporary altitude loss below the MDA when performing a missed approach when using an MDA as a D.A. or D.H. . <break time="500ms"/>
 Simply stated, the runway for the non-precision approach to be used, must also be served by a precision approach with vertical guidance or a visual glide slope indicator.
-The final approach course must be exactly the same, and the Visual descent angle must be the same or greater. The vertical path flown must cross at or above all step down fix altitudes as referenced on the barometric altimeter. <break time="300ms"/>
-Specific V-NAV path angles are required for different categories of aircraft. <break time="300ms"/>
+The final approach course must be exactly the same, and the Visual descent angle must be the same or greater. The vertical path flown must cross at or above all step down fix altitudes as referenced on the barometric altimeter. <break time="500ms"/>
+Specific V-NAV path angles are required for different categories of aircraft. <break time="500ms"/>
 If the requirements of this section are not met, the certificate holder may still use a continuous descent final approach, but must begin the missed approach so as not to descend below the M.D.A. <break time="800ms"/>
 
 Charlie seventy five. Circle to land approach maneuver, Category One I.F.R. landing minimums. Defines the limitations and provisions under which a circle to land maneuver may be performed from an instrument approach procedure. <break time="800ms"/>

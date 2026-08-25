@@ -5,211 +5,217 @@ King Air C90B Memory Items.
 
 Air speeds.
 <break time="1200ms"/>
-V, S, 0. <break time="300ms"/> 78 knots. <break time="800ms"/>
-V, S, 1. <break time="300ms"/> 88 knots. <break time="800ms"/>
-V, M C A . <break time="300ms"/> 80 knots. <break time="800ms"/>
-V, S S E . <break time="300ms"/> 97 Knots. <break time="800ms"/>
-V, X . <break time="300ms"/> 101 knots. <break time="800ms"/>
-V, X S E. <break time="300ms"/> 100 knots. <break time="800ms"/>
-V, Y . <break time="300ms"/> 112 knots. <break time="800ms"/>
-V, Y S E . <break time="300ms"/> 108 knots for Dash 21 equipped aircraft. 106 knots for Dash 1 35A equipped aircraft. <break time="800ms"/>
-V, glide. <break time="300ms"/> 125 knots. <break time="800ms"/>
-V, A, Maneuvering speed. <break time="300ms"/> 163 knots. <break time="800ms"/>
-V, approach, before the final approach fix. <break time="300ms"/> 140 knots. <break time="800ms"/>
-V, approach, after the final approach fix. <break time="300ms"/> 120 knots. <break time="800ms"/>
-V, approach, flaps down both engines operating. <break time="300ms"/> 101 knots. <break time="800ms"/>
-V, approach, one engine inoperative. <break time="300ms"/> 110 knots. <break time="800ms"/>
-V, approach, flap malfunction. <break time="300ms"/> 115 knots. <break time="800ms"/>
-V, M, O . <break time="300ms"/> 226 knots. <break time="800ms"/>
-M, M, O . <break time="300ms"/> 0.46 Mach. <break time="800ms"/>
-V, turbulence. <break time="300ms"/> 161 knots. <break time="800ms"/>
-V, minimum icing speed. <break time="300ms"/> 140 knots. <break time="800ms"/>
-V, holding. <break time="300ms"/> 140 knots. <break time="800ms"/>
-V, flaps extended. <break time="300ms"/> 184 knots for flaps approach, 148 knots for flaps down. <break time="800ms"/>
-V, L, O . <break time="300ms"/> 182 knots for landing gear extension, 163 knots for landing gear retraction. <break time="800ms"/>
-V, L, E. 182 knots. <break time="300ms"/> <break time="800ms"/>
-V, emergency descent. 182 knots. <break time="300ms"/> <break time="800ms"/>
-V, max effective windshield anti ice speed. <break time="300ms"/> 226 knots. <break time="800ms"/>
-Max crosswind. <break time="300ms"/> 25 knots. <break time="800ms"/>
-Airspeed indicator, white arc. <break time="300ms"/> 78 knots, V S 0. to 148 knots, max full flaps extended speed. <break time="800ms"/>
-Airspeed indicator, thick white arc. <break time="300ms"/> 78 knots, V S 0. to 88 knots, V S 1. <break time="800ms"/>
-Airspeed indicator, thin white arc. <break time="300ms"/> 88 knots, V S 1. to 148 knots, max full flaps extended speed. <break time="800ms"/>
-Airspeed indicator, red and white barber pole. <break time="300ms"/> 226 knots or 0.46 mach, whichever is lower. <break time="800ms"/>
-Collins FCS 65H cruise climb mode speeds. <break time="300ms"/> 150 knots from Sea level up to 10000 feet. 130 knots from 10000 up to 20000 feet. 120 knots from 20000 up to 25000 feet. 110 knots from 25000 up to 30000 feet. The system climbs at 150 knots up to 10,000 feet and then decreases at a rate of 2 knots per 1,000 feet thereafter. <break time="800ms"/>
+V, S, 0. <break time="500ms"/> 78 knots. <break time="800ms"/>
+V, S, 1. <break time="500ms"/> 88 knots. <break time="800ms"/>
+V, M C A . <break time="500ms"/> 80 knots. <break time="800ms"/>
+V, S S E . <break time="500ms"/> 97 Knots. <break time="800ms"/>
+V, X . <break time="500ms"/> 101 knots. <break time="800ms"/>
+V, X S E. <break time="500ms"/> 100 knots. <break time="800ms"/>
+V, Y . <break time="500ms"/> 112 knots. <break time="800ms"/>
+V, Y S E . <break time="500ms"/> 108 knots for Dash 21 equipped aircraft. <break time="300ms"/> 106 knots for Dash 1 35A equipped aircraft. <break time="800ms"/>
+V, glide. <break time="500ms"/> 125 knots. <break time="800ms"/>
+V, A, Maneuvering speed. <break time="500ms"/> 163 knots. <break time="800ms"/>
+V, approach, before the final approach fix. <break time="500ms"/> 140 knots. <break time="800ms"/>
+V, approach, after the final approach fix. <break time="500ms"/> 120 knots. <break time="800ms"/>
+V, approach, flaps down both engines operating. <break time="500ms"/> 101 knots. <break time="800ms"/>
+V, approach, one engine inoperative. <break time="500ms"/> 110 knots. <break time="800ms"/>
+V, approach, flap malfunction. <break time="500ms"/> 115 knots. <break time="800ms"/>
+V, M, O . <break time="500ms"/> 226 knots. <break time="800ms"/>
+M, M, O . <break time="500ms"/> 0.46 Mach. <break time="800ms"/>
+V, turbulence. <break time="500ms"/> 161 knots. <break time="800ms"/>
+V, minimum icing speed. <break time="500ms"/> 140 knots. <break time="800ms"/>
+V, holding. <break time="500ms"/> 140 knots. <break time="800ms"/>
+V, flaps extended. <break time="500ms"/> 184 knots for flaps approach, 148 knots for flaps down. <break time="800ms"/>
+V, L, O . <break time="500ms"/> 182 knots for landing gear extension, 163 knots for landing gear retraction. <break time="800ms"/>
+V, L, E. 182 knots. <break time="500ms"/> <break time="800ms"/>
+V, emergency descent. 182 knots. <break time="500ms"/> <break time="800ms"/>
+V, max effective windshield anti ice speed. <break time="500ms"/> 226 knots. <break time="800ms"/>
+Max crosswind. <break time="500ms"/> 25 knots. <break time="800ms"/>
+Airspeed indicator, white arc. <break time="500ms"/> 78 knots, V S 0. to 148 knots, max full flaps extended speed. <break time="800ms"/>
+Airspeed indicator, thick white arc. <break time="500ms"/> 78 knots, V S 0. to 88 knots, V S 1. <break time="800ms"/>
+Airspeed indicator, thin white arc. <break time="500ms"/> 88 knots, V S 1. to 148 knots, max full flaps extended speed. <break time="800ms"/>
+Airspeed indicator, red and white barber pole. <break time="500ms"/> 226 knots or 0.46 maak, whichever is lower. <break time="800ms"/>
+Collins FCS 65H cruise climb mode speeds. <break time="500ms"/> 150 knots from Sea level up to 10000 feet. 130 knots from 10000 up to 20000 feet. 120 knots from 20000 up to 25000 feet. 110 knots from 25000 up to 30000 feet. The system climbs at 150 knots up to 10,000 feet and then decreases at a rate of 2 knots per 1,000 feet thereafter. <break time="800ms"/>
 <break time="2s"/>
 
 Weights.
 <break time="1200ms"/>
-Max ramp weight. <break time="300ms"/> 10 5, 45 pounds. <break time="800ms"/>
-Max Takeoff weight. <break time="300ms"/> 10 4, 85 pounds. <break time="800ms"/>
-Max landing weight. <break time="300ms"/> 98, 32 pounds. <break time="800ms"/>
-Max zero fuel weight. <break time="300ms"/> 93, 78 pounds. <break time="800ms"/>
-Max rear and nose baggage weight. <break time="300ms"/> 350 pounds. <break time="800ms"/>
-Maximum takeoff weight is limited by the most restrictive of, <break time="300ms"/> Max takeoff weight, <break time="300ms"/> max takeoff weight to achieve takeoff climb requirements, <break time="300ms"/> or max takeoff weight as limited by tire speed. <break time="300ms"/> Max takeoff as limited by tire speed is only applicable to specific Michelin tire part numbers for the nose wheel. <break time="300ms"/> Confirm with your aircraft to see if this chart is applicable. <break time="800ms"/>
+Max ramp weight. <break time="500ms"/> 10 5, 45 pounds. <break time="800ms"/>
+Max Takeoff weight. <break time="500ms"/> 10 4, 85 pounds. <break time="800ms"/>
+Max landing weight. <break time="500ms"/> 98, 32 pounds. <break time="800ms"/>
+Max zero fuel weight. <break time="500ms"/> 93, 78 pounds. <break time="800ms"/>
+Max rear and nose baggage weight. <break time="500ms"/> 350 pounds. <break time="800ms"/>
+Maximum takeoff weight is limited by the most restrictive of, <break time="500ms"/> Max takeoff weight, <break time="500ms"/> max takeoff weight to achieve takeoff climb requirements, <break time="500ms"/> or max takeoff weight as limited by tire speed. <break time="500ms"/> Max takeoff as limited by tire speed is only applicable to specific Michelin tire part numbers for the nose wheel. <break time="500ms"/> Confirm with your aircraft's installed equipment to see if this chart is applicable. <break time="800ms"/>
 <break time="2s"/>
 
 Engine Torque Limits.
 <break time="1200ms"/>
-Max takeoff and Continuous torque. <break time="300ms"/> 13, 15 foot pounds for Dash 21 equipped aircraft. 15, 20 foot pounds for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Max Transient torque. <break time="300ms"/> Fifteen Hundred foot pounds for two seconds on Dash 21 equipped aircraft. No transient torque is allowed on Dash 1 35A equipped aircraft. <break time="800ms"/>
-Max reverse torque. <break time="300ms"/> None defined for Dash 21 equipped aircraft. 15, 20 foot pounds for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Max Guardian Flight initial power on takeoff roll. <break time="300ms"/> 12 hundred foot pounds for Dash 21 equipped aircraft. 14 hundred foot pounds for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max takeoff and Continuous torque. <break time="500ms"/> 13, 15 foot pounds for Dash 21 equipped aircraft. 15, 20 foot pounds for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max Transient torque. <break time="500ms"/> Fifteen Hundred foot pounds for two seconds on Dash 21 equipped aircraft. <break time="300ms"/> No transient torque is allowed on Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max reverse torque. <break time="500ms"/> None defined for Dash 21 equipped aircraft. <break time="300ms"/> 15, 20 foot pounds for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max Guardian Flight initial power on takeoff roll. <break time="500ms"/> 12 hundred foot pounds for Dash 21 equipped aircraft. <break time="300ms"/> 14 hundred foot pounds for Dash 1 35A equipped aircraft. <break time="800ms"/>
 <break time="2s"/>
 
 Engine Temperature Limits.
 <break time="1200ms"/>
-Max starting ITT. <break time="300ms"/> 10, 90 Celsius for 2 seconds. <break time="800ms"/>
-Max transient ITT. <break time="300ms"/> 8, 25 celsius for Dash 21 equipped aircraft. 6, 95 to 8, 25 for two seconds. 8, 80 celsius for Dash 1 35A equipped aircraft. 8, O 5 to 8, 80 celcsius for two seconds. <break time="800ms"/>
-Max takeoff, continuous and reverse ITT. <break time="300ms"/> 6, 95 celsius for Dash 21 equipped aircraft. 8, O 5 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Max low idle ITT. <break time="300ms"/> 6, 60 celsius for Dash 21 equipped aircraft. 6, 85 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Max Guardian Flight Cruise ITT. <break time="300ms"/> 6, 80 celsius for Dash 21 equipped aircraft. 7, 90 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max starting ITT. <break time="500ms"/> 10, 90 Celsius for 2 seconds. <break time="800ms"/>
+Max transient ITT. <break time="500ms"/> 8, 25 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 6, 95 to 8, 25 for two seconds. <break time="300ms"/> 8, 80 celsius for Dash 1 35A equipped aircraft. <break time="300ms"/>8, O 5 to 8, 80 celsius for two seconds. <break time="800ms"/>
+Max ITT. Takeoff, continuous, and reverse. <break time="500ms"/> 6, 95 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 8, O 5 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max low idle ITT. <break time="500ms"/> 6, 60 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 6, 85 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max Guardian Flight Cruise ITT. <break time="500ms"/> 6, 80 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 7, 90 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
 <break time="2s"/>
 
 Engine Gas Generator Limits.
 <break time="1200ms"/>
-Max takeoff and continuous N.G. . <break time="300ms"/> 101.5%. <break time="800ms"/>
-Max transient N.G. . <break time="300ms"/> 102.6%. <break time="800ms"/>
-Max reverse N.G. . <break time="300ms"/> 88% for Dash 21 equipped aircraft. 101.5% celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Minimum idle N.G. . <break time="300ms"/> 58% for ground idle, 70% for high idle. <break time="800ms"/>
+Max takeoff and continuous N.G. . <break time="500ms"/> 101.5%. <break time="800ms"/>
+Max transient N.G. . <break time="500ms"/> 102.6%. <break time="800ms"/>
+Max reverse N.G. . <break time="500ms"/> 88% for Dash 21 equipped aircraft. <break time="300ms"/> 101.5% for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Minimum idle N.G. . <break time="500ms"/> 58% for ground idle, 70% for high idle. <break time="800ms"/>
 <break time="2s"/>
 
 Oil Pressure limits.
 <break time="1200ms"/>
-Minimum oil pressure at idle. <break time="300ms"/> 40 PSI. <break time="800ms"/>
-Max takeoff, continuous, and reverse oil pressure. <break time="300ms"/> 80 to 100 PSI for Dash 21 equipped aircraft. 85 to 105 PSI for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Transient oil pressure. <break time="300ms"/> 200 PSI for Dash 21 equipped aircraft. None defined for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Minimum oil pressure at idle. <break time="500ms"/> 40 PSI. <break time="800ms"/>
+Max oil pressure. takeoff, continuous, and reverse. <break time="500ms"/> 80 to 100 PSI for Dash 21 equipped aircraft. <break time="300ms"/> 85 to 105 PSI for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Transient oil pressure. <break time="500ms"/> 200 PSI for Dash 21 equipped aircraft. <break time="300ms"/> None defined for Dash 1 35A equipped aircraft. <break time="800ms"/>
 
 <break time="1200ms"/>
 Oil Temperature limits.
 <break time="1200ms"/>
-Minimum Starting oil temperature. <break time="300ms"/> Negative 40 celsius. <break time="800ms"/>
-Low Idle Oil temperature range. <break time="300ms"/> Negative 40 to 99 celsius. <break time="800ms"/>
-High Idle Oil temperature range. <break time="300ms"/> 0 to 99 celsius. <break time="800ms"/>
-Takeoff and continuous oil temperature range. <break time="300ms"/> 10 to 99 celsius. <break time="800ms"/>
-Cruise climb, max cruise temperature range on Dash 21 equipped aircraft. <break time="300ms"/> 0 to 99 celsius. <break time="800ms"/>
-Max reverse oil temperature range. <break time="300ms"/> 0 to 99 celsius. <break time="800ms"/>
-Transient oil temperature range. <break time="300ms"/> 0 to 99 celsius for Dash 21 equipped aircraft. 104 celsius for 10 minutes for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Minimum Starting oil temperature. <break time="500ms"/> Negative 40 celsius. <break time="800ms"/>
+Low Idle Oil temperature range. <break time="500ms"/> Negative 40 to 99 celsius. <break time="800ms"/>
+High Idle Oil temperature range. <break time="500ms"/> 0 to 99 celsius. <break time="800ms"/>
+Takeoff and continuous oil temperature range. <break time="500ms"/> 10 to 99 celsius. <break time="800ms"/>
+Oil temperature range. Cruise climb, and cruise <break time="300ms"/> on Dash 21 equipped aircraft. <break time="500ms"/> 0 to 99 celsius. <break time="800ms"/>
+Max reverse oil temperature range. <break time="500ms"/> 0 to 99 celsius. <break time="800ms"/>
+Transient oil temperature range. <break time="500ms"/> 0 to 99 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 104 celsius for 10 minutes for Dash 1 35A equipped aircraft. <break time="800ms"/>
 
 <break time="1200ms"/>
 Oil System Specifications.
 <break time="1200ms"/>
-Engine oil type. <break time="300ms"/> Eastman 23 80. <break time="800ms"/>
-Total Oil Capacity. <break time="300ms"/> 14 Quarts. <break time="800ms"/>
-Undrainable Oil quantity. <break time="300ms"/> 1.5 quarts. <break time="800ms"/>
-Oil refill capacity. <break time="300ms"/> 12.5 quarts. <break time="800ms"/>
-Oil Operating range. <break time="300ms"/> 4 quarts low to full. <break time="800ms"/>
+Engine oil type. <break time="500ms"/> Eastman 23 80. <break time="800ms"/>
+Total Oil Capacity. <break time="500ms"/> 14 Quarts. <break time="800ms"/>
+Undrainable Oil quantity. <break time="500ms"/> 1.5 quarts. <break time="800ms"/>
+Oil refill capacity. <break time="500ms"/> 12.5 quarts. <break time="800ms"/>
+Oil Operating range. <break time="500ms"/> 4 quarts low to full. <break time="800ms"/>
 <break time="2s"/>
 
 Propeller Limits.
 <break time="1200ms"/>
-Max Takeoff and continuous propeller RPM. <break time="300ms"/> 22 Hundred RPM for Dash 21 equipped aircraft. 19 Hundred RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Max reverse propeller RPM. <break time="300ms"/> 21 Hundred RPM for Dash 21 equipped aircraft. 18, 15 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Minimum propeller idle RPM. <break time="300ms"/> 11 Hundred RPM for the McCauley square tipped propellers. 10, 70 RPM for Hartzel round tipped propellers. <break time="800ms"/>
-Max Transient propeller RPM. <break time="300ms"/> <break time="300ms"/> 110% of 22 hundred RPM for the McCauley square tipped propellers, and roughly 120% of 2200 for the Hartzel round tipped propellers. <break time="300ms"/> Specifically, <break time="300ms"/> 24, 20 RPM for 5 seconds for the McCauley square tipped propellers. 26, 40 RPM not exceeding 20 seconds for the Hartzel round tipped propellers. <break time="800ms"/>
-Over speed governor limit. <break time="300ms"/> 104% of the maximum continuous propeller RPM. 22, 88 RPM for Dash 21 equipped aircraft, allowed for sustained periods in accordance with Note 4 on the aircraft type certificate data sheet. 19, 76 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
-Fuel Topping governer limit. <break time="300ms"/> 106% of the currently selected propeller RPM. 23, 32 RPM for Dash 21 equipped aircraft. 20, 14 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
-In the reverse range, the fuel topping governor will limit propeller speed to 95% of the selected propeller speed. It is important that the propeller levers are pushed full forward in order to achieve maximum reverse. <break time="800ms"/>
-Dash 21 propeller governing range. <break time="300ms"/> 18 hundred to 22 hundred rpm.  <break time="800ms"/>
-Dash one 35 propeller governing range. <break time="300ms"/> 16 hundred to 19 hundred rpm.  <break time="800ms"/>
-Over speed governor test RPM. <break time="300ms"/> 2000, plus or minus 60 RPM for Dash 21 equipped aircraft. 17 60, plus or minus 40 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Auto feather arm point. <break time="300ms"/> Greater than 90% N1 with both power levers advanced. <break time="800ms"/>
-Yellow index on propeller blade. <break time="300ms"/> Indicates the 30 inch station where the propeller blade angle is measured. <break time="800ms"/>
-Max propeller diameter. <break time="300ms"/> 90 inches. <break time="800ms"/>
-Minimum propeller diameter. <break time="300ms"/> 89 inches. <break time="800ms"/>
-Reverse Propeller Pitch Angle. <break time="300ms"/> Negative 10 plus or minus zero point two degrees. <break time="800ms"/>
-Feathered propeller pitch angle. <break time="300ms"/> 85.8 plus or minus 0.2 degrees for the McCauley square tipped propellers, and 0.5 degrees for the Hartzel round tipped propellers. <break time="800ms"/>
-McCauley square tipped propeller model number. <break time="300ms"/> 4HFR, 3 4C7, 6 8, /, 9 4, LMA, dash 4. <break time="800ms"/>
-Hartzel round tipped propeller model. <break time="300ms"/> HC, dash, E4N, dash, 3N, /, D89, 90, sub model K. <break time="800ms"/>
+Max Takeoff and continuous propeller RPM. <break time="500ms"/> 22 Hundred RPM for Dash 21 equipped aircraft. <break time="300ms"/> 19 Hundred RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Max reverse propeller RPM. <break time="500ms"/> 21 Hundred RPM for Dash 21 equipped aircraft. <break time="300ms"/> 18, 15 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Minimum propeller idle RPM. <break time="500ms"/> 11 Hundred RPM for the McCauley square tipped propellers. <break time="300ms"/> 10, 70 RPM for Hartzel round tipped propellers. <break time="800ms"/>
+Max Transient propeller RPM. <break time="500ms"/> 110% of 22 hundred RPM for the McCauley square tipped propellers, and 120% of 2200 for the Hartzel round tipped propellers. <break time="500ms"/> Specifically, <break time="500ms"/> 24, 20 RPM for 5 seconds for the McCauley square tipped propellers. <break time="300ms"/> and 26, 40 RPM not exceeding 20 seconds for the Hartzel round tipped propellers. <break time="800ms"/>
+Over speed governor limit. <break time="500ms"/> 104% of the maximum continuous propeller RPM. <break time="300ms"/> 22, 88 RPM for Dash 21 equipped aircraft, <break time="300ms"/> allowed for sustained periods in accordance with Note 4 on the aircraft type certificate data sheet. <break time="300ms"/> 19, 76 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
+Fuel Topping governer limit. <break time="500ms"/> 106% of the currently selected propeller RPM. <break time="300ms"/> 23, 32 RPM for Dash 21 equipped aircraft. <break time="300ms"/> 20, 14 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
+In the reverse range, the fuel topping governor will limit propeller speed to 95% of the selected propeller speed. <break time="300ms"/> It is important that the propeller levers are pushed full forward in order to achieve maximum reverse. <break time="800ms"/>
+Dash 21 propeller governing range. <break time="500ms"/> 18 hundred to 22 hundred rpm.  <break time="800ms"/>
+Dash one 35 A propeller governing range. <break time="500ms"/> 16 hundred to 19 hundred rpm.  <break time="800ms"/>
+Over speed governor test RPM. <break time="500ms"/> 2000, plus or minus 60 RPM for Dash 21 equipped aircraft. <break time="300ms"/> 17 60, plus or minus 40 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Auto feather arm point. <break time="500ms"/> Greater than 90% N1 with both power levers advanced. <break time="800ms"/>
+Yellow index on propeller blade. <break time="500ms"/> Indicates the 30 inch station where the propeller blade angle is measured. <break time="800ms"/>
+Max propeller diameter. <break time="500ms"/> 90 inches. <break time="800ms"/>
+Minimum propeller diameter. <break time="500ms"/> 89 inches. <break time="800ms"/>
+Reverse Propeller Pitch Angle. <break time="500ms"/> Negative 10 plus or minus zero point two degrees. <break time="800ms"/>
+Feathered propeller pitch angle. <break time="500ms"/> 85.8 plus or minus 0.2 degrees for the McCauley square tipped propellers, <break time="300ms"/> and 0.5 degrees for the Hartzel round tipped propellers. <break time="800ms"/>
+McCauley square tipped propeller model number. <break time="500ms"/> 4HFR, 3 4C7, 6 8, /, 9 4, LMA, dash 4. <break time="800ms"/>
+Hartzel round tipped propeller model. <break time="500ms"/> HC, dash, E4N, dash, 3N, /, D89, 90, sub model K. <break time="800ms"/>
 <break time="2s"/>
 
 Electrical System Specifications.
 <break time="1200ms"/>
-Generator specifications. <break time="300ms"/> 28 Volts, 250 Amps. <break time="800ms"/>
-100% Generator load N1 limits. <break time="300ms"/> 85% N1 minimum. <break time="800ms"/>
-Generator limits during ground operations. <break time="300ms"/> Up to 50% generator loads,<break time="300ms"/> 59% N1 minimum. 50% to 80% generator loads,<break time="300ms"/> 61% N1 minimum. 80% to 85% generator loads,<break time="300ms"/> 70% N1 minimum. <break time="800ms"/>
-Inverter specifications. <break time="300ms"/> 2 Single Phase, 400 Hertz AC inverters at 115 and 26 Volts. Inverter output rated at 250 volt amps. <break time="800ms"/>
-Battery specifications. <break time="300ms"/> 24 volts, 42 amp hour for the sealed led acid battery. 34 amp hour for the nye cad battery. <break time="800ms"/>
-External power requirements. <break time="300ms"/> 28.2 plus or minus 0.2 volts. Should be capable of 1000 Amps for 5 seconds, 500 amps for 2 minutes, and 300 amps continuously. High voltage lockout, 31 plus or minus 0.5 volts.<break time="800ms"/>
-Minimum battery voltage required to connect to an external power source. <break time="300ms"/> 20 volts. <break time="800ms"/>
-Hall effect device specification. <break time="300ms"/> Three, rated at 275 amps. <break time="800ms"/>
-Generator bus current limiter specifications. <break time="300ms"/> One each, rated at 250 amps. <break time="800ms"/>
-Triple fed bus current limiters. <break time="300ms"/> One for each power source, rated at 60 amps. <break time="800ms"/>
-Minimum starting voltage on battery power. <break time="300ms"/> 23 volts. <break time="800ms"/>
-Minimum starting voltage on external power. <break time="300ms"/> 20 volts. <break time="800ms"/>
+Generator specifications. <break time="500ms"/> 28 Volts, 250 Amps. <break time="800ms"/>
+100% Generator load N1 limits. <break time="500ms"/> 85% N1 minimum. <break time="800ms"/>
+Generator limits during ground operations. <break time="500ms"/> Up to 50% generator loads,<break time="500ms"/> 59% N1 minimum. <break time="300ms"/> 50% to 80% generator loads,<break time="500ms"/> 61% N1 minimum. <break time="300ms"/> 80% to 85% generator loads,<break time="500ms"/> 70% N1 minimum. <break time="800ms"/>
+Inverter specifications. <break time="500ms"/> 2 Single Phase, 400 Hertz AC inverters at 115 and 26 Volts. <break time="300ms"/> Inverter output rated at 250 volt amps. <break time="800ms"/>
+Inverter Function Test Limits. <break time="500ms"/>Within 105 to 120 volts, <break time="300ms"/> and within 380 to 420 Hertz. <break time="800ms"/>
+Battery specifications. <break time="500ms"/> 24 volts, 42 amp hour for the sealed led acid battery. 34 amp hour for the nye cad battery. <break time="800ms"/>
+External power requirements. <break time="500ms"/> 28.2 plus or minus 0.2 volts. <break time="300ms"/> Should be capable of 1000 Amps for 5 seconds, 500 amps for 2 minutes, and 300 amps continuously. <break time="300ms"/> High voltage lockout, 31 plus or minus 0.5 volts.<break time="800ms"/>
+Minimum battery voltage required to connect to an external power source. <break time="500ms"/> 20 volts. <break time="800ms"/>
+Minimum starting voltage on external power. <break time="500ms"/> 20 volts. <break time="800ms"/>
+Minimum starting voltage on battery power. <break time="500ms"/> 23 volts. <break time="800ms"/>
+Hall effect device specification. <break time="500ms"/> One for each power source, rated at 275 amps. <break time="800ms"/>
+Generator bus current limiter specifications. <break time="500ms"/> One each, rated at 250 amps. <break time="800ms"/>
+Triple fed bus current limiters. <break time="500ms"/> One for each power source, rated at 60 amps. <break time="800ms"/>
 <break time="2s"/>
 
 Fuel System Specifications.
 <break time="1200ms"/>
-Usable fuel capacity. <break time="300ms"/> 384 gallons or 2573 pounds.  <break time="800ms"/>
-Fuel Capacity per side. <break time="300ms"/> 192 Gallons. 131 in the wing tanks, 61 in the nuhsell tank.  <break time="800ms"/>
-Fuel Tank distribution. <break time="300ms"/> 5 tanks total in each wing system.<break time="800ms"/>
-One leading edge, bladder type tank with a capacity of 40 gallons. <break time="300ms"/>
-Two outboard wing panel, bladder type tanks with a capacity of 23 and 25 gallons respectively. <break time="300ms"/>
-One center section bladder type tank with a capacity of 44 gallons. <break time="300ms"/>
-and a nuhsell, bladder type tank with a capacity of 61 gallons. <break time="1000ms"/>
-Max fuel imbalance. <break time="300ms"/> 200 pounds. <break time="800ms"/>
-Fuel crossfeed is only permitted during. <break time="300ms"/> An electrical boost pump failure or an engine failure. <break time="800ms"/>
-Fuel Low, Yellow arc on fuel quantity gauge. <break time="300ms"/> Less than 265 pounds of fuel is left in each wing system. No takeoff permitted. <break time="800ms"/>
+Usable fuel capacity. <break time="500ms"/> 384 gallons or 2573 pounds.  <break time="800ms"/>
+Fuel Capacity per side. <break time="500ms"/> 192 Gallons. <break time="300ms"/> 131 in the wing tanks, 61 in the <phoneme alphabet="ipa" ph="nəˈsɛl">nacelle</phoneme> tank.  <break time="800ms"/>
+Fuel Tank distribution. <break time="500ms"/> 5 tanks total in each wing system.<break time="800ms"/>
+One leading edge, bladder type tank with a capacity of 40 gallons. <break time="500ms"/>
+Two outboard wing panel, bladder type tanks with a capacity of 23 and 25 gallons respectively. <break time="500ms"/>
+One center section bladder type tank with a capacity of 44 gallons. <break time="500ms"/>
+and a <phoneme alphabet="ipa" ph="nəˈsɛl">nacelle</phoneme>, bladder type tank with a capacity of 61 gallons. <break time="1000ms"/>
+Max fuel imbalance. <break time="500ms"/> 200 pounds. <break time="800ms"/>
+Fuel crossfeed is only permitted during. <break time="500ms"/> An electrical boost pump failure or an engine failure. <break time="800ms"/>
+Fuel Low, Yellow arc on fuel quantity gauge. <break time="500ms"/> Less than 265 pounds of fuel is left in each wing system. No takeoff permitted. <break time="800ms"/>
 Both electrical boost pumps must be activated prior to engine start. <break time="800ms"/> 
 Boost pumps must be operational prior to takeoff. <break time="800ms"/>
-In the event of an inoperative boost pump in flight. <break time="300ms"/> Operation of either engine with its respective Left or Right low fuel pressure annunciator illuminated <break time="300ms"/> is limited to 10 hours <break time="200ms"/> before mandatory engine-driven fuel pump overhaul or replacement. Windmilling time is not charged against this limit. <break time="800ms"/>
-Unavailable fuel with no fuel transfer pumps. <break time="300ms"/> 28 Gallons in each wing system. <break time="800ms"/>
-Alternate fuel limits. <break time="300ms"/> Alternate fuels such as 100 Low Led may be used for 150 hours between engine overhauls. Operations are limited below 8000 feet pressure altitude with inoperative boost pumps. Cross feed capability is required for flight above 8000 feet pressure altitude. <break time="800ms"/>
+In the event of an inoperative boost pump in flight. <break time="300ms"/> Operation of either engine with its respective Left or Right low fuel pressure annunciator illuminated <break time="300ms"/> is limited to 10 hours <break time="200ms"/> before mandatory engine-driven fuel pump overhaul or replacement. <break time="300ms"/> Windmilling time is not charged against this limit. <break time="800ms"/>
+Unavailable fuel with no fuel transfer pumps. <break time="500ms"/> 28 Gallons in each wing system. <break time="800ms"/>
+Alternate fuel limits. <break time="500ms"/> Alternate fuels such as 100 Low Led may be used for 150 hours between engine overhauls. <break time="300ms"/> Operations are limited below 8000 feet pressure altitude with inoperative boost pumps. <break time="300ms"/> Cross feed capability is required for flight above 8000 feet pressure altitude. <break time="800ms"/>
 <break time="2s"/>
 
 Pressurization system limits.
 <break time="1200ms"/>
-Max cabin differential pressure. <break time="300ms"/> 5.1 PSI.  <break time="800ms"/>
-Cabin Altitude at max aircraft pressure altitude of 30,000. <break time="300ms"/> 12,000 feet.  <break time="800ms"/>
+Max cabin differential pressure. <break time="500ms"/> 5.1 PSI.  <break time="800ms"/>
+Cabin Altitude at max aircraft pressure altitude of 30,000 feet. <break time="500ms"/> 12,000 feet.  <break time="800ms"/>
 <break time="2s"/>
 
 General Aircraft limits.
 <break time="1200ms"/>
-Dee-ice boots minimum temperature. <break time="300ms"/> Negative 40 Celsius. <break time="800ms"/>
-Maximum Outside air temperature. <break time="300ms"/> I S A plus 37 Celsius. <break time="800ms"/>
-Starting sequence limits. <break time="300ms"/> 40 Seconds on, 60 seconds off. 40 Seconds on, 60 seconds off. 40 Seconds on, 30 minutes off. <break time="800ms"/>
+Dee-ice boots minimum temperature. <break time="500ms"/> Negative 40 Celsius. <break time="800ms"/>
+Maximum Outside air temperature. <break time="500ms"/> I S A plus 37 Celsius. <break time="800ms"/>
+Starting sequence limits. <break time="500ms"/> 40 Seconds on, 60 seconds off. 40 Seconds on, 60 seconds off. 40 Seconds on, 30 minutes off. <break time="800ms"/>
 <break time="2s"/>
 
 Autopilot System limits.
 <break time="1200ms"/>
-Collins FCS 65H autopilot, V.O.R. approach mode limitations. <break time="300ms"/> Use of the V.O.R. approach mode is limited to an area within 10 nautical miles of the V.O.R. station. <break time="800ms"/>
-Minimum Altitudes for the use of the Collins FCS 65H autopilot. <break time="300ms"/> On Approach, 200 feet. During Climb, 500 feet. All other operations, 1000 feet. <break time="800ms"/>
-Minimum Altitudes for the use of the Garmin GFC 600 autopilot. <break time="300ms"/> On Approach, 200 feet. All other operations, 800 feet. <break time="800ms"/>
-Airspeed limitations for the use of the Garmin GFC 600 autopilot. <break time="300ms"/> Minimum engagement speed, 91 knots. Maximum engagement speed, 226 knots. <break time="800ms"/>
+Collins FCS 65H autopilot, V.O.R. approach mode limitations. <break time="500ms"/> Use of the V.O.R. approach mode is limited to an area within 10 nautical miles of the V.O.R. station. <break time="800ms"/>
+Minimum Altitudes for the use of the Collins FCS 65H autopilot. <break time="500ms"/> On Approach, 200 feet. <break time="300ms"/> During Climb, 500 feet. <break time="300ms"/> All other operations, 1000 feet. <break time="800ms"/>
+Minimum Altitudes for the use of the Garmin GFC 600 autopilot. <break time="500ms"/> On Approach, 200 feet. <break time="300ms"/> All other operations, 800 feet. <break time="800ms"/>
+Airspeed limitations for the use of the Garmin GFC 600 autopilot. <break time="500ms"/> Minimum engagement speed, 91 knots. <break time="300ms"/> Maximum engagement speed, 226 knots. <break time="800ms"/>
 Collins FCS 65H, autopilot, Vertical Control Switch functionality <break time="1200ms"/>
-In any mode. <break time="300ms"/> If held, the vertical mode will revert to pitch mode. <break time="500ms"/> 
-In pitch hold mode. <break time="300ms"/> Plus or minus 0.5 degrees per actuation. 1 degree per second if held. <break time="500ms"/>
-In altitude hold mode. <break time="300ms"/> Plus or minus 25 feet per actuation. <break time="500ms"/>
-In indicated airspeed mode. <break time="300ms"/> Plus or minus 1 knot of indicated airspeed per actuation. <break time="500ms"/>
-In vertical speed mode. <break time="300ms"/> Plus or minus 200 feet per minute per actuation. <break time="500ms"/>
-In descent mode. <break time="300ms"/> Plus or minus 200 feet per minute per actuation. <break time="500ms"/>
-In climb mode. <break time="300ms"/> Plus or minus 1 knot per actuation. <break time="800ms"/>
+In any mode. <break time="500ms"/> If held, the vertical mode will revert to pitch mode. <break time="500ms"/> 
+In pitch hold mode. <break time="500ms"/> Plus or minus 0.5 degrees per actuation. 1 degree per second if held. <break time="500ms"/>
+In altitude hold mode. <break time="500ms"/> Plus or minus 25 feet per actuation. <break time="500ms"/>
+In indicated airspeed mode. <break time="500ms"/> Plus or minus 1 knot of indicated airspeed per actuation. <break time="500ms"/>
+In vertical speed mode. <break time="500ms"/> Plus or minus 200 feet per minute per actuation. <break time="500ms"/>
+In descent mode. <break time="500ms"/> Plus or minus 200 feet per minute per actuation. <break time="500ms"/>
+In climb mode. <break time="500ms"/> Plus or minus 1 knot per actuation. <break time="1200ms"/>
 Garmin GFC 600 autopilot, Nose Up, Down, wheel functionality <break time="1200ms"/>
-In pitch hold mode. <break time="300ms"/> Plus or minus 0.5 degrees per click. <break time="500ms"/>
-In altitude hold mode. <break time="300ms"/> Plus or minus 10 feet per click, <break time="300ms"/> Up to 200 feet. <break time="500ms"/>
-In indicated airspeed mode. <break time="300ms"/> Plus or minus 1 knot of indicated airspeed per click. <break time="500ms"/>
-In vertical speed mode. <break time="300ms"/> Plus or minus 100 feet per minute per click.
+In pitch hold mode. <break time="500ms"/> Plus or minus 0.5 degrees per click. <break time="500ms"/>
+In altitude hold mode. <break time="500ms"/> Plus or minus 10 feet per click, <break time="500ms"/> Up to 200 feet. <break time="500ms"/>
+In indicated airspeed mode. <break time="500ms"/> Plus or minus 1 knot of indicated airspeed per click. <break time="500ms"/>
+In vertical speed mode. <break time="500ms"/> Plus or minus 100 feet per minute per click. <break time="800ms"/>
+Garmin GFC 600 autopilot, ESP activation limits <break time="1200ms"/>
+When the pitch exceeds 18 degrees nose up or 16 degrees nose down. <break time="500ms"/>
+When the roll exceeds 45 degrees. <break time="500ms"/>
 <break time="2s"/>
 
 Additional Aircraft Specifications.
 <break time="1200ms"/>
-Wingspan. <break time="300ms"/> 50 feet, 3 inches.  <break time="800ms"/>
-Height. <break time="300ms"/> 14 feet, 3 inches.  <break time="800ms"/>
-Length. <break time="300ms"/> 35 feet, 6 inches.  <break time="800ms"/>
-Powerplant. <break time="300ms"/> PT6A Dash 21, or 1 35A.  <break time="800ms"/>
-Max pressure altitude. <break time="300ms"/> 30000 feet. <break time="800ms"/>
-Max occupancy. <break time="300ms"/> 13 including crew. <break time="800ms"/>
-Pneumatic pressure range. <break time="300ms"/> Green ark, 12 to 20 PSI. Red line, 20 PSI. <break time="800ms"/>
-Gyro suction ranges. <break time="300ms"/> Sea level to 15000 feet, wide green ark <break time="300ms"/> 5.9 to 4.3 inches of mercury. <break time="300ms"/> 15000 to 35000 feet, narrow green ark <break time="300ms"/> 4.3 to 2.8 inches of mercury. <break time="300ms"/> 15000 foot line, 4.3 inches of mercury. <break time="300ms"/> 35000 foot line, 3.0 inches of mercury. <break time="800ms"/>
-Flight load limits. <break time="300ms"/> Flaps up. positive 3.28, negative 1.31 G . Flaps down. positive 2.0 G, no negative Gs. <break time="800ms"/>
-Tire Specifications. <break time="300ms"/> Main Landing gear tire. 8 point 5 by 10, 10 ply. Nose Landing gear tire. 6 point 5 by 10, 6 ply. <break time="800ms"/>
-Tire pressure limitations. <break time="300ms"/> 51 to 55 PSI for the nose landing gear tire. 70 plus or minus 3 PSI for the main landing gear tires. Rated for a max of 160 MPH. <break time="800ms"/>
-Landing gear actuation limits. <break time="300ms"/> One cycle per 3 minutes, up to 10 times, then a 15 minute cool down period. <break time="800ms"/>
-Landing gear warning horn activation point. <break time="300ms"/> 79% N1, plus or minus 2%. <break time="800ms"/>
+Wingspan. <break time="500ms"/> 50 feet, 3 inches.  <break time="800ms"/>
+Height. <break time="500ms"/> 14 feet, 3 inches.  <break time="800ms"/>
+Length. <break time="500ms"/> 35 feet, 6 inches.  <break time="800ms"/>
+Powerplant. <break time="500ms"/> PT6A Dash 21, <break time="300ms"/> or 1 35A.  <break time="800ms"/>
+Max pressure altitude. <break time="500ms"/> 30000 feet. <break time="800ms"/>
+Max occupancy. <break time="500ms"/> 13 including crew. <break time="800ms"/>
+Pneumatic pressure range. <break time="500ms"/> Green ark, <break time="300ms"/> 12 to 20 PSI. <break time="300ms"/> Red line, <break time="300ms"/> 20 PSI. <break time="800ms"/>
+Gyro suction ranges. <break time="500ms"/> Sea level to Fifteen thousand feet, wide green ark <break time="500ms"/> 5.9 to 4.3 inches of mercury. <break time="500ms"/>15 thousand to 35 thousand feet, narrow green ark <break time="500ms"/> 4.3 to 2.8 inches of mercury. <break time="500ms"/> 15 thousand foot line, 4.3 inches of mercury. <break time="500ms"/> 35 thousand foot line, 3.0 inches of mercury. <break time="800ms"/>
+Flight load limits. <break time="500ms"/> Flaps up. <break time="300ms"/> positive 3.28, negative 1.31 G . <break time="300ms"/> Flaps down. <break time="300ms"/> positive 2.0 G, no negative Gs. <break time="800ms"/>
+Tire Specifications. <break time="500ms"/> Main Landing gear tire. 8 point 5 by 10, 10 ply. Nose Landing gear tire. 6 point 5 by 10, 6 ply. <break time="800ms"/>
+Tire pressure limitations. <break time="500ms"/> 51 to 55 PSI for the nose landing gear tire. <break time="300ms"/> 70 plus or minus 3 PSI for the main landing gear tires. <break time="300ms"/> Rated for a max of 160 MPH. <break time="800ms"/>
+Landing gear actuation limits. <break time="500ms"/> One cycle per 3 minutes, up to 10 times, then a 15 minute cool down period. <break time="800ms"/>
+Landing gear warning horn activation point. <break time="500ms"/> 79% N1, plus or minus 2%. <break time="800ms"/>
+Landing gear system, retracted hydraulic pressure. <break time="500ms"/> The hydraulic pump motor is cutoff at approximately 18 50 PSI. <break time="300ms"/> It is reactivated in the up position when the pressure falls below 1600 PSI. <break time="800ms"/>
 Both wing Ice lights are required per FAA A D 98, zero four, 24. This A D supersedes any relief provided by the M E L. <break time="800ms"/>
-Oxygen available, at 1000 PSI, for one pilot, two medical crew members, and a patient, using the 22 cubic foot cylinder. <break time="300ms"/> 13 minutes.  With an additional passenger, <break time="300ms"/> 11 minutes. <break time="800ms"/>
-The annunciator panel and all other annunciators are on the triple fed bus. <break time="300ms"/>If power to that bus is lost due to a short,<break time="300ms"/> all warnings including the landing gear status lights and horns will be unavailable. <break time="800ms"/>
-The gear handle control power is on the triple fed bus. It will also be lost in the event of a triple fed bus short, <break time="300ms"/> necessitating manually pumping the gear down. <break time="800ms"/>
+Max emergency oxygen fill pressure. <break time="500ms"/> 18 50 PSI at 15 celsius. <break time="800ms"/>
+Oxygen available, at 1000 PSI, <break time="300ms"/> for one pilot, two medical crew members, and a patient, <break time="300ms"/> using the 22 cubic foot cylinder. <break time="500ms"/> 13 minutes.  <break time="300ms"/>With an additional passenger, <break time="300ms"/> 11 minutes. <break time="800ms"/>
+The annunciator panel and all other annunciators are on the triple fed bus. <break time="500ms"/>If power to that bus is lost due to a short,<break time="500ms"/> all warnings including the landing gear status lights and horns will be unavailable. <break time="800ms"/>
+The gear handle control power is on the triple fed bus. It will also be lost in the event of a triple fed bus short, <break time="500ms"/> necessitating manually pumping the gear down. <break time="800ms"/>
 <break time="2s"/>
 
 </speak>
