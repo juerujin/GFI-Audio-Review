@@ -8,7 +8,7 @@ Autopilot. <break time="500ms"/> Disconnect. <break time="1s"/>
 Affected engine. <break time="1s"/>
 Condition Lever. <break time="500ms"/> Cut-off. <break time="1s"/>
 Propeller Lever. <break time="500ms"/> Feather. <break time="1s"/>
-Fuel Firewall Shutoff Valve. <break time="500ms"/> Close. <break time="1s"/>
+Fuel Firewall Shutoff Valve. <break time="500ms"/> Cloze. <break time="1s"/>
 Fire extinguisher, if installed. <break time="500ms"/> Actuate. <break time="800ms"/>
 Reference. <break time="500ms"/> Emergency Procedures Tab 1.
 <break time="1200ms"/>
@@ -28,7 +28,7 @@ Power levers. <break time="500ms"/> Ground fine. <break time="1s"/>
 Brakes. <break time="500ms"/> Maximum. <break time="1s"/>
 If insufficient runway remains for stopping. <break time="1s"/>
 Condition Lever. <break time="500ms"/> Cut-off. <break time="1s"/>
-Fuel Firewall Shutoff Valve. <break time="500ms"/> Close. <break time="1s"/>
+Fuel Firewall Shutoff Valve. <break time="500ms"/> Cloze. <break time="1s"/>
 Master switch. <break time="500ms"/> Off, Gang bar down. <break time="1s"/>
 Boost Pumps. <break time="500ms"/> Off. <break time="800ms"/>
 Reference. <break time="500ms"/> Emergency Procedures Tab 2.
@@ -37,7 +37,7 @@ Reference. <break time="500ms"/> Emergency Procedures Tab 2.
 Engine Fire on ground.
 <break time="1200ms"/>
 Condition Lever. <break time="500ms"/> Cut-off. <break time="1s"/>
-Fuel Firewall Shutoff Valve. <break time="500ms"/> Close. <break time="800ms"/>
+Fuel Firewall Shutoff Valve. <break time="500ms"/> Cloze. <break time="800ms"/>
 Reference. <break time="500ms"/> Emergency Procedures Tab 1.
 <break time="1200ms"/>
 
@@ -120,7 +120,7 @@ High differential pressure.
 <break time="1200ms"/>
 Cabin altitude controller. <break time="500ms"/> Select higher cabin altitude setting. <break time="1s"/>
 If condition persists. <break time="1s"/>
-Bleed air valves. <break time="500ms"/> Closed. <break time="1s"/>
+Bleed air valves. <break time="500ms"/> Clozed. <break time="1s"/>
 Cabin Pressure, after cabin is depressurized. <break time="500ms"/> Dump. <break time="1s"/>
 Bleed air valve. <break time="500ms"/> Open. <break time="800ms"/>
 Reference. <break time="500ms"/> Emergency Procedures Tab 6.
