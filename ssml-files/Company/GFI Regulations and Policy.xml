@@ -4,7 +4,7 @@ Regulations and policy
 
 I.F.R. fuel requirements.
 <break time="1200ms"/>
-Enough fuel must be carried to complete the flight to the first airport of intended landing, then fly from that airport to the alternate airport, then fly after that for 45 minutes at normal cruising speed. <break time="500ms"/>
+Enough fuel must be carried to complete the flight to the first airport of intended landing, <break time="300ms"/> then fly from that airport to the alternate airport, <break time="300ms"/> If required <break time="300ms"/>, then fly after that for 45 minutes at normal cruising speed.  <break time="500ms"/>
 Reference. <break time="500ms"/> one thirty five,  two 23, A.
 <break time="1200ms"/>
 
@@ -18,8 +18,8 @@ Reference. <break time="500ms"/> one thirty five,  two 23, B.
 
 Destination Airport Weather Minimums.
 <break time="1200ms"/>
-No person may take off an aircraft under IFR, or begin an IFR, or over-the-top operation, unless the latest weather reports or forecasts, or any combination of them, 
-indicate that weather conditions, at the estimated time of arrival at the next airport of intended landing, will be at or above authorized IFR landing minimums.  <break time="800ms"/>
+No person may take off an aircraft under IFR, or begin an IFR, or over-the-top operation,<break time="300ms"/> unless the latest weather reports or forecasts, or any combination thereof, <break time="300ms"/>
+indicate that weather conditions, <break time="300ms"/> at the estimated time of arrival at the next airport of intended landing,  <break time="300ms"/>will be at, or above, authorized IFR landing minimums.  <break time="800ms"/>
 Reference. <break time="500ms"/> one 35, two 19.
 <break time="1200ms"/>
 
@@ -33,9 +33,9 @@ Reference. <break time="500ms"/> opsspec Charlie fifty five.
 
 I.F.R. takeoff minimums
 <break time="1200ms"/>
-Standard takeoff minimums are 1 statute mile or R.V.R 5000 for aircraft having two engines or less, and one half statute mile or R.V.R 2400 for airplanes having more than 2 engines.
-Additionally, the certificate holder is authorized to use a takeoff minimum equal to the lowest authorized straight-in Category one I.F.R. landing minimum applicable to the certificate holder for that particular airport. Touchdown R.V.R report, if available is controlling.
-If a higher than standard takeoff minimum is published, and no alternative procedure is prescribed, that higher published takeoff minimum is controlling.
+Standard takeoff minimums are 1 statute mile, or R.V.R 5000, for airplanes having two engines or less, <break time="300ms"/> and one half statute mile or R.V.R 24 hundred for airplanes having more than 2 engines. <break time="500ms"/>
+Additionally, <break time="300ms"/> the certificate holder is authorized to use a takeoff minimum equal to the lowest authorized straight-in Category one I.F.R. landing minimum,  applicable to the certificate holder for that particular airport. <break time="500ms"/> The touchdown R.V.R report, if available, is controlling. <break time="500ms"/>
+If a higher than standard takeoff minimum is published,  <break time="300ms"/> and no alternative procedure is prescribed,  <break time="300ms"/> that higher published takeoff minimum is controlling. <break time="500ms"/>
 The note prohibiting single-engine I.F.R. part one 35 passenger-carrying operations, in lower than standard takeoff minimums, only applies to non turbine single-engine aircraft.<break time="800ms"/>
 Reference. <break time="500ms"/> opsspec Charlie fifty seven.
 <break time="1200ms"/>
@@ -95,7 +95,7 @@ Land and hold short requirements and limitations.
 
 Two-way radio communications failure.
 <break time="1200ms"/>
-If under V.F.R. conditions, continue the flight under V.F.R. and land as soon as practicable. Otherwise, if under I.F.R. conditions. <break time="800ms"/>
+If under V.F.R. conditions, continue the flight under V.F.R. and land as soon as practicable. <break time="500ms"/> Otherwise, if under I.F.R. conditions. <break time="800ms"/>
 Transponder set to 76 hundred. <break time="800ms"/>
 Route, <break time="500ms"/>Assigned, <break time="500ms"/> Vectored, <break time="500ms"/> Expected, <break time="500ms"/>Filed. <break time="800ms"/>
 Altitude, for the route segment currently being flown, highest of <break time="500ms"/>Assigned, <break time="500ms"/>Minimum en route, <break time="500ms"/>expected altitude. <break time="800ms"/>
@@ -138,7 +138,7 @@ Airspace speed Limits
 <break time="1200ms"/>
 Speed limit below 10000 feet.<break time="500ms"/> 250 knots. <break time="500ms"/>
 Speed limit below class Bravo airspace or a V.F.R. corridor.<break time="500ms"/> 200 knots. <break time="500ms"/>
-Speed limit for class Charlie or Delta.<break time="500ms"/> 200 knots within 4 nautical miles and up to 2500 A. G. L. <break time="800ms"/>
+Speed limit for class Charlie or Delta.<break time="500ms"/> 200 knots within 4 nautical miles of the primary surface airport, <break time="300ms"/> and up to 2500 A. G. L. <break time="800ms"/>
 Reference. <break time="500ms"/> 91, one 17.
 <break time="1200ms"/>
 
@@ -161,7 +161,8 @@ Flight hour limits, unscheduled operations.
 500 hours per quarter <break time="500ms"/>
 800 hours every 2 consecutive quarters <break time="500ms"/>
 1400 hours per calendar year <break time="800ms"/>
-Rest requirements.<break time="500ms"/> 10 hours of rest within the preceding 24 hours to the start of duty. <break time="800ms"/>
+Rest requirements.<break time="500ms"/>At least 10 consecutive hours of rest, within the preceding 24 hours to the start of duty. <break time="800ms"/>
+Additionally <break time="300ms"/>, The certificate holder must provide each flight crewmember, at least 13 rest periods, of at least 24 consecutive hours each <break time="300ms"/> in each calendar quarter. <break time="800ms"/>
 Reference. <break time="500ms"/>  one thirty five, two sixty seven.
 <break time="1200ms"/>
 

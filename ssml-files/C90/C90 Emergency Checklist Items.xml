@@ -16,9 +16,10 @@ Reference. <break time="500ms"/> Emergency Procedures Tab 1.
 Engine Failure After Liftoff.
 <break time="1200ms"/>
 Maximum Continuous Power. <break time="500ms"/> Set. <break time="1s"/>
-Air speed. <break time="500ms"/> Maintain, takeoff speed or above. <break time="1s"/>
+Airspeed. <break time="500ms"/> Maintain, takeoff speed or above. <break time="1s"/>
+Landing gear. <break time="500ms"/> Up. <break time="1s"/>
 Propeller, inoperative engine. <break time="500ms"/> Verify feathered or feather. <break time="1s"/>
-Airspeed, After obstacles cleared. <break time="500ms"/> 108 knots. <break time="800ms"/>
+Airspeed, After obstacles cleared. <break time="500ms"/> 108 knots for Dash 21 equipped aircraft. <break time="300ms"/> 106 knots for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Reference. <break time="500ms"/> Emergency Procedures Tab 2.
 <break time="1200ms"/>
 
@@ -85,10 +86,10 @@ Reference. <break time="500ms"/> Emergency Procedures Tab 4.
 
 Emergency Glide.
 <break time="1200ms"/>
-Landing gear. <break time="500ms"/> Up. <break time="1000ms"/>
-Flaps. <break time="500ms"/> Up. <break time="1000ms"/>
-Propellers. <break time="500ms"/> Feathered. <break time="1000ms"/>
-Airspeed. <break time="500ms"/> 125 knots. <break time="1000ms"/>
+Landing gear. <break time="500ms"/> Up. <break time="1s"/>
+Flaps. <break time="500ms"/> Up. <break time="1s"/>
+Propellers. <break time="500ms"/> Feathered. <break time="1s"/>
+Airspeed. <break time="500ms"/> 125 knots. <break time="1s"/>
 Glide ratio. <break time="500ms"/> 1.8 nautical miles per 1000 feet. <break time="800ms"/>
 Reference. <break time="500ms"/> Emergency Procedures Tab 4.
 <break time="1200ms"/>
@@ -121,7 +122,7 @@ High differential pressure.
 Cabin altitude controller. <break time="500ms"/> Select higher cabin altitude setting. <break time="1s"/>
 If condition persists. <break time="1s"/>
 Bleed air valves. <break time="500ms"/> Clozed. <break time="1s"/>
-Cabin Pressure, after cabin is depressurized. <break time="500ms"/> Dump. <break time="1s"/>
+Cabin Pressure switch. after cabin is depressurized. <break time="500ms"/> Dump. <break time="1s"/>
 Bleed air valve. <break time="500ms"/> Open. <break time="800ms"/>
 Reference. <break time="500ms"/> Emergency Procedures Tab 6.
 <break time="1200ms"/>
@@ -148,9 +149,19 @@ Reference. <break time="500ms"/> Emergency Procedures Tab 7.
 TAWS Warning.
 <break time="1200ms"/>
 Wings. <break time="500ms"/> Level. <break time="1s"/>
-Power. <break time="500ms"/> Max Allowable. <break time="1s"/>
-Pitch. <break time="500ms"/> Increase first to 20 degrees. Adjust to avoid stall. Aim for 101 knots. <break time="1s"/>
+Power. <break time="500ms"/> Maximum Allowable. <break time="1s"/>
+Pitch. <break time="500ms"/> Increase pitch, to 15 degrees nose up, at a rate of 2 to 3 degrees per second. Adjust to avoid stall. Aim for 101 knots. <break time="1s"/>
 Gear and Flaps. <break time="500ms"/> Retract. <break time="1s"/>
+<break time="1200ms"/>
+
+Aviation Performance Solutions, All-Attitude Upset Recovery Strategy
+<break time="1200ms"/>
+Push. <break time="1s"/>
+Roll. <break time="1s"/>
+Power. <break time="1s"/>
+Stabilize. <break time="1s"/>
+Pitch and power set. <break time="500ms"/> Airspeed stable. <break time="500ms"/> Positive rate. <break time="800ms"/>
+Recovery complete. <break time="1s"/>
 <break time="1200ms"/>
 
 End checklist memory items.
@@ -171,7 +182,7 @@ Air start. <break time="500ms"/> Abnormal Procedures Tab 1. <break time="800ms"/
 Flaps up landing, one engine inoperative landing, One engine inoperative go around. <break time="500ms"/> Abnormal Procedures Tab 2. <break time="800ms"/>
 Circuit breaker tripped, avionics master power switch failure. <break time="500ms"/> Abnormal Procedures Tab 4. <break time="800ms"/>
 Landing gear manual extension. <break time="500ms"/> Abnormal Procedures Tab 5. <break time="800ms"/>
-Propeller Dee-ice ammeter. <break time="500ms"/> Abnormal Procedures Tab 5. <break time="800ms"/>
+Propeller Di-ice ammeeter. <break time="500ms"/> Abnormal Procedures Tab 5. <break time="800ms"/>
 Pilot alternate static air source. <break time="500ms"/> Abnormal Procedures Tab 5. <break time="800ms"/>
 Cracked or shattered windshields and side windows. <break time="500ms"/> Abnormal Procedures Tab 6. <break time="800ms"/>
 Severe Icing. <break time="500ms"/> Abnormal Procedures Tab 6. <break time="800ms"/>
