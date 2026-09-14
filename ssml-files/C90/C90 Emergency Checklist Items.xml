@@ -5,11 +5,11 @@ C90B Immediate Action Items.
 Emergency Engine Shutdown.
 <break time="1200ms"/>
 Autopilot. <break time="500ms"/> Disconnect. <break time="1s"/>
-Affected engine. <break time="1s"/>
+Affected engine. <break time="800ms"/>
 Condition Lever. <break time="500ms"/> Cut-off. <break time="1s"/>
 Propeller Lever. <break time="500ms"/> Feather. <break time="1s"/>
 Fuel Firewall Shutoff Valve. <break time="500ms"/> Cloze. <break time="1s"/>
-Fire extinguisher, if installed. <break time="500ms"/> Actuate. <break time="800ms"/>
+Fire extinguisher, <break time="300ms"/>if installed, <break time="300ms"/> and if fire warning persist <break time="500ms"/> Actuate. <break time="800ms"/>
 Reference. <break time="500ms"/> Emergency Procedures Tab 1.
 <break time="1200ms"/>
 
@@ -63,7 +63,7 @@ Use of oxygen, electrical smoke or fire, environmental system smoke or fumes, or
 <break time="1200ms"/>
 Oxygen system control. <break time="500ms"/> Confirm on. <break time="1s"/>
 Crew. <break time="500ms"/> Don mask. <break time="1s"/>
-For smoke and fumes. <break time="500ms"/> <break time="1s"/>
+For smoke and fumes. <break time="800ms"/>
 Mask Selector. <break time="500ms"/> Emergency Position. <break time="800ms"/>
 Reference. <break time="500ms"/> Emergency Procedures Tab 6.
 <break time="1200ms"/>
@@ -78,8 +78,8 @@ Emergency Descent.
 <break time="1200ms"/>
 Power levers. <break time="500ms"/> Idle. <break time="1s"/>
 Propeller Levers. <break time="500ms"/> High RPM. <break time="1s"/>
-Flaps, 184 knots maximum. <break time="500ms"/> Approach. <break time="1s"/>
-Landing gear, 182 maximum. <break time="500ms"/> Down. <break time="1s"/>
+Flaps, <break time="300ms"/> 184 knots maximum. <break time="500ms"/> Approach. <break time="1s"/>
+Landing gear, <break time="300ms"/> 182 maximum. <break time="500ms"/> Down. <break time="1s"/>
 Airspeed. <break time="500ms"/> 182 knots maximum. <break time="800ms"/>
 Reference. <break time="500ms"/> Emergency Procedures Tab 4.
 <break time="1200ms"/>
@@ -97,9 +97,9 @@ Reference. <break time="500ms"/> Emergency Procedures Tab 4.
 Autopilot Malfunction, elevator trim runaway, Collins FCS 65H autopilot.
 <break time="1200ms"/>
 Control Wheel. <break time="500ms"/> Hold firmly, be prepared to accept control wheel forces. <break time="1s"/>
-Autopilot <break time="500ms"/> yaw damp <break time="500ms"/> trim disconnect button. <break time="500ms"/> Depress fully. <break time="1s"/>
+Autopilot <break time="300ms"/> yaw damp <break time="300ms"/> trim disconnect button. <break time="500ms"/> Depress fully. <break time="1s"/>
 Flight controls, power levers. <break time="500ms"/> As required to recover the airplane. <break time="800ms"/>
-Reference. <break time="500ms"/> Emergency Procedures Tab 5.
+Reference. <break time="500ms"/> Collins FCS 65H with <phoneme alphabet="ipa" ph="ˈiːfɪs">EFIS</phoneme> 84, Airplane Flight manual Supplement
 <break time="1200ms"/>
 
 Autopilot Malfunction, elevator trim runaway, Garmin GFC 600 autopilot.
@@ -107,7 +107,7 @@ Autopilot Malfunction, elevator trim runaway, Garmin GFC 600 autopilot.
 Control Wheel. <break time="500ms"/> Grip firmly. <break time="1s"/>
 Autopilot disconnect, trim interrupt button. <break time="500ms"/> Press and hold. <break time="1s"/>
 Aircraft attitude. <break time="500ms"/> maintain, regain control. <break time="800ms"/>
-Reference. <break time="500ms"/> Garmin GFC 600 autopilot airplane flight manual supplement.
+Reference. <break time="500ms"/> Garmin GFC 600 autopilot Airplane Flight manual supplement.
 <break time="1200ms"/>
 
 Unscheduled Rudder Boost Activation.
@@ -165,40 +165,5 @@ Recovery complete. <break time="1s"/>
 <break time="1200ms"/>
 
 End checklist memory items.
-<break time="1200ms"/>
-
-Emergency and abnormal procedures quick reference
-<break time="1200ms"/>
-Engine Failure. <break time="500ms"/> Emergency Procedures Tab 1 and 2. <break time="800ms"/>
-Smoke and fume elimination. <break time="500ms"/> Emergency Procedures Tab 3 and 4. <break time="800ms"/>
-Cabin Door unlocked. <break time="500ms"/> Emergency Procedures Tab 4. <break time="800ms"/>
-Emergency Descent. <break time="500ms"/> Emergency Procedures Tab 4. <break time="800ms"/>
-Emergency Glide. <break time="500ms"/> Emergency Procedures Tab 4. <break time="800ms"/>
-Unscheduled electric elevator trim. <break time="500ms"/> Emergency Procedures Tab 5. <break time="800ms"/>
-Unscheduled rudder boost activation. <break time="500ms"/> Emergency Procedures Tab 5. <break time="800ms"/>
-Use of Oxygen, Pressurization loss, High differential pressure emergency exit. <break time="500ms"/> Emergency Procedures Tab 6. <break time="800ms"/>
-Spins. <break time="500ms"/> Emergency Procedures Tab 7. <break time="800ms"/>
-Air start. <break time="500ms"/> Abnormal Procedures Tab 1. <break time="800ms"/>
-Flaps up landing, one engine inoperative landing, One engine inoperative go around. <break time="500ms"/> Abnormal Procedures Tab 2. <break time="800ms"/>
-Circuit breaker tripped, avionics master power switch failure. <break time="500ms"/> Abnormal Procedures Tab 4. <break time="800ms"/>
-Landing gear manual extension. <break time="500ms"/> Abnormal Procedures Tab 5. <break time="800ms"/>
-Propeller Di-ice ammeeter. <break time="500ms"/> Abnormal Procedures Tab 5. <break time="800ms"/>
-Pilot alternate static air source. <break time="500ms"/> Abnormal Procedures Tab 5. <break time="800ms"/>
-Cracked or shattered windshields and side windows. <break time="500ms"/> Abnormal Procedures Tab 6. <break time="800ms"/>
-Severe Icing. <break time="500ms"/> Abnormal Procedures Tab 6. <break time="800ms"/>
-Left or Right Fuel Pressure Warning. <break time="500ms"/> Emergency Procedures Tab 3. <break time="800ms"/>
-Fuel Cross feed caution. <break time="500ms"/> Emergency Procedures Tab 3 if combined with left or right fuel pressure warning, Otherwise Abnormal Procedures Tab 3. <break time="800ms"/>
-Left or Right Oil Pressure Warning. <break time="500ms"/> Emergency Procedures Tab 2. <break time="800ms"/>
-Left or Right Engine Fire Warning. <break time="500ms"/> Emergency Procedures Tab 1. <break time="800ms"/>
-Inverter Warning. <break time="500ms"/> Emergency Procedures Tab 5. <break time="800ms"/>
-Cabin Altitude high warning. <break time="500ms"/> Emergency Procedures Tab 6. <break time="800ms"/>
-Cabin door warning. <break time="500ms"/> Emergency Procedures Tab 4. <break time="800ms"/>
-Left or Right D.C. Generator Caution. <break time="500ms"/> Abnormal Procedures Tab 4. <break time="800ms"/>
-Left gen, right gen or battery tie open caution. <break time="500ms"/> Abnormal Procedures Tab 4. <break time="800ms"/>
-Left or Right no fuel transfer caution. <break time="500ms"/> Abnormal Procedures Tab 3. <break time="800ms"/>
-Left or right chip detect caution. <break time="500ms"/> Abnormal Procedures Tab 3. <break time="800ms"/>
-Hydraulic fluid low caution. <break time="500ms"/> Abnormal Procedures Tab 5. <break time="800ms"/>
-Battery charge caution. <break time="500ms"/> Abnormal Procedures Tab 4. <break time="800ms"/>
-
 <break time="2s"/>
 </speak>

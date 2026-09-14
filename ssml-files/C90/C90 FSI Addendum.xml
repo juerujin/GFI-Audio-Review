@@ -1,0 +1,32 @@
+<speak>
+Flight Safety International, Differences Addendum.
+<break time="1200ms"/>
+Airspeeds. <break time="300ms"/> Factory Standard King Air C90B
+<break time="1200ms"/>
+V, Y S E . <break time="500ms"/> 108 knots. <break time="800ms"/>
+V, A . Maneuvering speed. <break time="500ms"/> 169 knots. <break time="800ms"/>
+<break time="2s"/>
+
+Weights. <break time="300ms"/> Factory Standard King Air C90B
+<break time="1200ms"/>
+Maximum ramp weight. <break time="500ms"/> 10 thousand, 160 pounds. <break time="800ms"/>
+Maximum Takeoff weight. <break time="500ms"/> 10 thousand, 100 pounds. <break time="800ms"/>
+Maximum landing weight. <break time="500ms"/> 9 thousand, 600 pounds. <break time="800ms"/>
+Maximum zero fuel weight. <break time="500ms"/> None Defined. <break time="800ms"/>
+<break time="2s"/>
+
+Flight load limits. <break time="300ms"/> Factory Standard King Air C90B
+<break time="1200ms"/>
+Flaps up. <break time="300ms"/> positive 3.29, negative 1.33 G . <break time="300ms"/> Flaps down. <break time="300ms"/> positive 2.0 G, no negative Gs. <break time="800ms"/>
+<break time="2s"/>
+
+Flight Safety C90B Sim Power Settings
+<break time="1200ms"/>
+160 knots, clean. <break time="500ms"/> 800 foot pounds of torque at 19 hundred RPM <break time="800ms"/>
+145 knots, clean. <break time="500ms"/> 600 foot pounds of torque at 19 hundred RPM <break time="800ms"/>
+Non-precision approach, <break time="300ms"/>level at the MDA,<break time="300ms"/> flaps approach and gear down,<break time="300ms"/> at 120 knots. <break time="500ms"/> 750 foot pounds of torque at 22 hundred RPM <break time="800ms"/>
+ILS approach, <break time="300ms"/> on glideslope,<break time="300ms"/> flaps approach and gear down,<break time="300ms"/> at 120 knots. <break time="500ms"/> 600 foot pounds of torque at 22 hundred RPM <break time="800ms"/>
+ILS approach, <break time="300ms"/> One engine inoperative,<break time="300ms"/> on glideslope,<break time="300ms"/> flaps approach and gear down,<break time="300ms"/> at 120 knots. <break time="500ms"/> 800 foot pounds of torque at 2200 RPM. <break time="500ms"/> Apply as soon as the altitude capture annunciator starts to flash. <break time="800ms"/>
+<break time="2s"/>
+
+</speak>
