@@ -106,8 +106,8 @@ Reference. <break time="500ms"/> 91, one 85. AIM 6 4 1.
 One thirty five V.F.R. minimums
 <break time="1200ms"/>
 V.F.R. minimum altitudes. <break time="1000ms"/>
-Daytime. 500 feet above the surface, <break time="300ms"/> and 500 feet horizontally from any obstacle. <break time="800ms"/>
-At night. 1000 feet above the highest obstacle within 5 miles of the course to be flown, <break time="300ms"/>or 2000 feet in mountainous terrain. <break time="1000ms"/>
+Daytime. <break time="500ms"/>500 feet above the surface, <break time="300ms"/> and 500 feet horizontally from any obstacle. <break time="800ms"/>
+At night. <break time="500ms"/> 1000 feet above the highest obstacle within 5 miles of the course to be flown, <break time="300ms"/>or 2000 feet in mountainous terrain. <break time="1000ms"/>
 V.F.R. minimum visibility. <break time="1000ms"/>
 In uncontrolled airspace, <break time="300ms"/> not less than 1000 feet ceilings unless the flight visibility is at least 2 miles. <break time="800ms"/>
 Reference. <break time="500ms"/> one thirty five two zero three and two zero five.
@@ -139,7 +139,7 @@ Airspace speed Limits
 <break time="1200ms"/>
 Speed limit below 10 thousand feet.<break time="500ms"/> 250 knots. <break time="500ms"/>
 Speed limit below class Bravo airspace or a V.F.R. corridor.<break time="500ms"/> 200 knots. <break time="500ms"/>
-Speed limit for class Charlie or Delta.<break time="500ms"/> 200 knots within 4 nautical miles of the primary surface airport, <break time="300ms"/> and up to 2500 A. G. L. <break time="800ms"/>
+Speed limit for class Charlie or Delta.<break time="500ms"/> 200 knots  <break time="300ms"/> at, or below 2500 feet A. G. L. , <break time="300ms"/> within 4 nautical miles, of the primary surface airport. <break time="800ms"/>
 Reference. <break time="500ms"/> 91, one 17.
 <break time="1200ms"/>
 
@@ -203,6 +203,13 @@ Documents required.
 Transponder emergency codes.
 <break time="1200ms"/>
 75 hundred, Hijacking. <break time="500ms"/> 76 hundred, Radio failure. <break time="500ms"/> 77 hundred, general emergency.
+<break time="1200ms"/>
+
+Emergency operations.
+<break time="1200ms"/>
+In an emergency involving the safety of persons or property, <break time="500ms"/> the certificate holder, <break time="300ms"/> or the pilot in command <break time="300ms"/> may deviate from the rules of this part to the extent required to meet that emergency. <break time="500ms"/>
+A complete report is to be sent to the responsible Flight Standards office, <break time="300ms"/> charged with the overall inspection of the certificate holder, <break time="300ms"/>within 10 days after the deviation, <break time="300ms"/> excluding Saturdays, Sundays, and Federal holidays. <break time="300ms"/> 
+Reference. <break time="500ms"/>  one thirty five, 19.
 <break time="1200ms"/>
 
 Width of a victor airway. <break time="500ms"/> 8 nautical miles, 4 miles on either side of the center. <break time="800ms"/>
