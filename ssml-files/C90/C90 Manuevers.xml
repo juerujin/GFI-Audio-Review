@@ -116,6 +116,5 @@ Aileron Control. <break time="500ms"/> Wings level. <break time="800ms"/>
 Pitch. <break time="500ms"/> carefully pitch up to the horizon. <break time="800ms"/>
 Power. <break time="500ms"/> as required to return aircraft to cruise speed. <break time="1000ms"/>
 
-
 <break time="2s"/>
 </speak>
