@@ -24,7 +24,6 @@ level off at new altitude and initial heading. <break time="800ms"/>
 Power. <break time="500ms"/> Reset
 <break time="1200ms"/>
 
-
 Stall Prevention Partial Flap.
 <break time="1200ms"/>
 Setup
@@ -50,7 +49,6 @@ Completion
 level off at new altitude and initial heading. <break time="800ms"/>
 Power. <break time="500ms"/> Reset
 <break time="1200ms"/>
-
 
 Stall Prevention Landing Configuration.
 <break time="1200ms"/>
@@ -80,7 +78,6 @@ level off at new altitude and initial heading. <break time="800ms"/>
 Power. <break time="500ms"/> Reset
 <break time="1200ms"/>
 
-
 Steep Turns
 <break time="1200ms"/>
 Setup
@@ -103,7 +100,6 @@ Begin rolling wings level 20 degrees before target heading. <break time="800ms"/
 Reduce pitch and re trim as required during the recovery. <break time="800ms"/>
 Power. <break time="500ms"/> Reduce to original setting <break time="800ms"/>
 <break time="1200ms"/>
-
 
 Unusual Attitudes.
 <break time="1200ms"/>
