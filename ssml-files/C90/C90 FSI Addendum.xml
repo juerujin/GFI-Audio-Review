@@ -1,5 +1,5 @@
 <speak>
-Flight Safety International, Differences Addendum.
+Flight Safety International,<break time="300ms"/> Differences Addendum.
 <break time="1200ms"/>
 Airspeeds. <break time="300ms"/> Factory Standard King Air C90B
 <break time="1200ms"/>
@@ -18,6 +18,11 @@ Maximum zero fuel weight. <break time="500ms"/> None Defined. <break time="800ms
 Flight load limits. <break time="300ms"/> Factory Standard King Air C90B
 <break time="1200ms"/>
 Flaps up. <break time="300ms"/> positive 3.29, negative 1.33 G . <break time="300ms"/> Flaps down. <break time="300ms"/> positive 2.0 G, no negative Gs. <break time="800ms"/>
+<break time="2s"/>
+
+Additional Aircraft Specifications. <break time="300ms"/> Factory Standard King Air C90B
+<break time="1200ms"/>
+Tire Specifications for the Factory Standard King Air C90B. <break time="500ms"/> Main Landing gear. <break time="300ms"/> A pair of, 8 point 5 by 10, 8 ply rated tubeless tires. <break time="300ms"/> Nose Landing gear. <break time="300ms"/> A single, 6 point 5 by 10, 6 ply rated tubeless tire. <break time="800ms"/>
 <break time="2s"/>
 
 Flight Safety C90B Sim Power Settings

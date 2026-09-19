@@ -25,9 +25,10 @@ Reference. <break time="500ms"/> one 35, two 19.
 
 Alternate Airport I.F.R. Weather Minimums.
 <break time="1200ms"/>
-For airports with at least one operational navigational facility <break time="300ms"/> providing a straight in, non precision, <break time="300ms"/> or CAT one precision, approach procedure, <break time="500ms"/> add 400 feet to the minimum descent altitude or height, or decision altitude or height, <break time="500ms"/> and add one statute mile to the landing minimum visibility. <break time="500ms"/>
+For airports with at least one operational navigational facility, <break time="300ms"/> providing a straight in, non precision, <break time="300ms"/> or CAT one precision, approach procedure, <break time="500ms"/> add 400 feet to the minimum descent altitude or height, or decision altitude or height, <break time="500ms"/> and add one statute mile to the landing minimum visibility. <break time="500ms"/>
 For airports with at least two operational navigational facilities <break time="500ms"/> each providing a straight in approach procedure to different suitable runways <break time="500ms"/> add 200 feet to the higher minimum descent altitude or height ,<break time="300ms"/> or decision altitude or height <break time="500ms"/> and add one half statute mile to the higher landing minimum visibility of the two approaches to be used. <break time="500ms"/>
 If appropriately equipped, you may use a G.P.S. based instrument approach procedures at both the destination and an alternate airport. However, At the alternate, only L-NAV or circling M.D.A.'s are to be planned for unless equipped with ba ro V-NAV. <break time="800ms"/>
+Planning for the use of G.P.S. based instrument approach procedures, <break time="300ms"/> must be based on a single navigational facility, when determining the approach facility configuration in Table 1, <break time="300ms"/> even if there are two or more G.P.S. approaches to different suitable runways.<break time="800ms"/>
 Reference. <break time="500ms"/> opsspec Charlie fifty five.
 <break time="1200ms"/>
 
@@ -62,6 +63,15 @@ Requirements for descending below the Decision or minimum descent altitudes. <br
 <break time="500ms"/> Additionally, you need the required flight visibility and can make a normal approach and landing.<break time="1000ms"/>
 With the approach lights in sight <break time="500ms"/> the pilot may not descend below 100 feet above the touchdown zone elevation using the approach lights as a reference, <break time="300ms"/> unless the red terminating bars or the red side row bars are also distinctly visible and identifiable. <break time="800ms"/>
 Reference. <break time="500ms"/> 91, one 75.
+<break time="1200ms"/>
+
+Reduced precision Category one landing minima.
+<break time="1200ms"/>
+Reduced category one landing minima,<break time="300ms"/> of a 200 foot decision height, and 1800 R.V.R.,<break time="300ms"/> is authorized to approved runways without touchdown zone lights, and, or, runway centerline lights,<break time="300ms"/> including runways with installed, but inoperative touchdown zone lights, and, or, runway centerline lights. <break time="300ms"/> 
+The aircraft must be equiped with an approved flight director, autopilot, or heads up display, <break time="300ms"/> that is approved for at least category one operations, that provides guidance to the decision altitude. <break time="300ms"/>
+The flight crew is required to engage the flight director, autopilot, or heads up display, as applicable, <break time="300ms"/> and use it to the decision altitude, or the initiation of the missed approach, <break time="300ms"/> unless adequate visual references with the runway environment, are established, that allow the safe continuation to a landing. <break time="300ms"/> 
+Single pilot operations are prohibited from using only the flight director, <break time="300ms"/> to reduced category one landing minima, <break time="300ms"/> without the accompanying use of an autopilot, or heads up display, <break time="300ms"/> unless the runway has, functional touchdown zone lights and, or, runway centerline lights.<break time="800ms"/> 
+Reference. <break time="500ms"/> opsspec Charlie fifty two.
 <break time="1200ms"/>
 
 Relevant Approach Category speeds.
@@ -122,11 +132,17 @@ Reference.  <break time="500ms"/> G.O.M., Section 9.2 and 8.2.
 
 Contaminated runway performance limitations
 <break time="1200ms"/>
-For pilots with more than 1 year of experience in their assigned airframe at Guardian Flight,<break time="500ms"/> runway condition codes down to 3, 3, 3 <break time="500ms"/> are authorized without P MOC approval. <break time="800ms"/>
+For pilots with 1 year or more of experience in their assigned airframe at Guardian Flight,<break time="500ms"/> runway condition codes down to 3, 3, 3 <break time="500ms"/> are authorized without P MOC approval. <break time="800ms"/>
 For pilots with less than 1 year of experience in their assigned airframe at Guardian Flight,<break time="500ms"/> P MOC approval is required for runway condition codes of 3, 3, 3. <break time="800ms"/>
 If contaminated runway performance data is available for the aircraft,<break time="500ms"/> calculate runway requirements using that data.<break time="500ms"/> No additional factors are required. <break time="800ms"/>
 If manufacturer-provided contaminated runway performance data is not available for the aircraft,<break time="500ms"/> 150% of the dry unfactored runway distance required, must be available. <break time="800ms"/>
 Reference.  <break time="500ms"/> G.O.M., Section 12.7 
+<break time="1200ms"/>
+
+Weather detection equipment
+<break time="1200ms"/>
+No pilot shall depart into areas of known or forecast thunderstorms, <break time="300ms"/> unless the aircraft is equipped with operable thunderstorm detection or airborne weather radar equipment, <break time="300ms"/> unless the thunderstorm can be avoided visually in visual meteorological conditions. <break time="800ms"/>
+Reference. <break time="500ms"/>  G.O.M., Section 12.2 
 <break time="1200ms"/>
 
 Pre-takeoff contamination check.
@@ -173,17 +189,9 @@ A load manifest must be prepared prior to each flight for multi engine aircraft.
 Reference. <break time="500ms"/>  one thirty five, 63.
 <break time="1200ms"/>
 
-Medical certificate duration.
+Minimum equipment list category duration
 <break time="1200ms"/>
-First Class,<break time="500ms"/>  12 calendar months if under 40, <break time="500ms"/> and 6 months if 40 or older. <break time="500ms"/>
-Second class,<break time="500ms"/>  12 calendar months. <break time="500ms"/>
-Third class,<break time="500ms"/>  60 calendar months if under 40, <break time="500ms"/> and 24 calendar months if 40 or older. <break time="800ms"/>
-Reference. <break time="500ms"/>  61, 23.
-<break time="1200ms"/>
-
-M.E.L. category duration
-<break time="1200ms"/>
-Category A.<break time="500ms"/> Defined in M.E.L. <break time="800ms"/>
+Category A.<break time="500ms"/> Defined in that specific minimum equipment list item. <break time="800ms"/>
 Category B.<break time="500ms"/> 3 days. <break time="800ms"/>
 Category C.<break time="500ms"/> 10 days. <break time="800ms"/>
 Category D.<break time="500ms"/> 120 days.
@@ -200,16 +208,24 @@ Documents required.
 <break time="500ms"/>aircraft maintenance logbook.
 <break time="1200ms"/>
 
-Transponder emergency codes.
-<break time="1200ms"/>
-75 hundred, Hijacking. <break time="500ms"/> 76 hundred, Radio failure. <break time="500ms"/> 77 hundred, general emergency.
-<break time="1200ms"/>
-
 Emergency operations.
 <break time="1200ms"/>
 In an emergency involving the safety of persons or property, <break time="500ms"/> the certificate holder, <break time="300ms"/> or the pilot in command <break time="300ms"/> may deviate from the rules of this part to the extent required to meet that emergency. <break time="500ms"/>
 A complete report is to be sent to the responsible Flight Standards office, <break time="300ms"/> charged with the overall inspection of the certificate holder, <break time="300ms"/>within 10 days after the deviation, <break time="300ms"/> excluding Saturdays, Sundays, and Federal holidays. <break time="300ms"/> 
 Reference. <break time="500ms"/>  one thirty five, 19.
+<break time="1200ms"/>
+
+Transponder emergency codes.
+<break time="1200ms"/>
+75 hundred, Hijacking. <break time="500ms"/> 76 hundred, Radio failure. <break time="500ms"/> 77 hundred, general emergency. <break time="800ms"/>
+<break time="1200ms"/>
+
+Medical certificate duration.
+<break time="1200ms"/>
+First Class,<break time="500ms"/>  12 calendar months if under 40, <break time="500ms"/> and 6 months if 40 or older. <break time="500ms"/>
+Second class,<break time="500ms"/>  12 calendar months. <break time="500ms"/>
+Third class,<break time="500ms"/>  60 calendar months if under 40, <break time="500ms"/> and 24 calendar months if 40 or older. <break time="800ms"/>
+Reference. <break time="500ms"/>  61, 23.
 <break time="1200ms"/>
 
 Width of a victor airway. <break time="500ms"/> 8 nautical miles, 4 miles on either side of the center. <break time="800ms"/>

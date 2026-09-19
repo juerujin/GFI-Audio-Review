@@ -94,7 +94,6 @@ Stabilize the aircraft on a reference heading and altitude. <break time="1000ms"
 Steep turn maneuver.
 <break time="1000ms"/>
 Roll the aircraft into a 45 degree bank. <break time="800ms"/>
-Autopilot. <break time="500ms"/> Disconnect. <break time="800ms"/>
 Power. <break time="500ms"/> add approximately 100 foot pounds of torque when the bank angle is achieved. <break time="800ms"/>
 Pitch. <break time="500ms"/> Approximately 1 to 4 degrees nose up. <break time="800ms"/>
 Trim. <break time="500ms"/> As needed. <break time="1000ms"/>

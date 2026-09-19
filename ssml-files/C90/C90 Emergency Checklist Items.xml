@@ -9,7 +9,8 @@ Affected engine. <break time="800ms"/>
 Condition Lever. <break time="500ms"/> Cut-off. <break time="1s"/>
 Propeller Lever. <break time="500ms"/> Feather. <break time="1s"/>
 Fuel Firewall Shutoff Valve. <break time="500ms"/> Cloze. <break time="1s"/>
-Fire extinguisher, <break time="300ms"/>if installed, <break time="300ms"/> and if fire warning persist <break time="500ms"/> Actuate. <break time="800ms"/>
+If the Fire Detection and Fire extinguishing systems are installed <break time="800ms"/>
+Fire extinguisher, <break time="300ms"/> If fire warning persist <break time="500ms"/> Actuate. <break time="800ms"/>
 Reference. <break time="500ms"/> Emergency Procedures Tab 1.
 <break time="1200ms"/>
 
@@ -27,7 +28,7 @@ Engine Failure During Ground Roll.
 <break time="1200ms"/>
 Power levers. <break time="500ms"/> Ground fine. <break time="1s"/>
 Brakes. <break time="500ms"/> Maximum. <break time="1s"/>
-If insufficient runway remains for stopping. <break time="1s"/>
+If insufficient runway remains for stopping. <break time="800ms"/>
 Condition Lever. <break time="500ms"/> Cut-off. <break time="1s"/>
 Fuel Firewall Shutoff Valve. <break time="500ms"/> Cloze. <break time="1s"/>
 Master switch. <break time="500ms"/> Off, Gang bar down. <break time="1s"/>
@@ -152,6 +153,7 @@ Wings. <break time="500ms"/> Level. <break time="1s"/>
 Power. <break time="500ms"/> Maximum Allowable. <break time="1s"/>
 Pitch. <break time="500ms"/> Increase pitch, to 15 degrees nose up, at a rate of 2 to 3 degrees per second. Adjust to avoid stall. Aim for 101 knots. <break time="1s"/>
 Gear and Flaps. <break time="500ms"/> Retract. <break time="1s"/>
+Airspeed. <break time="500ms"/> Maintain V, X Until clear of terrain. <break time="1s"/>
 <break time="1200ms"/>
 
 Aviation Performance Solutions, All-Attitude Upset Recovery Strategy
@@ -162,6 +164,22 @@ Power. <break time="1s"/>
 Stabilize. <break time="1s"/>
 Pitch and power set. <break time="500ms"/> Airspeed stable. <break time="500ms"/> Positive rate. <break time="800ms"/>
 Recovery complete. <break time="1s"/>
+<break time="1200ms"/>
+
+Battery Bus Tie Open annunciator.
+<break time="1200ms"/>
+Center bus voltage. <break time="500ms"/> Monitor. <break time="1s"/>
+If center bus voltage is normal, <break time="300ms"/> between 27.5 and 29 volts. <break time="800ms"/>
+Bus Sense switch. <break time="500ms"/> Reset. <break time="1s"/>
+If center bus voltage is at 0 volts. <break time="800ms"/>
+Gen Ties. <break time="500ms"/> Open. <break time="1s"/>
+Landing Gear relay circuit breaker. <break time="500ms"/> Pull. <break time="1s"/>
+<break time="1200ms"/>
+
+Avionics Master switch power failure.
+<break time="1200ms"/>
+If the avionics master power switch fails to operate in the on position. <break time="800ms"/>
+Avionics master circuit breaker. <break time="500ms"/> Pull. <break time="1s"/>
 <break time="1200ms"/>
 
 End checklist memory items.
