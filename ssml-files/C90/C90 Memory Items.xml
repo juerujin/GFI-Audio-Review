@@ -50,30 +50,30 @@ Maximum takeoff weight is limited by the most restrictive of, <break time="500ms
 Engine Torque Limits.
 <break time="1200ms"/>
 Maximum takeoff, and Continuous torque. <break time="500ms"/> 13, 15 foot pounds for Dash 21 equipped aircraft. 15, 20 foot pounds for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Maximum Transient torque. <break time="500ms"/> Fifteen Hundred foot pounds for two seconds on Dash 21 equipped aircraft. <break time="300ms"/> None defined for Dash 1 35A equipped aircraft. <break time="300ms"/> No allowed transient range is implied. <break time="800ms"/>
 Maximum reverse torque. <break time="500ms"/> None defined for Dash 21 equipped aircraft. <break time="300ms"/> 13, 15 foot pounds is implied.<break time="300ms"/> 15, 20 foot pounds for Dash 1 35A equipped aircraft. <break time="300ms"/> Reverse power operation is limited to one minute. <break time="800ms"/>
+Maximum Transient torque. <break time="500ms"/> Fifteen Hundred foot pounds for two seconds on Dash 21 equipped aircraft. <break time="300ms"/> None defined for Dash 1 35A equipped aircraft. <break time="300ms"/> No allowed transient range is implied. <break time="800ms"/>
 Maximum Guardian Flight initial power, on takeoff roll. <break time="500ms"/> 12 hundred foot pounds for Dash 21 equipped aircraft. <break time="300ms"/> 14 hundred foot pounds for Dash 1 35A equipped aircraft. <break time="800ms"/>
 <break time="2s"/>
 
 Engine Temperature Limits.
 <break time="1200ms"/>
 Maximum starting ITT. <break time="500ms"/> 10, 90 Celsius for 2 seconds. <break time="800ms"/>
-Maximum transient ITT. <break time="500ms"/> 8, 25 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 6, 95 to 8, 25 for two seconds. <break time="300ms"/> 8, 80 celsius for Dash 1 35A equipped aircraft. <break time="300ms"/>8, O 5 to 8, 80 celsius for two seconds. <break time="800ms"/>
-Maximum ITT. Takeoff, continuous, and reverse. <break time="500ms"/> 6, 95 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 8, O 5 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Maximum low idle ITT. <break time="500ms"/> 6, 60 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 6, 85 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Maximum ITT. Takeoff, continuous, and reverse. <break time="500ms"/> 6, 95 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 8, O 5 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Maximum transient ITT. <break time="500ms"/> 8, 25 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 6, 95 to 8, 25 for two seconds. <break time="300ms"/> 8, 80 celsius for Dash 1 35A equipped aircraft. <break time="300ms"/>8, O 5 to 8, 80 celsius for two seconds. <break time="800ms"/>
 Maximum Guardian Flight Cruise ITT. <break time="500ms"/> 6, 80 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 7, 90 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
 <break time="2s"/>
 
 Engine Gas Generator Limits.
 <break time="1200ms"/>
-Maximum takeoff, and continuous N.G. . <break time="500ms"/> 101.5%. <break time="800ms"/>
-Maximum transient N.G. . <break time="500ms"/> up to, and inclusive of, 102.6% for 10 seconds, <break time="300ms"/> in accordance with Note 4, on the aircraft type certificate data sheet.<break time="800ms"/>
-Maximum reverse N.G. . <break time="500ms"/> 88% for Dash 21 equipped aircraft. <break time="300ms"/> 101.5% for Dash 1 35A equipped aircraft. <break time="800ms"/>
+N1 and N.G. , <break time="300ms"/> are functionally interchangeable terms when used in reference to turboprop engines, <break time="300ms"/> as they both refer to the gas generator speed. <break time="300ms"/> N1 is the preferred term used by Beechcraft in its reference materials, <break time="300ms"/> and N.G. is the preferred term used by Pratt and Whitney, for its PT6 engines. <break time="800ms"/>
 Minimum Starter cutoff N.G. . <break time="500ms"/> 51%. <break time="800ms"/>
 Minimum idle N.G. . <break time="500ms"/> 58% for ground idle, 70% for high idle. <break time="800ms"/>
-For every 10 degrees below an outside air temperature of negative 30, <break time="300ms"/>reduce the maximum alowable N1 by 2.2% <break time="800ms"/>
+Maximum takeoff, and continuous N.G. . <break time="500ms"/> 101.5%. <break time="800ms"/>
+Maximum reverse N.G. . <break time="500ms"/> 88% for Dash 21 equipped aircraft. <break time="300ms"/> 101.5% for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Maximum transient N.G. . <break time="500ms"/> up to, and inclusive of, 102.6% for 10 seconds, <break time="300ms"/> in accordance with Note 4, on the aircraft type certificate data sheet.<break time="800ms"/>
+For every 10 degrees below an outside air temperature of negative 30 Celsius, <break time="300ms"/> reduce the maximum allowable N1, by 2.2% <break time="800ms"/>
 Compressor bleed valve operating range. <break time="500ms"/> The valve closes proportionally <break time="300ms"/>as compressor speed increases <break time="300ms"/> until at 80% N.G., <break time="300ms"/> it is fully closed. <break time="800ms"/>
-N1 and N.G. , <break time="300ms"/> are functionally interchangeable terms when used in reference to turboprop engines. <break time="300ms"/> N1 is the preferred term used by Beechcraft in its reference materials. <break time="500ms"/> N.G. is the preferred term used by Pratt and Whitney, for its PT6 engines. <break time="800ms"/>
 <break time="2s"/>
 
 Oil System Specifications.
@@ -90,7 +90,7 @@ Oil Pressure limits.
 Minimum oil pressure. at idle. <break time="500ms"/> 40 PSI. <break time="800ms"/>
 Maximum oil pressure. takeoff, continuous, and reverse. <break time="500ms"/> 80 to 100 PSI for Dash 21 equipped aircraft. <break time="300ms"/> 85 to 105 PSI for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Transient oil pressure. <break time="500ms"/> 200 PSI for Dash 21 equipped aircraft. <break time="300ms"/> None defined for Dash 1 35A equipped aircraft. <break time="300ms"/> No allowed transient range is implied. <break time="800ms"/>
-Oil pressure between 40 and 80 psi is undesirable; <break time="300ms"/> it should be tolerated only for the completion of the flight, <break time="300ms"/> and then only at a reduced power setting. <break time="500ms"/> Oil pressure below 40 psi is unsafe; <break time="300ms"/> it requires that either the engine be shut down, <break time="300ms"/> or that a landing be made at the nearest suitable airport,<break time="300ms"/> using the minimum power required to sustain flight. <break time="800ms"/>
+Oil pressure between 40 and 80 PSI is undesirable; <break time="300ms"/> it should be tolerated only for the completion of the flight, <break time="300ms"/> and then only at a reduced power setting. <break time="500ms"/> Oil pressure below 40 PSI is unsafe; <break time="300ms"/> it requires that either the engine be shut down, <break time="300ms"/> or that a landing be made at the nearest suitable airport,<break time="300ms"/> using the minimum power required to sustain flight. <break time="800ms"/>
 <break time="2s"/>
 
 Oil Temperature limits.
@@ -101,19 +101,19 @@ Oil temperature range. High Idle. <break time="500ms"/> 0 to 99 celsius. <break 
 Oil temperature range. Takeoff, and continuous. <break time="500ms"/> 10 to 99 celsius. <break time="800ms"/>
 Oil temperature range. Cruise climb, and cruise. <break time="300ms"/> on Dash 21 equipped aircraft. <break time="500ms"/> 0 to 99 celsius. <break time="800ms"/>
 Oil temperature range. Maximum reverse, <break time="500ms"/> 0 to 99 celsius. <break time="800ms"/>
-Transient, oil temperature range. <break time="500ms"/> 0 to 99 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 104 celsius for up to 10 minutes for Dash 1 35A equipped aircraft. <break time="800ms"/>
+Transient, oil temperature range. <break time="500ms"/> 0 to 99 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 99 to 104 celsius for up to 10 minutes for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Recommended oil temperature. <break time="500ms"/> 74 to 80 Celsius, for Dash 21 equipped aircraft. <break time="500ms"/> Below 80 celsius for Dash 1 35A equipped aircraft. <break time="500ms"/> 55 Celsius minimum, at takeoff power, for the proper operation of the fuel heater. <break time="800ms"/>
 <break time="2s"/>
 
 Propeller Limits.
 <break time="1200ms"/>
+Minimum propeller RPM. Idle. <break time="500ms"/> 11 Hundred RPM for the McCauley square tipped propellers. <break time="300ms"/> 10, 70 RPM for Hartzel round tipped propellers. <break time="800ms"/>
 Maximum propeller RPM. Takeoff and continuous  <break time="500ms"/> 22 Hundred RPM for Dash 21 equipped aircraft. <break time="300ms"/> 19 Hundred RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Maximum propeller RPM. Reverse. <break time="500ms"/> 21 Hundred RPM for Dash 21 equipped aircraft. <break time="300ms"/> 18, 15 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
-Minimum propeller RPM. Idle. <break time="500ms"/> 11 Hundred RPM for the McCauley square tipped propellers. <break time="300ms"/> 10, 70 RPM for Hartzel round tipped propellers. <break time="800ms"/>
 Maximum Transient propeller RPM. <break time="500ms"/> 110% of 22 hundred RPM for Dash 21 equipped aircraft, <break time="300ms"/> and 110% of 19 hundred RPM for Dash 1 35A equipped aircraft. <break time="500ms"/> Specifically, <break time="500ms"/> 24, 20 RPM not exceeding 5 seconds for Dash 21 equipped aircraft <break time="300ms"/> and 20, 90 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Over speed governor limit. <break time="500ms"/> 104% of the maximum continuous propeller RPM. <break time="300ms"/> 22, 88 RPM for Dash 21 equipped aircraft, <break time="300ms"/> allowed for sustained periods in accordance with Note 4 on the aircraft type certificate data sheet. <break time="300ms"/> 19, 76 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
-One of the first indications of a propeller governor failure, is the loss of synced propellers. <break time="800ms"/>
-Fuel Topping governer limit. <break time="500ms"/> 106% of the currently selected propeller RPM. <break time="300ms"/> 23, 32 RPM for Dash 21 equipped aircraft, at 22 hundred RPM. <break time="300ms"/> 20, 14 RPM for Dash 1 35A equipped aircraft, at 19 hundred RPM.<break time="800ms"/>
+One of the first indications of a propeller governor failure, <break time="300ms"/> is the loss of propeller synchronization. <break time="800ms"/>
+Fuel Topping governor limit. <break time="500ms"/> 106% of the currently selected propeller RPM. <break time="300ms"/> 23, 32 RPM for Dash 21 equipped aircraft, at 22 hundred RPM. <break time="300ms"/> 20, 14 RPM for Dash 1 35A equipped aircraft, at 19 hundred RPM.<break time="800ms"/>
 In the reverse range, the fuel topping governor will limit propeller speed to 95% of the selected propeller speed. <break time="300ms"/> It is important that the propeller levers are pushed full forward in order to achieve maximum reverse. <break time="800ms"/>
 Dash 21 propeller governing range. <break time="500ms"/> 18 hundred to 22 hundred rpm.  <break time="800ms"/>
 Dash one 35A propeller governing range. <break time="500ms"/> 16 hundred to 19 hundred rpm.  <break time="800ms"/>
@@ -131,8 +131,8 @@ Hartzel round tipped propeller model number. <break time="500ms"/> HC, dash, E4N
 Electrical System Specifications.
 <break time="1200ms"/>
 Generator specifications. <break time="500ms"/> 28 Volts, 250 Amps. <break time="800ms"/>
-100% Generator load N1 limits. <break time="500ms"/> 85% N1 minimum. <break time="800ms"/>
 Generator limits during ground operations. <break time="500ms"/> Up to 50% generator loads,<break time="500ms"/> 59% N1 minimum. <break time="300ms"/> 50% to 80% generator loads,<break time="500ms"/> 61% N1 minimum. <break time="300ms"/> 80% to 85% generator loads,<break time="500ms"/> 70% N1 minimum. <break time="800ms"/>
+In-flight generator load limits. <break time="500ms"/> 100% generator load, with a minimum of 85% N1. <break time="800ms"/>
 Inverter specifications. <break time="500ms"/> 2 Single Phase, 400 Hertz AC inverters at 115 and 26 Volts. <break time="300ms"/> Inverter output rated at 250 volt amps. <break time="800ms"/>
 Inverter Function Test Limits. <break time="500ms"/>Within 105 to 120 volts, <break time="300ms"/> and within 380 to 420 Hertz. <break time="800ms"/>
 Battery specifications. <break time="500ms"/> 24 volts, 42 amp hour for the sealed led acid battery. <break time="300ms"/> 34 amp hour for the nye cad battery. <break time="800ms"/>
@@ -144,7 +144,7 @@ Minimum starting voltage on battery power. <break time="500ms"/> 23 volts. <brea
 Hall effect device specification. <break time="500ms"/> One for each power source, rated at 275 amps. <break time="800ms"/>
 Generator bus current limiter specifications. <break time="500ms"/> One for each generator, rated at 250 amps. <break time="800ms"/>
 Triple fed bus current limiters. <break time="500ms"/> One for each power source, rated at 60 amps. <break time="800ms"/>
-Consider performing takeoffs with the bus voltage selector in the center position. <break time="300ms"/> In the event of a center bus short, <break time="300ms"/> both generator current limiters will burn out,<break time="300ms"/> and the battery bus tie will be opened, by the battery bus hall effect device, <break time="300ms"/> isolating the center bus from the rest of the system. <break time="300ms"/> If the landing gear is then moved to the up position however, <break time="300ms"/> the battery bus hall effect device will be overidden, and the battery bus tie will be closed, <break time="300ms"/> potentially leading to an electrical fire. <break time="300ms"/> With the bus voltage selector in the center position, <break time="300ms"/> You can quickly identify the shorted bus condition, <break time="300ms"/> as the voltage will indicate 0 volts. <break time="800ms"/>
+Consider performing takeoffs with the bus voltage selector in the center bus position. <break time="300ms"/> In the event of a center bus short, <break time="300ms"/> both generator current limiters will burn out,<break time="300ms"/> and the battery bus tie will be opened, by the battery bus hall effect device, <break time="300ms"/> isolating the center bus from the rest of the system. <break time="300ms"/> However, <break time="300ms"/>If the landing gear is then retracted, <break time="300ms"/> the battery bus hall effect device will be overridden, and the battery bus tie will be closed, <break time="300ms"/> potentially leading to an electrical fire. <break time="300ms"/> With the bus voltage selector in the center position, <break time="300ms"/> You can quickly identify the shorted bus condition, <break time="300ms"/> as the voltage will indicate 0 volts. <break time="800ms"/>
 <break time="2s"/>
 
 Fuel System Specifications.
@@ -165,11 +165,11 @@ In the event of an inoperative boost pump in flight. <break time="300ms"/> Opera
 Electrical boost pump pressure. <break time="500ms"/> 30 PSI.  <break time="800ms"/>
 Minimum flow valve open pressure. <break time="500ms"/> 80 PSI.  <break time="800ms"/>
 Engine driven fuel pump pressure. <break time="500ms"/> 800 PSI.  <break time="800ms"/>
-Unavailable fuel with no fuel transfer pumps. <break time="500ms"/> 28 Gallons in each wing system. <break time="800ms"/>
-No fuel transfer annunciator activation pressure. <break time="500ms"/> less than 2.5 PSI sensed after a 30 second time delay, <break time="300ms"/> due to transfer pump failure, <break time="300ms"/> or fuel exhaustion in the outboard wing tanks.  <break time="800ms"/>
-Alternate fuel limits. <break time="500ms"/> Alternate fuels such as 100 Low Led may be used for 150 hours between engine overhauls. <break time="300ms"/> Operations are limited below 8000 feet pressure altitude with inoperative boost pumps. <break time="300ms"/> Cross feed capability is required for flight above 8000 feet pressure altitude. <break time="800ms"/>
 The fuel transfer pumps activate, when the <phoneme alphabet="ipa" ph="nəˈsɛl">nacelle</phoneme> tank fuel quantity, decreases by approximately 10 gallons. <break time="300ms"/> They deactivate, when the tank is filled. <break time="800ms"/>
-Fuel system flow path summary. <break time="500ms"/> 3 outboard wing tanks. <break time="500ms"/> Wing center section tank. <break time="500ms"/> <phoneme alphabet="ipa" ph="nəˈsɛl">nacelle</phoneme> tank, via transfer pump or gravity feed. <break time="500ms"/> Submerged boost pump. <break time="500ms"/> Firewall shutoff valve, directly, or from crossfeed valve and line, during crossfeed operations. <break time="500ms"/> fuel filter and fuel pressure switch. <break time="500ms"/> fuel flow indicator. <break time="500ms"/> oil to fuel heat exchanger. <break time="500ms"/> engine driven fuel pump. <break time="500ms"/> fuel control unit. <break time="500ms"/> minimum flow valve. <break time="500ms"/> fuel cutoff valve. <break time="500ms"/> flow divider. <break time="500ms"/>10 primary nozzles, and 4 secondary nozzles. <break time="800ms"/>
+No fuel transfer annunciator activation pressure. <break time="500ms"/> less than 2.5 PSI sensed after a 30 second time delay, <break time="300ms"/> due to transfer pump failure, <break time="300ms"/> or fuel exhaustion in the outboard wing tanks.  <break time="800ms"/>
+Unavailable fuel with no fuel transfer pumps. <break time="500ms"/> 28 Gallons in each affected wing system. <break time="800ms"/>
+Alternate fuel limits. <break time="500ms"/> Alternate fuels such as 100 Low Led may be used for 150 hours between engine overhauls. <break time="300ms"/> Operations are limited below 8000 feet pressure altitude with inoperative boost pumps. <break time="300ms"/> Cross feed capability is required for flight above 8000 feet pressure altitude. <break time="800ms"/>
+Fuel system flow path summary. <break time="500ms"/> 3 outboard wing tanks. <break time="500ms"/> Wing center section tank. <break time="500ms"/> <phoneme alphabet="ipa" ph="nəˈsɛl">nacelle</phoneme> tank, via transfer pump or gravity feed. <break time="500ms"/> Submerged boost pump. <break time="500ms"/> Firewall shutoff valve, directly, or from crossfeed valve and line, during crossfeed operations. <break time="500ms"/> fuel filter and fuel pressure switch. <break time="500ms"/> fuel flow transmitter. <break time="500ms"/> oil to fuel heat exchanger. <break time="500ms"/> engine driven fuel pump. <break time="500ms"/> fuel control unit. <break time="500ms"/> minimum flow valve. <break time="500ms"/> fuel cutoff valve. <break time="500ms"/> flow divider. <break time="500ms"/>10 primary nozzles, and 4 secondary nozzles. <break time="800ms"/>
 <break time="2s"/>
 
 Engine Bleed air Pneumatic system.
@@ -181,14 +181,14 @@ Airstair door and emergency exit door seal pressure. <break time="500ms"/> 4 PSI
 Rudder boost pressure differential switch activation point. <break time="500ms"/> 50 PSI D.  <break time="800ms"/>
 Rudder boost system servo pressure. <break time="500ms"/> 13 PSI.  <break time="800ms"/>
 Pneumatic pressure gauge range. <break time="500ms"/> Green ark, <break time="300ms"/> 12 to 20 PSI. <break time="300ms"/> Red line, <break time="300ms"/> 20 PSI. <break time="800ms"/>
-Gyro suction gauge ranges. <break time="500ms"/> Sea level to Fifteen thousand feet, wide green ark <break time="500ms"/> 5.9 to 4.3 inches of mercury. <break time="500ms"/>15 thousand to 35 thousand feet, narrow green ark <break time="500ms"/> 4.3 to 2.8 inches of mercury. <break time="800ms"/>
+Gyro suction gauge ranges. <break time="500ms"/> Sea level to Fifteen thousand feet, wide green ark <break time="500ms"/> 5.9 to 4.3 inches of mercury. <break time="500ms"/>15 thousand to 35 thousand feet, narrow green ark <break time="500ms"/> 4.3 to 2.8 inches of mercury. <break time="500ms"/> 15 thousand foot line, 4.3 inches of mercury. <break time="500ms"/> 35 thousand foot line, 3.0 inches of mercury. <break time="800ms"/>
 <break time="2s"/>
 
 Pressurization system Specifications.
 <break time="1200ms"/>
 Maximum cabin differential pressure. <break time="500ms"/> 5.1 PSI.  <break time="800ms"/>
 Cabin Altitude at Maximum aircraft pressure altitude of 30,000 feet. <break time="500ms"/> 12,000 feet.  <break time="800ms"/>
-The environmental bleed air shutoff valves, <break time="300ms"/> are normally closed solenoids, <break time="300ms"/> controlled by the bleed air valves switches. <break time="300ms"/> When the switches are in the open position, <break time="300ms"/> the solenoid is electrically held open. <break time="300ms"/> In the event of a complete electrical failure, <break time="300ms"/> the valves will fail to the closed position. <break time="300ms"/> With no more bleed air entering the aircraft, <break time="300ms"/> the cabin pressure will leak out. <break time="800ms"/>
+The environmental bleed air shutoff valves, <break time="300ms"/> are normally closed solenoids, <break time="300ms"/> controlled by the bleed air valves switches. <break time="300ms"/> When the switches are in the open position, <break time="300ms"/> the solenoid is electrically held open. <break time="300ms"/> In the event of a complete electrical failure, <break time="300ms"/> the valves will fail to the closed position. <break time="300ms"/> With no more bleed air entering the aircraft, <break time="300ms"/> the cabin will depressurize. <break time="800ms"/>
 <break time="2s"/>
 
 General Aircraft limits.
@@ -230,8 +230,6 @@ Length. <break time="500ms"/> 35 feet, 6 inches.  <break time="800ms"/>
 Powerplant. <break time="500ms"/> PT6A Dash 21, <break time="300ms"/> or 1 35A.  <break time="800ms"/>
 Maximum pressure altitude. <break time="500ms"/> 30000 feet. <break time="800ms"/>
 Maximum occupancy. <break time="500ms"/> 13 including crew. <break time="800ms"/>
-Pneumatic pressure gauge range. <break time="500ms"/> Green ark, <break time="300ms"/> 12 to 20 PSI. <break time="300ms"/> Red line, <break time="300ms"/> 20 PSI. <break time="300ms"/> Nominal pressure, <break time="300ms"/> 18 PSI. <break time="800ms"/>
-Gyro suction gauge ranges. <break time="500ms"/> Sea level to Fifteen thousand feet, wide green ark <break time="500ms"/> 5.9 to 4.3 inches of mercury. <break time="500ms"/>15 thousand to 35 thousand feet, narrow green ark <break time="500ms"/> 4.3 to 2.8 inches of mercury. <break time="500ms"/> 15 thousand foot line, 4.3 inches of mercury. <break time="500ms"/> 35 thousand foot line, 3.0 inches of mercury. <break time="800ms"/>
 Flight load limits. <break time="500ms"/> Flaps up. <break time="300ms"/> positive 3.28, negative 1.31 G . <break time="300ms"/> Flaps down. <break time="300ms"/> positive 2.0 G, no negative Gs. <break time="800ms"/>
 Tire Specifications. <break time="500ms"/> Main Landing gear. <break time="300ms"/> A pair of, 8 point 5 by 10, 10 ply rated tubeless tires. <break time="300ms"/> Nose Landing gear. <break time="300ms"/> A single, 6 point 5 by 10, 6 ply rated tubeless tire. <break time="800ms"/>
 Tire pressure limitations. <break time="500ms"/> 51 to 55 PSI for the nose landing gear tire. <break time="300ms"/> 70 plus or minus 3 PSI for the main landing gear tires. <break time="300ms"/> Rated for a Maximum of 160 MPH. <break time="800ms"/>
