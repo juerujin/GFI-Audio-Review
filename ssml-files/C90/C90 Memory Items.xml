@@ -73,7 +73,7 @@ Maximum takeoff, and continuous N.G. . <break time="500ms"/> 101.5%. <break time
 Maximum reverse N.G. . <break time="500ms"/> 88% for Dash 21 equipped aircraft. <break time="300ms"/> 101.5% for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Maximum transient N.G. . <break time="500ms"/> up to, and inclusive of, 102.6% for 10 seconds, <break time="300ms"/> in accordance with Note 4, on the aircraft type certificate data sheet.<break time="800ms"/>
 For every 10 degrees below an outside air temperature of negative 30 Celsius, <break time="300ms"/> reduce the maximum allowable N1, by 2.2% <break time="800ms"/>
-Compressor bleed valve operating range. <break time="500ms"/> The valve closes proportionally <break time="300ms"/>as compressor speed increases <break time="300ms"/> until at 80% N.G., <break time="300ms"/> it is fully closed. <break time="800ms"/>
+During engine startup and low-speed operations, <break time="300ms"/> the axial compressors, produce more compressed air than the centrifugal compressor, can effectively handle. <break time="300ms"/> A compressor bleed valve compensates for this excess airflow at low rpm, <break time="300ms"/> by opening to relieve this pressure. <break time="300ms"/> This pressure relief, <break time="300ms"/> helps prevent compressor stall of the centrifugal stage. <break time="300ms"/> As compressor speed increases, the valve closes proportionally until, <break time="300ms"/> at 80% N.G. , the valve is fully closed.<break time="800ms"/>
 <break time="2s"/>
 
 Oil System Specifications.
@@ -112,7 +112,7 @@ Maximum propeller RPM. Takeoff and continuous  <break time="500ms"/> 22 Hundred 
 Maximum propeller RPM. Reverse. <break time="500ms"/> 21 Hundred RPM for Dash 21 equipped aircraft. <break time="300ms"/> 18, 15 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Maximum Transient propeller RPM. <break time="500ms"/> 110% of 22 hundred RPM for Dash 21 equipped aircraft, <break time="300ms"/> and 110% of 19 hundred RPM for Dash 1 35A equipped aircraft. <break time="500ms"/> Specifically, <break time="500ms"/> 24, 20 RPM not exceeding 5 seconds for Dash 21 equipped aircraft <break time="300ms"/> and 20, 90 RPM for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Over speed governor limit. <break time="500ms"/> 104% of the maximum continuous propeller RPM. <break time="300ms"/> 22, 88 RPM for Dash 21 equipped aircraft, <break time="300ms"/> allowed for sustained periods in accordance with Note 4 on the aircraft type certificate data sheet. <break time="300ms"/> 19, 76 RPM for Dash 1 35A equipped aircraft.<break time="800ms"/>
-One of the first indications of a propeller governor failure, <break time="300ms"/> is the loss of propeller synchronization. <break time="800ms"/>
+One of the first indications of a primary propeller governor failure, <break time="300ms"/> is the loss of propeller synchronization. <break time="800ms"/>
 Fuel Topping governor limit. <break time="500ms"/> 106% of the currently selected propeller RPM. <break time="300ms"/> 23, 32 RPM for Dash 21 equipped aircraft, at 22 hundred RPM. <break time="300ms"/> 20, 14 RPM for Dash 1 35A equipped aircraft, at 19 hundred RPM.<break time="800ms"/>
 In the reverse range, the fuel topping governor will limit propeller speed to 95% of the selected propeller speed. <break time="300ms"/> It is important that the propeller levers are pushed full forward in order to achieve maximum reverse. <break time="800ms"/>
 Dash 21 propeller governing range. <break time="500ms"/> 18 hundred to 22 hundred rpm.  <break time="800ms"/>
@@ -161,6 +161,7 @@ Fuel crossfeed is only permitted in the event of. <break time="500ms"/> An elect
 Fuel Low, Yellow arc on fuel quantity gauge. <break time="500ms"/> Less than 265 pounds of fuel is left in each wing system. No takeoff permitted. <break time="800ms"/>
 Both electrical boost pumps must be activated prior to engine start. <break time="800ms"/> 
 Boost pumps must be operational prior to takeoff. <break time="800ms"/>
+The low fuel pressure annunciator,<break time="300ms"/> will activate when a pressure switch mounted directly above the fuel filter, <break time="300ms"/> senses that boost pump fuel pressure,<break time="300ms"/> has dropped below 10 PSI. <break time="800ms"/>
 In the event of an inoperative boost pump in flight. <break time="300ms"/> Operation of either engine with its respective Left or Right low fuel pressure annunciator illuminated <break time="300ms"/> is limited to 10 hours <break time="200ms"/> before mandatory engine-driven fuel pump overhaul or replacement. <break time="300ms"/> Windmilling time is not charged against this limit. <break time="800ms"/>
 Electrical boost pump pressure. <break time="500ms"/> 30 PSI.  <break time="800ms"/>
 Minimum flow valve open pressure. <break time="500ms"/> 80 PSI.  <break time="800ms"/>
