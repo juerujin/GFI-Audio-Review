@@ -57,7 +57,7 @@ Maximum Guardian Flight initial power, on takeoff roll. <break time="500ms"/> 12
 
 Engine Temperature Limits.
 <break time="1200ms"/>
-Maximum starting ITT. <break time="500ms"/> Up to, 10, 90 Celsius for 2 seconds. <break time="800ms"/>
+Maximum starting ITT. <break time="500ms"/> 10, 90 Celsius for 2 seconds. <break time="800ms"/>
 Maximum low idle ITT. <break time="500ms"/> 6, 60 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 6, 85 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Maximum ITT. Takeoff, continuous, and reverse. <break time="500ms"/> 6, 95 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 8, O 5 celsius for Dash 1 35A equipped aircraft. <break time="800ms"/>
 Maximum transient ITT. <break time="500ms"/> 8, 25 celsius for Dash 21 equipped aircraft. <break time="300ms"/> 6, 95 to 8, 25 for two seconds. <break time="300ms"/> 8, 80 celsius for Dash 1 35A equipped aircraft. <break time="300ms"/>8, O 5 to 8, 80 celsius for two seconds. <break time="800ms"/>
@@ -144,7 +144,7 @@ Minimum starting voltage on battery power. <break time="500ms"/> 23 volts. <brea
 Hall effect device specification. <break time="500ms"/> One for each power source, rated at 275 amps. <break time="800ms"/>
 Generator bus current limiter specifications. <break time="500ms"/> One for each generator, rated at 250 amps. <break time="800ms"/>
 Triple fed bus current limiters. <break time="500ms"/> One for each power source, rated at 60 amps. <break time="800ms"/>
-Consider performing takeoffs with the bus voltage selector in the center bus position. <break time="300ms"/> In the event of a center bus short, <break time="300ms"/> both generator current limiters will burn out,<break time="300ms"/> and the battery bus tie will be opened, by the battery bus hall effect device, <break time="300ms"/> isolating the center bus from the rest of the system. <break time="300ms"/> However, <break time="300ms"/>If the landing gear is then retracted, <break time="300ms"/> the battery bus hall effect device will be overridden, and the battery bus tie will be closed, <break time="300ms"/> potentially leading to an electrical fire. <break time="300ms"/> With the bus voltage selector in the center position, <break time="300ms"/> You can quickly identify the shorted bus condition, <break time="300ms"/> as the voltage will indicate 0 volts, <break time="300ms"/> and avoid retracting the landing gear.<break time="800ms"/>
+Consider performing takeoffs with the bus voltage selector in the center bus position. <break time="300ms"/> In the event of a center bus short, <break time="300ms"/> both generator current limiters will burn out,<break time="300ms"/> and the battery bus tie will be opened, by the battery bus hall effect device, <break time="300ms"/> isolating the center bus from the rest of the system. <break time="300ms"/> However, <break time="300ms"/>If the landing gear is then retracted, <break time="300ms"/> the battery bus hall effect device will be overridden, and the battery bus tie will be closed, <break time="300ms"/> potentially leading to an electrical fire. <break time="300ms"/> With the bus voltage selector in the center position, <break time="300ms"/> You can quickly identify the shorted bus condition, <break time="300ms"/> as the voltage will indicate 0 volts. <break time="800ms"/>
 <break time="2s"/>
 
 Fuel System Specifications.
